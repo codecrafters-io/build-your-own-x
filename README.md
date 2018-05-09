@@ -27,7 +27,7 @@
   * [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
   * [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
   * [**Python**: *How To Make A reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0)
-  * [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
+  * [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
   * [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
