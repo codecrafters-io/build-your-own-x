@@ -1,3 +1,5 @@
+**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
+
 # ![Build your own](feynman.png)
 
 * Build your own **3D Renderer**
@@ -165,3 +167,4 @@
   * [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
   * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
+**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
