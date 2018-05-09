@@ -26,7 +26,7 @@
   * [**PHP**: *Let’s write a cryptocurrency bot*](https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae)
   * [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
   * [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
-  * [**Python**: *How To Make A reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0)
+  * [**Python**: *How To Make A reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
   * [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
   * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
   * [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
@@ -42,7 +42,7 @@
 * Build your own **Front-end Framework** / **Library**
   * [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact)
   * [**JavaScript**: *Reverse Engineering React*](https://vimeo.com/album/3930691)
-  * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg)
+  * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
   * [**JavaScript**: *Building Your Own React Clone in Five Easy Steps*](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/)
   * [**JavaScript**: *Build your own Vuejs*](https://github.com/jsrebuild/build-your-own-vuejs)
   * [**JavaScript**: *Build Yourself a Redux*](https://zapier.com/engineering/how-to-build-redux/)
@@ -53,22 +53,22 @@
 
 * Build your own **Docker**
   * [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-  * [**Go**: *Building a container from scratch in Go*](https://www.youtube.com/watch?v=Utf-A4rODH8)
+  * [**Go**: *Building a container from scratch in Go*](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
   * [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker)
   * [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker)
 
 * Build your own **Game**
   * [**C**: *Handmade Hero*](https://handmadehero.org/)
   * [**C**: *How to Program an NES game in C*](https://nesdoug.com/)
-  * [**C**: *Chess Engine In C*](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg)
-  * [**C**: *Let's Make: Dangerous Dave*](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9)
-  * [**C**: *Learn Video Game Programming in C*](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt)
-  * [**C**: *Coding A Sudoku Solver in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW)
-  * [**C**: *Coding a Rogue/Nethack RPG in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G)
+  * [**C**: *Chess Engine In C*](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
+  * [**C**: *Let's Make: Dangerous Dave*](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) [video]
+  * [**C**: *Learn Video Game Programming in C*](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) [video]
+  * [**C**: *Coding A Sudoku Solver in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) [video]
+  * [**C**: *Coding a Rogue/Nethack RPG in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) [video]
   * [**C**: *Tutorial For a Brickout Clone*](https://dashgl.com/)
   * [**C**: *A tutorials for a basic Invaders game made in C with GTK: and OpenGL*](https://dashgl.com/Invaders/)
   * [**C**: *Astroids Tutorial written in C using GTK with OpenGL and DashGL for matrix manipulation*](https://dashgl.com/Astroids/)
-  * [**C++**: *How To Make Minecraft in C++/ OpenGL*](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_)
+  * [**C++**: *How To Make Minecraft in C++/ OpenGL*](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) [video]
   * [**C++**: *Breakout*](https://learnopengl.com/In-Practice/2D-Game/Breakout)
   * [**C++**: *Beginning Game Programming v2.0*](http://lazyfoo.net/tutorials/SDL/)
   * [**C#**: *Learn C# by Building a Simple RPG*](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
@@ -87,7 +87,7 @@
 
 * Build your own **Neural Network**
   * [**C#**: *Neural Network OCR*](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
-  * [**Java**: *Neural Networks: Perceptron*](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be)
+  * [**Java**: *Neural Networks: Perceptron*](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be) [video]
   * [**JavaScript**: *Neural Network implementation in Javascript, by an example*](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
   * [**JavaScript**: *Neural networks from scratch for Javascript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
   * [**JavaScript**: *You can build a neural network in JavaScript even if you don’t really understand neural networks*](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3)
@@ -113,7 +113,7 @@
   * [**C**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
   * [**C**: *http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
   * [**C**: *Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code*](http://www.buildyourownlisp.com/)
-  * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE)
+  * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
   * [**Haskell**: *Let's Build a Compiler*](http://alephnullplex.github.io/cradle/)
   * [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
   * [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler)
@@ -159,7 +159,7 @@
   * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table)
   * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
   * [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
-  * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs)
+  * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
   * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
   * [**Python**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
   * [**Python**: *How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes*](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
