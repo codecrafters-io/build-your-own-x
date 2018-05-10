@@ -23,6 +23,7 @@
   * [**Haskell**: *Roll your own IRC bot*](https://wiki.haskell.org/Roll_your_own_IRC_bot)
   * [**Node.js**: *Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js*](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
   * [**Node.js**: *Why you should have your own Twitter bot, and how to build one in less than 30 minutes*](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
+  * [**Go**: *How to make a responsive telegram bot*](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
   * [**PHP**: *Let’s write a cryptocurrency bot*](https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae)
   * [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
   * [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
@@ -159,6 +160,7 @@
   * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table)
   * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
   * [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+  * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
   * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
   * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
   * [**Python**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
