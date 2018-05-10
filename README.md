@@ -101,6 +101,7 @@
   * [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
   
 * Build your own **Operating System**
+  * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
   * [**C**: *Operating Systems: From 0 to 1*](https://tuhdo.github.io/os01/)
   * [**C**: *The little book about OS development*](https://littleosbook.github.io/)
   * [**C**: *Kernel 101 –Let’s write a Kernel*](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
