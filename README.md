@@ -114,6 +114,7 @@
   * [**C**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
   * [**C**: *http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
   * [**C**: *Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code*](http://www.buildyourownlisp.com/)
+  * [**C++**: *Writing Your Own Toy Compiler Using Flex*](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
   * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
   * [**Haskell**: *Let's Build a Compiler*](http://alephnullplex.github.io/cradle/)
   * [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
