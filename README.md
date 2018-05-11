@@ -165,6 +165,7 @@
   * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
   * [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
   * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+  * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
   * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
   * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
   * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
