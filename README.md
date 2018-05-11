@@ -89,6 +89,7 @@
 
 * Build your own **Neural Network**
   * [**C#**: *Neural Network OCR*](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
+  * [**Go**: *Build a multilayer perceptron with Golang*](https://made2591.github.io/posts/neuralnetwork)
   * [**Java**: *Neural Networks: Perceptron*](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be) [video]
   * [**JavaScript**: *Neural Network implementation in Javascript, by an example*](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
   * [**JavaScript**: *Neural networks from scratch for Javascript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
