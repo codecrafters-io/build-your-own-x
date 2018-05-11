@@ -8,7 +8,7 @@
   * [**Java + JavaScript**: *Build your own 3D renderer*](https://avik-das.github.io/build-your-own-raytracer/)
   * [**Java**: *How to create your own simple 3D render engine in pure Java*](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 
-* Build your own **Blockchain** / **Cryptocurrency** 
+* Build your own **Blockchain** / **Cryptocurrency**
   * [**Ethereum**: *From “What is Blockchain?” to building a blockchain in less than an hour*](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
   * [**Java**: *Creating Your First Blockchain with Java*](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
   * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin)
@@ -39,6 +39,25 @@
   * [**Clojure**: *An Archaeology-Inspired Database*](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
   * [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
   * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
+
+* Build your own **Demoscene demo**
+  * [**Introduction**: *The Demoscene - Algorithm to Art (10min)*](https://www.youtube.com/watch?v=CvV8OBbnwLU)
+  * [**Introduction**: *Elevated by Rgba&TBC (2009, 4 kilobytes)*](https://www.youtube.com/watch?v=jB0vBmiTr6o)
+  * [**Introduction**: *Shapeshift by Cocoon (2016)*](https://www.youtube.com/watch?v=s8Uaoidr9FE)
+  * [**Introduction**: *Esocentrica by ASD+Satori (2017)*](https://www.youtube.com/watch?v=fFs4d7npoyM)
+  * [**Introduction**: *Triad: Neon (2017)*](https://www.youtube.com/watch?v=ZazU4H2OZFg)
+  * [**Inspiration**: *pouët.net: Productions*](http://www.pouet.net/prodlist.php?order=thumbup)
+  * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
+  * [**C**: *Behind Evelated (pdf)*](http://www.iquilezles.org/www/material/function2009/function2009.pdf)
+  * [**Grafx2**: *GrafX2: An introduction*](https://www.youtube.com/watch?v=D8YH7kqspu0)
+  * [**Grafx2**: *"Elements of Green" - time-lapse pixel art*](https://www.youtube.com/watch?v=sQQWMeQOZM8)
+  * [**Blender**: *Blender: Beginner Modelling Tutorial*](https://www.youtube.com/watch?v=yi87Dap_WOc)
+  * [**Wings3D**: *Mug: Step by Step*](https://www.youtube.com/watch?v=EVHQr-NZv3k)
+  * [**Milkytracker**: *Making a Chiptune: Basic Chiptracking*](https://www.youtube.com/watch?v=-TYyDLElP4c)
+  * [**Milkytracker**: *Milkytracker Guide*](https://github.com/hawkthorne/hawkthorne-journey/wiki/Milkytracker-Guide)
+  * [**Rocket**: *Sync-tracker*](https://github.com/rocket/rocket)
+  * [**Vulkan**: *Vulkan tutorial*](https://vulkan-tutorial.com/)
+  * [**Modern OpenGL**: *G-Truc Creation*](http://www.g-truc.net/post-tech-content-sample.html)
 
 * Build your own **Front-end Framework** / **Library**
   * [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact)
@@ -100,7 +119,7 @@
   * [**C**: *Beej's Guide to Network Programming*](http://beej.us/guide/bgnet/html/multi/index.html)
   * [**C**: *Let's code a TCP/IP stack*](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
   * [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
-  
+
 * Build your own **Operating System**
   * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
   * [**C**: *Operating Systems: From 0 to 1*](https://tuhdo.github.io/os01/)
@@ -135,7 +154,7 @@
   * [**JavaScript**: *Build a Regex Engine in Less than 40 Lines of Code*](https://nickdrane.com/build-your-own-regex/)
   * [**Perl**: *How Regexes Work*](https://perl.plover.com/Regex/article.html)
   * [**Scala**: *No Magic: Regular Expressions*](https://rcoh.svbtle.com/no-magic-regular-expressions)
-  
+
 * Build your own **Shell**
   * [**C**: *Tutorial - Write a Shell in C*](https://brennan.io/2015/01/16/write-a-shell-in-c/)
   * [**C**: *Let's build a shell!*](https://github.com/kamalmarhubi/shell-workshop)
