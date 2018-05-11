@@ -105,6 +105,7 @@
   * [**C**: *Operating Systems: From 0 to 1*](https://tuhdo.github.io/os01/)
   * [**C**: *The little book about OS development*](https://littleosbook.github.io/)
   * [**C**: *Kernel 101 –Let’s write a Kernel*](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+  * [**C**: *Build a minimal multi-tasking kernel for ARM from scratch*](https://github.com/jserv/mini-arm-os)
   * [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial)
   * [**C**: *Malloc tutorial*](https://danluu.com/malloc-tutorial/)
   * [**C**: *Hack the virtual memory*](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
