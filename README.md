@@ -127,6 +127,7 @@
   * [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
   * [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler)
   * [**OCaml**: *Writing a C Compiler*](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+  * [**Racket**: *Beautiful Racket: How to make your own programming languages with Racket*](https://beautifulracket.com/)
   * [**Ruby**: *A Compiler From Scratch*](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
   * [**Python**: *A Python Interpreter Written in Python*](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
   * [**Python**: *lisp.py: Make your own Lisp interpreter*](http://khamidou.com/compilers/lisp.py/)
