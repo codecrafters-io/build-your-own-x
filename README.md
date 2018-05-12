@@ -62,7 +62,7 @@
 * Build your own **Game**
   * [**C**: *Handmade Hero*](https://handmadehero.org/)
   * [**C**: *How to Program an NES game in C*](https://nesdoug.com/)
-  * [**C**: *Chess Engine In C*](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
+  * [**C**: *Chess Engine In C*](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
   * [**C**: *Let's Make: Dangerous Dave*](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) [video]
   * [**C**: *Learn Video Game Programming in C*](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) [video]
   * [**C**: *Coding A Sudoku Solver in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) [video]
