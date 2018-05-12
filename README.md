@@ -142,6 +142,7 @@
 * Build your own **Shell**
   * [**C**: *Tutorial - Write a Shell in C*](https://brennan.io/2015/01/16/write-a-shell-in-c/)
   * [**C**: *Let's build a shell!*](https://github.com/kamalmarhubi/shell-workshop)
+  * [**C**: *Writing a UNIX Shell - Part I*](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
   * [**Ruby**: *A Unix Shell in Ruby*](https://www.jstorimer.com/blogs/workingwithcode/7766107-a-unix-shell-in-ruby)
 
 * Build your own **Template Engine**
