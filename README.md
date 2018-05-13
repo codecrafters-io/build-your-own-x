@@ -44,6 +44,7 @@
 * [**Python**: *Learn Blockchains by Building One*](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
 * [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
+* [**Solidity**: *Build Your First Smart Contract*](https://medium.com/crypto-currently/build-your-first-smart-contract-fc36a8ff50ca)
 
 #### Build your own `Bot`
 
