@@ -24,6 +24,7 @@
   * [**Node.js**: *Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js*](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
   * [**Node.js**: *Why you should have your own Twitter bot, and how to build one in less than 30 minutes*](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
   * [**Node.js**: *How to make a responsive telegram bot*](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
+  * [**Node.js**: *Create a Discord bot*](https://discordjs.guide/)
   * [**PHP**: *Let’s write a cryptocurrency bot*](https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae)
   * [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
   * [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
