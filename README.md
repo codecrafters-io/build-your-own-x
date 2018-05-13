@@ -21,7 +21,7 @@
 * [**Python**: *Learn Blockchains by Building One*](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
 * [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
-
+* [**Haskell**: *A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger*](https://github.com/adjoint-io/nanocoin)
 
 #### Build your own `Bot`
 
