@@ -8,7 +8,9 @@
   * [**Java + JavaScript**: *Build your own 3D renderer*](https://avik-das.github.io/build-your-own-raytracer/)
   * [**Java**: *How to create your own simple 3D render engine in pure Java*](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 
-* Build your own **Blockchain** / **Cryptocurrency** 
+#### Build your own **Blockchain** / **Cryptocurrency**
+
+* Build your own **Blockchain** / **Cryptocurrency**
   * [**ATS**: *Functional Blockchain*](https://beta.observablehq.com/@galletti94/functional-blockchain)
   * [**Ethereum**: *From “What is Blockchain?” to building a blockchain in less than an hour*](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
   * [**Java**: *Creating Your First Blockchain with Java*](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
@@ -20,7 +22,7 @@
   * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
   * [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
 
-* Build your own **Bot**
+* Build your own **Bot** [🔗](#bot) <a id="bot" />
   * [**Haskell**: *Roll your own IRC bot*](https://wiki.haskell.org/Roll_your_own_IRC_bot)
   * [**Node.js**: *Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js*](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
   * [**Node.js**: *Why you should have your own Twitter bot, and how to build one in less than 30 minutes*](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
@@ -34,7 +36,7 @@
   * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
   * [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
-* Build your own **Database**
+* Build your own **Database** [#](#database) <a id="database" />
   * [**C**: *Let's Build a Simple Database*](https://cstack.github.io/db_tutorial/)
   * [**C++**: *Implementing a Key-Value Store*](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
   * [**C#**: *Build Your Own Database*](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
@@ -42,7 +44,7 @@
   * [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
   * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 
-* Build your own **Front-end Framework** / **Library**
+* Build your own [**Front-end Framework** / **Library**](#database) <a id="database" />
   * [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact)
   * [**JavaScript**: *Reverse Engineering React*](https://vimeo.com/album/3930691)
   * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
@@ -54,19 +56,19 @@
   * [**JavaScript**: *Build Your own Simplified AngularJS in 200 Lines of JavaScript*](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
   * [**JavaScript**: *How to write your own Virtual DOM*](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 
-* Build your own **Docker**
+#### Build your own *Docker*
   * [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
   * [**Go**: *Building a container from scratch in Go*](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
   * [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker)
   * [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker)
   * [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker)
 
-* Build your own **Game**
+#### Build your own `Game`
   * [**C**: *Handmade Hero*](https://handmadehero.org/)
   * [**C**: *How to Program an NES game in C*](https://nesdoug.com/)
   * [**C**: *Chess Engine In C*](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
   * [**C**: *Let's Make: Dangerous Dave*](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) [video]
-  * [**C**: *Learn Video Game Programming in C*](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt) 
+  * [**C**: *Learn Video Game Programming in C*](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt)
 [video]
   * [**C**: *Coding A Sudoku Solver in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) [video]
   * [**C**: *Coding a Rogue/Nethack RPG in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) [video]
@@ -106,7 +108,7 @@
   * [**C**: *Beej's Guide to Network Programming*](http://beej.us/guide/bgnet/html/multi/index.html)
   * [**C**: *Let's code a TCP/IP stack*](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
   * [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
-  
+
 * Build your own **Operating System**
   * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
   * [**C**: *Operating Systems: From 0 to 1*](https://tuhdo.github.io/os01/)
@@ -144,7 +146,7 @@
   * [**JavaScript**: *Build a Regex Engine in Less than 40 Lines of Code*](https://nickdrane.com/build-your-own-regex/)
   * [**Perl**: *How Regexes Work*](https://perl.plover.com/Regex/article.html)
   * [**Scala**: *No Magic: Regular Expressions*](https://rcoh.svbtle.com/no-magic-regular-expressions)
-  
+
 * Build your own **Shell**
   * [**C**: *Tutorial - Write a Shell in C*](https://brennan.io/2015/01/16/write-a-shell-in-c/)
   * [**C**: *Let's build a shell!*](https://github.com/kamalmarhubi/shell-workshop)
