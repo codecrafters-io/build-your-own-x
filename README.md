@@ -26,6 +26,7 @@
 #### Build your own `Bot`
 
 * [**Haskell**: *Roll your own IRC bot*](https://wiki.haskell.org/Roll_your_own_IRC_bot)
+* [**Java**: *How To Make a Scary Russian Twitter Bot With Java*](https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac)
 * [**Node.js**: *Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js*](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
 * [**Node.js**: *Why you should have your own Twitter bot, and how to build one in less than 30 minutes*](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
 * [**Node.js**: *How to make a responsive telegram bot*](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
@@ -37,7 +38,7 @@
 * [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
 * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
-* [**Java**: *Build a Twitter Bot With Java and Twitter4J*](https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac)
+
 
 #### Build your own `Database`
 
