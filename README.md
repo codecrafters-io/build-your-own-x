@@ -22,7 +22,8 @@
   * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
   * [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
 
-* Build your own **Bot** [🔗](#bot) <a id="bot" />
+<a id="bot" />
+* Build your own **Bot** [🔗](#bot) 
   * [**Haskell**: *Roll your own IRC bot*](https://wiki.haskell.org/Roll_your_own_IRC_bot)
   * [**Node.js**: *Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js*](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
   * [**Node.js**: *Why you should have your own Twitter bot, and how to build one in less than 30 minutes*](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
@@ -36,7 +37,8 @@
   * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
   * [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
-* Build your own **Database** [#](#database) <a id="database" />
+<a id="database" />
+* Build your own **Database** [#](#database) 
   * [**C**: *Let's Build a Simple Database*](https://cstack.github.io/db_tutorial/)
   * [**C++**: *Implementing a Key-Value Store*](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
   * [**C#**: *Build Your Own Database*](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
@@ -44,7 +46,8 @@
   * [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
   * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 
-* Build your own [**Front-end Framework** / **Library**](#database) <a id="database" />
+<a id="frontend" />
+* Build your own [**Front-end Framework** / **Library**](#frontend) 
   * [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact)
   * [**JavaScript**: *Reverse Engineering React*](https://vimeo.com/album/3930691)
   * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
