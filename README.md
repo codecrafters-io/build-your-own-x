@@ -196,7 +196,7 @@
 
 ## How to contribute
 
-Contributions are very welcome. [[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]
+Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
 
 ## License
 
