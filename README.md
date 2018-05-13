@@ -95,6 +95,7 @@
 * [**Ruby**: *Developing Games With Ruby*](https://leanpub.com/developing-games-with-ruby/read)
 
 #### Build your own `Git`
+* [**Haskell**: *Reimplementing “git clone” in Haskell from the bottom up*](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [**JavaScript**: *Gitlet*](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [**JavaScript**: *Build GIT - Learn GIT*](https://kushagragour.in/blog/2014/01/build-git-learn-git/)
 * [**Python**: *Just enough of a Git client to create a repo, commit, and push itself to GitHub*](https://benhoyt.com/writings/pygit/)
