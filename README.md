@@ -14,6 +14,7 @@
 * [**ATS**: *Functional Blockchain*](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**Ethereum**: *From “What is Blockchain?” to building a blockchain in less than an hour*](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
 * [**Go**: *Building Blockchain in Go*](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+* [**Haskell**: *A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger*](https://github.com/adjoint-io/nanocoin)
 * [**Java**: *Creating Your First Blockchain with Java*](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin)
 * [**JavaScript**: *Build your own Blockchain in Javascript*](https://github.com/nambrot/blockchain-in-js)
