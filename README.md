@@ -179,6 +179,7 @@
 * [**C**: *Build Your Own Text Editor*](https://viewsourcecode.org/snaptoken/kilo/)
 * [**C**: *How to Write a Video Player in Less Than 1000 Lines*](http://dranger.com/ffmpeg/ffmpeg.html)
 * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table)
+* [**C**: *Writing an SVG Library*](http://www.code-in-c.com/writing-svg-library-c/)
 * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
 * [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
