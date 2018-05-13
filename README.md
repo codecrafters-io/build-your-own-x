@@ -153,6 +153,8 @@
 * [**C**: *Hack the virtual memory*](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
 * [**C++**: *Writing a Bootloader*](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: *Writing an OS in Rust*](https://os.phil-opp.com/first-edition/)
+* [**Shell**: *Building a Linux OS from scratch*](http://www.linuxfromscratch.org)
+ 
 
 #### Build your own `Programming Language`
 * [**C**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
