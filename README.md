@@ -47,6 +47,12 @@
 * [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 
+#### Build your own `Docker`
+* [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* [**Go**: *Building a container from scratch in Go*](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
+* [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker)
+* [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker)
+* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker)
 
 #### Build your own `Front-end Framework / Library`
 
@@ -60,13 +66,6 @@
 * [**JavaScript**: *Redux: Implementing Store from Scratch*](https://egghead.io/lessons/react-redux-implementing-store-from-scratch)
 * [**JavaScript**: *Build Your own Simplified AngularJS in 200 Lines of JavaScript*](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
 * [**JavaScript**: *How to write your own Virtual DOM*](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
-
-#### Build your own `Docker`
-* [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-* [**Go**: *Building a container from scratch in Go*](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
-* [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker)
-* [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker)
-* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker)
 
 #### Build your own `Game`
 * [**C**: *Handmade Hero*](https://handmadehero.org/)
@@ -97,6 +96,11 @@
 * [**Python**: *Just enough of a Git client to create a repo, commit, and push itself to GitHub*](https://benhoyt.com/writings/pygit/)
 * [**Ruby**: *Rebuilding Git in Ruby*](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
 
+#### Build your own `Network Stack`
+* [**C**: *Beej's Guide to Network Programming*](http://beej.us/guide/bgnet/html/multi/index.html)
+* [**C**: *Let's code a TCP/IP stack*](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+* [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+
 #### Build your own `Neural Network`
 * [**C#**: *Neural Network OCR*](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
 * [**Go**: *Build a multilayer perceptron with Golang*](https://made2591.github.io/posts/neuralnetwork)
@@ -108,11 +112,6 @@
 * [**JavaScript**: *You can build a neural network in JavaScript even if you don’t really understand neural networks*](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3)
 * [**JavaScript**: *How to create a Neural Network in JavaScript in only 30 lines of code*](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49)
 * [**Python**: *Optical Character Recognition (OCR)*](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
-
-#### Build your own `Network Stack`
-* [**C**: *Beej's Guide to Network Programming*](http://beej.us/guide/bgnet/html/multi/index.html)
-* [**C**: *Let's code a TCP/IP stack*](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-* [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
 
 #### Build your own `Operating System`
 * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
