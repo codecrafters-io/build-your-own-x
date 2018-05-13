@@ -37,6 +37,7 @@
 * [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
 * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
+* [**Java**: *Build a Twitter Bot With Java and Twitter4J*](https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac)
 
 #### Build your own `Database`
 
