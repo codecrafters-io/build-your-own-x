@@ -174,10 +174,6 @@
 * [**Python**: *Building a basic HTTP Server from scratch in Python*](http://joaoventura.net/blog/2017/python-webserver/)
 * [**Ruby**: *Building a simple websockets server from scratch in Ruby*](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
-#### Build your own `Window Manager`
-* [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
-* [**C**: *A library for making a simple Wayland compositor*](https://github.com/michaelforney/swc)
-
 #### Uncategorized
 * [**Alloy**: *The Same-Origin Policy*](http://aosabook.org/en/500L/the-same-origin-policy.html)
 * [**C**: *Build Your Own Text Editor*](https://viewsourcecode.org/snaptoken/kilo/)
@@ -186,6 +182,7 @@
 * [**C**: *Writing an SVG Library*](http://www.code-in-c.com/writing-svg-library-c/)
 * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
 * [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
 * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
