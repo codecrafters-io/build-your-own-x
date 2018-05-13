@@ -81,6 +81,7 @@
 
 #### Build your own `Front-end Framework / Library`
 
+* [**JavaScript**: *WTF is JSX (Let's Build a JSX Renderer)*](https://jasonformat.com/wtf-is-jsx/)
 * [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact)
 * [**JavaScript**: *Reverse Engineering React*](https://vimeo.com/album/3930691)
 * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
