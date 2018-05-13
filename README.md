@@ -180,6 +180,7 @@
   * [**Python**: *How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes*](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
   * [**Python**: *Continuous Integration System*](http://aosabook.org/en/500L/a-continuous-integration-system.html)
   * [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+  * [**Python**: *Recommender Systems in Python: Beginner Tutorial*](https://www.datacamp.com/community/tutorials/recommender-systems-python)
   * [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
   * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 
