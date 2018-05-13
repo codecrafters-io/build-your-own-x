@@ -5,11 +5,11 @@
 ## Table of contents 
 
 - [3D Renderer](#build-your-own-3d-renderer)
-- [Blockchain / Cryptocurrency](#build-your-own-blockchain-cryptocurrency)
+- [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 - [Bot](#build-your-own-bot)
 - [Database](#build-your-own-database)
 - [Docker](#build-your-own-docker)
-- [Front-end Framework / Library](#build-your-own-front-end-framework-library)
+- [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 - [Game](#build-your-own-game)
 - [Git](#build-your-own-git)
 - [Neural Network](#build-your-own-neural-network)
