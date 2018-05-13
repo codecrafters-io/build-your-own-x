@@ -59,6 +59,8 @@
 
 #### Build your own `Front-end Framework / Library`
 
+* [**JavaScript**: *Build Your own Simplified AngularJS in 200 Lines of JavaScript*](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
+* [**JavaScript**: *Build Your Own AngularJS*](https://github.com/teropa/build-your-own-angularjs)
 * [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact)
 * [**JavaScript**: *Reverse Engineering React*](https://vimeo.com/album/3930691)
 * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
