@@ -119,7 +119,7 @@
 
 * Build your own **Programming Language**
   * [**C**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
-  * [**C**: *http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+  * [**C**: *Baby's First Garbage Collector*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
   * [**C**: *Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code*](http://www.buildyourownlisp.com/)
   * [**C**: *Implement a minimal interpreter, Compiler (x86/Arm) and JIT compiler from scratch*](https://www.slideshare.net/jserv/jit-compiler)
   * [**C++**: *Writing Your Own Toy Compiler Using Flex*](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
