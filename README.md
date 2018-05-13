@@ -203,6 +203,7 @@
 
 #### Uncategorized
 * [**Alloy**: *The Same-Origin Policy*](http://aosabook.org/en/500L/the-same-origin-policy.html)
+* [**C**: *Building a software and hardware stack for a simple computer from scratch*](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
 * [**C**: *Build Your Own Text Editor*](https://viewsourcecode.org/snaptoken/kilo/)
 * [**C**: *How to Write a Video Player in Less Than 1000 Lines*](http://dranger.com/ffmpeg/ffmpeg.html)
 * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table)
