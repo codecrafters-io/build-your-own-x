@@ -194,7 +194,9 @@
 * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 
-**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
+## How to contribute
+
+Contributions are very welcome. [[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]
 
 ## License
 
