@@ -174,6 +174,10 @@
 * [**Python**: *Building a basic HTTP Server from scratch in Python*](http://joaoventura.net/blog/2017/python-webserver/)
 * [**Ruby**: *Building a simple websockets server from scratch in Ruby*](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
+#### Build your own `Window Manager`
+* [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
+* [**C**: *A library for making a simple Wayland compositor*](https://github.com/michaelforney/swc)
+
 #### Uncategorized
 * [**Alloy**: *The Same-Origin Policy*](http://aosabook.org/en/500L/the-same-origin-policy.html)
 * [**C**: *Build Your Own Text Editor*](https://viewsourcecode.org/snaptoken/kilo/)
