@@ -112,6 +112,7 @@
 * [**C#**: *Creating a Roguelike Game in C#*](https://roguesharp.wordpress.com/)
 * [**JavaScript**: *2D breakout game using Phaser*](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * [**JavaScript**: *How to Make Flappy Bird in HTML5 With Phaser*](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+* [**JavaScript**: *Developing Games with React, Redux, and SVG*](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [**Lua**: *BYTEPATH*](https://github.com/SSYGEN/blog/issues/30)
 * [**Ruby**: *Write Yourself a Roguelike*](https://github.com/thoughtbot/write-yourself-a-roguelike)
 * [**Ruby**: *Developing Games With Ruby*](https://leanpub.com/developing-games-with-ruby/read)
