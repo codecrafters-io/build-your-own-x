@@ -85,6 +85,7 @@
 * [**JavaScript**: *Reverse Engineering React*](https://vimeo.com/album/3930691)
 * [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
 * [**JavaScript**: *Building Your Own React Clone in Five Easy Steps*](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/)
+* [**JavaScript**: *Gooact: React in 160 lines of JavaScript*](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
 * [**JavaScript**: *Build your own Vuejs*](https://github.com/jsrebuild/build-your-own-vuejs)
 * [**JavaScript**: *Build Yourself a Redux*](https://zapier.com/engineering/how-to-build-redux/)
 * [**JavaScript**: *Let’s Write Redux!*](https://www.jamasoftware.com/blog/lets-write-redux/)
