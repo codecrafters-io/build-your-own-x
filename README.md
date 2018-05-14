@@ -9,6 +9,7 @@
 - [Bot](#build-your-own-bot)
 - [Database](#build-your-own-database)
 - [Docker](#build-your-own-docker)
+- [Emulator](#build-your-own-emulator)
 - [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 - [Game](#build-your-own-game)
 - [Git](#build-your-own-git)
@@ -78,6 +79,15 @@
 * [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker)
 * [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker)
+
+#### Build your own `Emulator`
+
+* [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [**C++**: *Emulation tutorial (CHIP-8 interpreter)*](http://www.codeslinger.co.uk/pages/projects/chip8.html)
+* [**C++**: *Emulation tutorial (GameBoy emulator)*](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
+* [**C++**: *Emulation tutorial (Master System emulator)*](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
+* [**Javascript**: *GameBoy Emulation in JavaScript*](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
+* [**Python**: *Emulation Basics: Write your own Chip 8 Emulator/Interpreter*](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 
 #### Build your own `Front-end Framework / Library`
 
@@ -211,7 +221,6 @@
 * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table)
 * [**C**: *Writing an SVG Library*](http://www.code-in-c.com/writing-svg-library-c/)
 * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
-* [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
 * [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
