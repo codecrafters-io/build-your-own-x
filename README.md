@@ -173,6 +173,7 @@
 * [**Python**: *lisp.py: Make your own Lisp interpreter*](http://khamidou.com/compilers/lisp.py/)
 * [**Python**: *Simple Iterator-based Parsing*](http://effbot.org/zone/simple-iterator-parser.htm)
 * [**Python**: *Simple Top-Down Parsing in Python*](http://effbot.org/zone/simple-top-down-parsing.htm)
+* [**Ruby**: *Markdown compiler from scratch in Ruby*](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
 
 #### Build your own `Regex Engine`
 * [**C**: *A Regular Expression Matcher*](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
