@@ -2,7 +2,7 @@
 
 # ![Build your own X](feynman.png)
 
-## Table of contents 
+## Table of contents
 
 - [3D Renderer](#build-your-own-3d-renderer)
 - [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
@@ -237,6 +237,7 @@
 * [**Python**: *Continuous Integration System*](http://aosabook.org/en/500L/a-continuous-integration-system.html)
 * [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 * [**Python**: *Recommender Systems in Python: Beginner Tutorial*](https://www.datacamp.com/community/tutorials/recommender-systems-python)
+* [**Python**: *Write SMS-spam detector with Scikit-learn*](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
 * [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
