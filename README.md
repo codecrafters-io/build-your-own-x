@@ -141,6 +141,7 @@
 * [**JavaScript**: *You can build a neural network in JavaScript even if you don’t really understand neural networks*](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3)
 * [**JavaScript**: *How to create a Neural Network in JavaScript in only 30 lines of code*](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49)
 * [**Python**: *Optical Character Recognition (OCR)*](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
+* [**Python**: *A Neural Network in 11 lines of Python*](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
 #### Build your own `Operating System`
 * [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
