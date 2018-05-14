@@ -123,6 +123,7 @@
 * [**C++**: *Beginning Game Programming v2.0*](http://lazyfoo.net/tutorials/SDL/)
 * [**C#**: *Learn C# by Building a Simple RPG*](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 * [**C#**: *Creating a Roguelike Game in C#*](https://roguesharp.wordpress.com/)
+* [**Go**: *Games With Go*](https://gameswithgo.org/) [video]
 * [**JavaScript**: *2D breakout game using Phaser*](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * [**JavaScript**: *How to Make Flappy Bird in HTML5 With Phaser*](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 * [**JavaScript**: *Developing Games with React, Redux, and SVG*](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
