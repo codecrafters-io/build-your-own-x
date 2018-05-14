@@ -155,7 +155,6 @@
 * [**Rust**: *Writing an OS in Rust*](https://os.phil-opp.com/first-edition/)
 
 #### Build your own `Programming Language`
-* [**C**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
 * [**C**: *Baby's First Garbage Collector*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [**C**: *Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code*](http://www.buildyourownlisp.com/)
 * [**C**: *Implement a minimal interpreter, Compiler (x86/Arm) and JIT compiler from scratch*](https://www.slideshare.net/jserv/jit-compiler)
@@ -164,6 +163,7 @@
 * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
 * [**Haskell**: *Let's Build a Compiler*](http://alephnullplex.github.io/cradle/)
 * [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
+* [**Java**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
 * [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler)
 * [**OCaml**: *Writing a C Compiler*](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 * [**Racket**: *Beautiful Racket: How to make your own programming languages with Racket*](https://beautifulracket.com/)
