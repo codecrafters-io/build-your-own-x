@@ -211,6 +211,7 @@
 * [**C**: *Writing an SVG Library*](http://www.code-in-c.com/writing-svg-library-c/)
 * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
 * [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
 * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
