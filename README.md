@@ -71,6 +71,7 @@
 * [**C++**: *Implementing a Key-Value Store*](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [**C#**: *Build Your Own Database*](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: *An Archaeology-Inspired Database*](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
+* [**Crystal**: *Why you should build you own NoSQL Database*](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
 * [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 
