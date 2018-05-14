@@ -221,6 +221,7 @@
 * [**Ruby**: *Building a simple websockets server from scratch in Ruby*](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
 #### Uncategorized
+* [**(any)**: *From NAND to Tetris: Building a Modern Computer From First Principles*](http://nand2tetris.org/)
 * [**Alloy**: *The Same-Origin Policy*](http://aosabook.org/en/500L/the-same-origin-policy.html)
 * [**C**: *Building a software and hardware stack for a simple computer from scratch*](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
 * [**C**: *Build Your Own Text Editor*](https://viewsourcecode.org/snaptoken/kilo/)
