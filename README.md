@@ -177,6 +177,7 @@
 * [**C**: *Writing a Simple Garbage Collector in C*](http://maplant.com/gc.html)
 * [**C++**: *Writing Your Own Toy Compiler Using Flex*](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
 * [**C++**: *How to Create a Compiler*](https://www.youtube.com/watch?v=eF9qWbuQLuw) [video]
+* [**F#**: *Understanding Parser Combinators*](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
 * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
 * [**Haskell**: *Let's Build a Compiler*](http://alephnullplex.github.io/cradle/)
 * [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
