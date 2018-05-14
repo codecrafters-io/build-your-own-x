@@ -1,8 +1,31 @@
 <!--
-Thanks for contributing! Please submit only tutorials that explain basic concepts and where learners build something from scratch.
+Thanks for contributing! Tutorial in this list should provide a guided path for learners, either through a step-by-step article or by breaking down code into multiple digestible parts that are easy to follow. Please submit only programming tutorials.
 -->
 
-- **Main programming language (max. 1)**:
-- **Tutorial title**:
-- **Tutorial URL**:
-- **Category**:
+### Main programming language
+<!-- max. 1 -->
+
+### Tutorial title
+<!-- the original title from the article, repository, ... -->
+
+### Tutorial URL
+
+### Category
+* [ ] 3D Renderer
+* [ ] Blockchain / Cryptocurrency
+* [ ] Bot
+* [ ] Database
+* [ ] Docker
+* [ ] Emulator
+* [ ] Front-end Framework / Library
+* [ ] Game
+* [ ] Git
+* [ ] Network Stack
+* [ ] Neural Network
+* [ ] Operating System
+* [ ] Programming Language
+* [ ] Regex Engine
+* [ ] Shell
+* [ ] Template Engine
+* [ ] Web Server
+* [ ] Uncategorized
