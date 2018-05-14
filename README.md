@@ -172,6 +172,7 @@
 * [**C**: *Implement a minimal interpreter, Compiler (x86/Arm) and JIT compiler from scratch*](https://www.slideshare.net/jserv/jit-compiler)
 * [**C**: *Writing a Simple Garbage Collector in C*](http://maplant.com/gc.html)
 * [**C++**: *Writing Your Own Toy Compiler Using Flex*](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
+* [**C++**: *How to Create a Compiler*](https://www.youtube.com/watch?v=eF9qWbuQLuw) [video]
 * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
 * [**Haskell**: *Let's Build a Compiler*](http://alephnullplex.github.io/cradle/)
 * [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
