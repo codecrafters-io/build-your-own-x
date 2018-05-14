@@ -2,7 +2,7 @@
 
 # ![Build your own X](feynman.png)
 
-## Table of contents 
+## Table of contents
 
 - [3D Renderer](#build-your-own-3d-renderer)
 - [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
@@ -235,6 +235,8 @@
 * [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
+* [**Python**: _Write SMS-spam detector with Scikit-learn_](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
+* [**Ruby**: _Write your own scss-compiler_](https://medium.com/@kopilov.vlad/write-your-own-scss-compiler-68269278dcce)
 
 ## How to contribute
 
