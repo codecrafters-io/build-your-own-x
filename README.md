@@ -127,9 +127,10 @@
 * [**JavaScript**: *How to Make Flappy Bird in HTML5 With Phaser*](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 * [**JavaScript**: *Developing Games with React, Redux, and SVG*](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [**Lua**: *BYTEPATH*](https://github.com/SSYGEN/blog/issues/30)
+* [**Python**: *Developing Games With PyGame*](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Ruby**: *Write Yourself a Roguelike*](https://github.com/thoughtbot/write-yourself-a-roguelike)
 * [**Ruby**: *Developing Games With Ruby*](https://leanpub.com/developing-games-with-ruby/read)
-* [**Python**: *Developing Games With PyGame*](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
+
 
 #### Build your own `Git`
 * [**Haskell**: *Reimplementing “git clone” in Haskell from the bottom up*](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
