@@ -35,6 +35,7 @@
 #### Build your own `Blockchain / Cryptocurrency`
 
 * [**ATS**: *Functional Blockchain*](https://beta.observablehq.com/@galletti94/functional-blockchain)
+* [**C++**: *How to Make a Cryptocurrency Using Litecoin v0.15 Source*](https://www.hackster.io/pjdecarlo/how-to-make-a-cryptocurrency-using-litecoin-v0-15-source-fb5e82)
 * [**Ethereum**: *From “What is Blockchain?” to building a blockchain in less than an hour*](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
 * [**Go**: *Building Blockchain in Go*](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
 * [**Haskell**: *A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger*](https://github.com/adjoint-io/nanocoin)
