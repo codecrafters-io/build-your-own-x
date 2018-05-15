@@ -47,6 +47,7 @@
 * [**JavaScript**: *How To Launch Your Own Production-Ready Cryptocurrency*](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
 * [**Python**: *Learn Blockchains by Building One*](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
+* [**Python**: *Building an automated Cryptocurrency trading bot with Python on Binance*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw) [video]
 * [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
 
 #### Build your own `Bot`
