@@ -203,9 +203,6 @@
 * [**Python**: *Building a basic HTTP Server from scratch in Python*](http://joaoventura.net/blog/2017/python-webserver/)
 * [**Ruby**: *Building a simple websockets server from scratch in Ruby*](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
-#### Build your own `CI Server`
-* [**Ruby**: *Writing a CI Server*](https://developer.github.com/v3/guides/building-a-ci-server/)
-
 #### Uncategorized
 * [**Alloy**: *The Same-Origin Policy*](http://aosabook.org/en/500L/the-same-origin-policy.html)
 * [**C**: *Building a software and hardware stack for a simple computer from scratch*](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
@@ -226,6 +223,7 @@
 * [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 * [**Python**: *Recommender Systems in Python: Beginner Tutorial*](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 * [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
+* [**Ruby**: *Writing a CI Server*](https://developer.github.com/v3/guides/building-a-ci-server/)
 * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 
