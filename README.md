@@ -48,6 +48,7 @@
 * [**Python**: *Learn Blockchains by Building One*](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
 * [**Python**: *Building an automated Cryptocurrency trading bot with Python on Binance*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw) [video]
+* [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/yukimotopress/programming-blockchains-step-by-step)
 * [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
 
 #### Build your own `Bot`
