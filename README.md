@@ -242,6 +242,12 @@
 * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
 * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
 * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
+* [**Nim**: *Writing a DMIDecode Parser*](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
+* [**Nim**: *Writing a Bencode Parser*](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
+* [**Nim**: *Writing a INI Parser*](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
+* [**Nim**: *Writing a Link Checker*](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
+* [**Nim**: *Writing a stow alternative to manage dotfiles*](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
+* [**Nim**: *Writing a URL Shortening Service*](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
 * [**Python**: *How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes*](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
 * [**Python**: *Continuous Integration System*](http://aosabook.org/en/500L/a-continuous-integration-system.html)
 * [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
