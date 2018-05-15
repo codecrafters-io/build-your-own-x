@@ -249,7 +249,12 @@
 * [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
-
+* [**Nim**: *Write DMIDecode Parser*](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
+* [**Nim**: *Write Bencode Parser*](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
+* [**Nim**: *Write INI parser*](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
+* [**Nim**: *Learn async/await by writing linkschecker*](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
+* [**Nim**: *Write a stow alternative to manage your dotfiles*](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
+* [**Nim**: *URL Shortening service*](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
 ## How to contribute
 
 Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
