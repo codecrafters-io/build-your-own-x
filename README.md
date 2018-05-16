@@ -42,9 +42,9 @@
 * [**Haskell**: *A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger*](https://github.com/adjoint-io/nanocoin)
 * [**Java**: *Creating Your First Blockchain with Java*](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
 * [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin)
-* [**JavaScript**: *Build your own Blockchain in Javascript*](https://github.com/nambrot/blockchain-in-js)
-* [**JavaScript**: *Learn & Build a Javascript Blockchain*](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
-* [**JavaScript**: *Creating a blockchain with Javascript*](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) [video]
+* [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js)
+* [**JavaScript**: *Learn & Build a JavaScript Blockchain*](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
+* [**JavaScript**: *Creating a blockchain with JavaScript*](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) [video]
 * [**JavaScript**: *How To Launch Your Own Production-Ready Cryptocurrency*](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
 * [**Python**: *Learn Blockchains by Building One*](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
 * [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
@@ -94,7 +94,7 @@
 * [**C++**: *Emulation tutorial (CHIP-8 interpreter)*](http://www.codeslinger.co.uk/pages/projects/chip8.html)
 * [**C++**: *Emulation tutorial (GameBoy emulator)*](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
 * [**C++**: *Emulation tutorial (Master System emulator)*](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
-* [**Javascript**: *GameBoy Emulation in JavaScript*](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
+* [**JavaScript**: *GameBoy Emulation in JavaScript*](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
 * [**Python**: *Emulation Basics: Write your own Chip 8 Emulator/Interpreter*](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 
 #### Build your own `Front-end Framework / Library`
@@ -157,8 +157,8 @@
 * [**Go**: *How to build a simple artificial neural network with Go*](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**Go**: *Building a Neural Net from Scratch in Go*](https://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
 * [**Java**: *Neural Networks: Perceptron*](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be) [video]
-* [**JavaScript**: *Neural Network implementation in Javascript, by an example*](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
-* [**JavaScript**: *Neural networks from scratch for Javascript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
+* [**JavaScript**: *Neural Network implementation in JavaScript, by an example*](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
+* [**JavaScript**: *Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
 * [**JavaScript**: *You can build a neural network in JavaScript even if you don’t really understand neural networks*](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3)
 * [**JavaScript**: *How to create a Neural Network in JavaScript in only 30 lines of code*](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49)
 * [**Python**: *Optical Character Recognition (OCR)*](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
