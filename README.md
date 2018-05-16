@@ -243,6 +243,7 @@
 * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
 * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
 * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
+* [**JavaScript**: *Implementing promises from scratch (TDD way)*](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
 * [**Nim**: *Writing a DMIDecode Parser*](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
 * [**Nim**: *Writing a Bencode Parser*](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
 * [**Nim**: *Writing a INI Parser*](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
