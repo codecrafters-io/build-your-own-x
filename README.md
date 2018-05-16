@@ -16,6 +16,7 @@
 - [Network Stack](#build-your-own-network-stack)
 - [Neural Network](#build-your-own-neural-network)
 - [Operating System](#build-your-own-operating-system)
+- [Physics Engine](#build-your-own-physics-engine)
 - [Programming Language](#build-your-own-programming-language)
 - [Regex Engine](#build-your-own-regex-engine)
 - [Shell](#build-your-own-shell)
@@ -175,6 +176,18 @@
 * [**C**: *Hack the virtual memory*](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
 * [**C++**: *Writing a Bootloader*](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: *Writing an OS in Rust*](https://os.phil-opp.com/first-edition/)
+
+#### Build your own `Physics Engine`
+* [**C**: *Game physics series by Allen Chou*](http://allenchou.net/game-physics-series/)
+* [**C**: *Video Game Physics Tutorial*](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+* [**C++**: *How to Create a Custom Physics Engine*](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
+* [**C++**: *Game physics series by Glenn Fiedler*](https://gafferongames.com/post/integration_basics/)
+* [**C++**: *3D Physics Engine Tutorial*](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) [video]
+* [**C#**: *TowerFall Physics*](https://mattmakesgames.tumblr.com/post/127890619821/towerfall-physics)
+* [**JavaScript**: *Build your own basic physics engine in JavaScript*](https://www.graphitedigital.com/blog/build-your-own-basic-physics-engine-in-javascript)
+* [**JavaScript**: *How Physics Engines Work*](http://buildnewgames.com/gamephysics/)
+* [**JavaScript**: *Broad Phase Collision Detection Using Spatial Partitioning*](http://buildnewgames.com/broad-phase-collision-detection/)
+* [**JavaScript**: *Build a simple 2D physics engine for JavaScript games*](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/index.html)
 
 #### Build your own `Programming Language`
 * [**C**: *Baby's First Garbage Collector*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
