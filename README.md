@@ -64,7 +64,7 @@
 * [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
 * [**Python**: *How to Build Your First Slack Bot with Python*](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 * [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
-* [**Python**: *How To Make A reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
+* [**Python**: *How To Make A Reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
 * [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
 * [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**Python**: *Creating Reddit Bot with Python & PRAW*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
@@ -77,7 +77,7 @@
 * [**C++**: *Implementing a Key-Value Store*](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [**C#**: *Build Your Own Database*](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: *An Archaeology-Inspired Database*](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
-* [**Crystal**: *Why you should build you own NoSQL Database*](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
+* [**Crystal**: *Why you should build your own NoSQL Database*](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
 * [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 
