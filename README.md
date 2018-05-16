@@ -185,6 +185,7 @@
 * [**C++**: *How to Create a Compiler*](https://www.youtube.com/watch?v=eF9qWbuQLuw) [video]
 * [**F#**: *Understanding Parser Combinators*](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
 * [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
+* [**Go**: Writing An Interpreter in Go](https://interpreterbook.com/)
 * [**Haskell**: *Let's Build a Compiler*](http://alephnullplex.github.io/cradle/)
 * [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
 * [**Java**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
