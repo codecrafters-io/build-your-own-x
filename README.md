@@ -63,6 +63,7 @@
 * [**Node.js**: *How to make a responsive telegram bot*](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
 * [**Node.js**: *Create a Discord bot*](https://discordjs.guide/)
 * [**PHP**: *Let’s write a cryptocurrency bot*](https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae)
+* [**Python**: *Chatbot Fundamentals: An interactive guide to writing bots in Python*](https://apps.worldwritable.com/tutorials/chatbot/)
 * [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
 * [**Python**: *How to Build Your First Slack Bot with Python*](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 * [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
