@@ -4,293 +4,306 @@
 
 ## Table of contents
 
-- [3D Renderer](#build-your-own-3d-renderer)
-- [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
-- [Bot](#build-your-own-bot)
-- [Database](#build-your-own-database)
-- [Docker](#build-your-own-docker)
-- [Emulator](#build-your-own-emulator)
-- [Front-end Framework / Library](#build-your-own-front-end-framework--library)
-- [Game](#build-your-own-game)
-- [Git](#build-your-own-git)
-- [Network Stack](#build-your-own-network-stack)
-- [Neural Network](#build-your-own-neural-network)
-- [Operating System](#build-your-own-operating-system)
-- [Physics Engine](#build-your-own-physics-engine)
-- [Programming Language](#build-your-own-programming-language)
-- [Regex Engine](#build-your-own-regex-engine)
-- [Search Engine](#build-your-own-search-engine)
-- [Shell](#build-your-own-shell)
-- [Template Engine](#build-your-own-template-engine)
-- [Web Search Engine](#build-your-own-web-search-engine)
-- [Web Server](#build-your-own-web-server)
-- [Uncategorized](#uncategorized)
+* [3D Renderer](#build-your-own-3d-renderer)
+* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
+* [Bot](#build-your-own-bot)
+* [Database](#build-your-own-database)
+* [Docker](#build-your-own-docker)
+* [Emulator](#build-your-own-emulator)
+* [Front-end Framework / Library](#build-your-own-front-end-framework--library)
+* [Game](#build-your-own-game)
+* [Git](#build-your-own-git)
+* [Network Stack](#build-your-own-network-stack)
+* [Neural Network](#build-your-own-neural-network)
+* [Operating System](#build-your-own-operating-system)
+* [Physics Engine](#build-your-own-physics-engine)
+* [Programming Language](#build-your-own-programming-language)
+* [Regex Engine](#build-your-own-regex-engine)
+* [Search Engine](#build-your-own-search-engine)
+* [Shell](#build-your-own-shell)
+* [Template Engine](#build-your-own-template-engine)
+* [Web Search Engine](#build-your-own-web-search-engine)
+* [Web Server](#build-your-own-web-server)
+* [Uncategorized](#uncategorized)
 
 ## Tutorials
 
 #### Build your own `3D Renderer`
 
-* [**C++**: *Introduction to Ray Tracing: a Simple Method for Creating 3D Images*](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
-* [**C++**: *How OpenGL works: software rendering in 500 lines of code*](https://github.com/ssloy/tinyrenderer/wiki)
-* [**C++**: *Raycasting engine of Wolfenstein 3D*](http://lodev.org/cgtutor/raycasting.html)
-* [**C# / TypeScript / JavaScript**: *Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript*](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
-* [**Java / JavaScript**: *Build your own 3D renderer*](https://avik-das.github.io/build-your-own-raytracer/)
-* [**Java**: *How to create your own simple 3D render engine in pure Java*](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
+* [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
+* [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
+* [**C++**: _Raycasting engine of Wolfenstein 3D_](http://lodev.org/cgtutor/raycasting.html)
+* [**C# / TypeScript / JavaScript**: _Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript_](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
+* [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
+* [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 
 #### Build your own `Blockchain / Cryptocurrency`
 
-* [**ATS**: *Functional Blockchain*](https://beta.observablehq.com/@galletti94/functional-blockchain)
-* [**Ethereum**: *From “What is Blockchain?” to building a blockchain in less than an hour*](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
-* [**Go**: *Building Blockchain in Go*](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
-* [**Go**: *Code your own blockchain in less than 200 lines of Go*](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
-* [**Haskell**: *A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger*](https://github.com/adjoint-io/nanocoin)
-* [**Java**: *Creating Your First Blockchain with Java*](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
-* [**JavaScript**: *A cryptocurrency implementation in less than 1500 lines of code*](https://github.com/conradoqg/naivecoin)
-* [**JavaScript**: *Build your own Blockchain in JavaScript*](https://github.com/nambrot/blockchain-in-js)
-* [**JavaScript**: *Learn & Build a JavaScript Blockchain*](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
-* [**JavaScript**: *Creating a blockchain with JavaScript*](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) [video]
-* [**JavaScript**: *How To Launch Your Own Production-Ready Cryptocurrency*](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
-* [**Python**: *Learn Blockchains by Building One*](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
-* [**Python**: *Build your own blockchain: a Python tutorial*](http://ecomunsing.com/build-your-own-blockchain)
-* [**Python**: *Building an automated Cryptocurrency trading bot with Python on Binance*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw) [video]
-* [**Ruby**: *Programming Blockchains Step-by-Step (Manuscripts Book Edition)*](https://github.com/yukimotopress/programming-blockchains-step-by-step)
-* [**TypeScript**: *Naivecoin: a tutorial for building a cryptocurrency*](https://lhartikk.github.io/)
+* [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
+* [**Ethereum**: _From “What is Blockchain?” to building a blockchain in less than an hour_](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
+* [**Go**: _Building Blockchain in Go_](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
+* [**Go**: _Code your own blockchain in less than 200 lines of Go_](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
+* [**Haskell**: _A simple cryptocurrency implementation, written to illustrate the basic components of a Proof-of-Work based public distributed ledger_](https://github.com/adjoint-io/nanocoin)
+* [**Java**: _Creating Your First Blockchain with Java_](https://medium.com/programmers-blockchain/create-simple-blockchain-java-tutorial-from-scratch-6eeed3cb03fa)
+* [**JavaScript**: _A cryptocurrency implementation in less than 1500 lines of code_](https://github.com/conradoqg/naivecoin)
+* [**JavaScript**: _Build your own Blockchain in JavaScript_](https://github.com/nambrot/blockchain-in-js)
+* [**JavaScript**: _Learn & Build a JavaScript Blockchain_](https://medium.com/digital-alchemy-holdings/learn-build-a-javascript-blockchain-part-1-ca61c285821e)
+* [**JavaScript**: _Creating a blockchain with JavaScript_](https://www.youtube.com/watch?v=zVqczFZr124&list=PLzvRQMJ9HDiTqZmbtFisdXFxul5k0F-Q4) [video]
+* [**JavaScript**: _How To Launch Your Own Production-Ready Cryptocurrency_](https://hackernoon.com/how-to-launch-your-own-production-ready-cryptocurrency-ab97cb773371)
+* [**Python**: _Learn Blockchains by Building One_](https://hackernoon.com/learn-blockchains-by-building-one-117428612f46)
+* [**Python**: _Build your own blockchain: a Python tutorial_](http://ecomunsing.com/build-your-own-blockchain)
+* [**Python**: _Building an automated Cryptocurrency trading bot with Python on Binance_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ-2Qq6GFW-knNyAR9PcOwPw) [video]
+* [**Ruby**: _Programming Blockchains Step-by-Step (Manuscripts Book Edition)_](https://github.com/yukimotopress/programming-blockchains-step-by-step)
+* [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
 
 #### Build your own `Bot`
 
-* [**Haskell**: *Roll your own IRC bot*](https://wiki.haskell.org/Roll_your_own_IRC_bot)
-* [**Java**: *How To Make a Scary Russian Twitter Bot With Java*](https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac)
-* [**Node.js**: *Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js*](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
-* [**Node.js**: *Why you should have your own Twitter bot, and how to build one in less than 30 minutes*](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
-* [**Node.js**: *How to make a responsive telegram bot*](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
-* [**Node.js**: *Create a Discord bot*](https://discordjs.guide/)
-* [**PHP**: *Let’s write a cryptocurrency bot*](https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae)
-* [**Python**: *Chatbot Fundamentals: An interactive guide to writing bots in Python*](https://apps.worldwritable.com/tutorials/chatbot/)
-* [**Python**: *Step-by-Step Instructions for Building a Basic Facebook Chat Bot*](https://blog.hartleybrody.com/fb-messenger-bot/)
-* [**Python**: *How to Build Your First Slack Bot with Python*](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
-* [**Python**: *Build a Reddit Bot*](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
-* [**Python**: *How To Make A Reddit Bot*](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
-* [**Python**: *How To Create a Telegram Bot Using Python*](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
-* [**Python**: *Create a Twitter Bot in Python Using Tweepy*](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
-* [**Python**: *Creating Reddit Bot with Python & PRAW*](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
-* [**R**: *Build A Cryptocurrency Trading Bot with R*](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
-
+* [**Haskell**: _Roll your own IRC bot_](https://wiki.haskell.org/Roll_your_own_IRC_bot)
+* [**Java**: _How To Make a Scary Russian Twitter Bot With Java_](https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac)
+* [**Node.js**: _Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js_](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
+* [**Node.js**: _Why you should have your own Twitter bot, and how to build one in less than 30 minutes_](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
+* [**Node.js**: _How to make a responsive telegram bot_](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
+* [**Node.js**: _Create a Discord bot_](https://discordjs.guide/)
+* [**PHP**: _Let’s write a cryptocurrency bot_](https://medium.com/@joeldg/an-advanced-tutorial-a-new-crypto-currency-trading-bot-boilerplate-framework-e777733607ae)
+* [**Python**: _Chatbot Fundamentals: An interactive guide to writing bots in Python_](https://apps.worldwritable.com/tutorials/chatbot/)
+* [**Python**: _Step-by-Step Instructions for Building a Basic Facebook Chat Bot_](https://blog.hartleybrody.com/fb-messenger-bot/)
+* [**Python**: _How to Build Your First Slack Bot with Python_](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
+* [**Python**: _Build a Reddit Bot_](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
+* [**Python**: _How To Make A Reddit Bot_](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
+* [**Python**: _How To Create a Telegram Bot Using Python_](https://khashtamov.com/en/how-to-create-a-telegram-bot-using-python/)
+* [**Python**: _Create a Twitter Bot in Python Using Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
+* [**Python**: _Creating Reddit Bot with Python & PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
+* [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 
 #### Build your own `Database`
 
-* [**C**: *Let's Build a Simple Database*](https://cstack.github.io/db_tutorial/)
-* [**C++**: *Implementing a Key-Value Store*](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
-* [**C#**: *Build Your Own Database*](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
-* [**Clojure**: *An Archaeology-Inspired Database*](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
-* [**Crystal**: *Why you should build your own NoSQL Database*](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
-* [**JavaScript**: *Dagoba: an in-memory graph database*](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
-* [**Python**: *DBDB: Dog Bed Database*](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
+* [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
+* [**C++**: _Implementing a Key-Value Store_](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
+* [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
+* [**Clojure**: _An Archaeology-Inspired Database_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
+* [**Crystal**: _Why you should build your own NoSQL Database_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
+* [**JavaScript**: _Dagoba: an in-memory graph database_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
+* [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 
 #### Build your own `Docker`
-* [**C**: *Linux containers in 500 lines of code*](https://blog.lizzie.io/linux-containers-in-500-loc.html)
-* [**Go**: *Building a container from scratch in Go*](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
-* [**Python**: *A workshop on Linux containers: Rebuild Docker from Scratch*](https://github.com/Fewbytes/rubber-docker)
-* [**Python**: *A proof-of-concept imitation of Docker, written in 100% Python*](https://github.com/tonybaloney/mocker)
-* [**Shell**: *Docker implemented in around 100 lines of bash*](https://github.com/p8952/bocker)
+
+* [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
+* [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=Utf-A4rODH8) [video]
+* [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
+* [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
+* [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
 
 #### Build your own `Emulator`
 
-* [**C++**: *How to write an emulator (CHIP-8 interpreter)*](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
-* [**C++**: *Emulation tutorial (CHIP-8 interpreter)*](http://www.codeslinger.co.uk/pages/projects/chip8.html)
-* [**C++**: *Emulation tutorial (GameBoy emulator)*](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
-* [**C++**: *Emulation tutorial (Master System emulator)*](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
-* [**JavaScript**: *GameBoy Emulation in JavaScript*](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
-* [**Python**: *Emulation Basics: Write your own Chip 8 Emulator/Interpreter*](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
+* [**C++**: _How to write an emulator (CHIP-8 interpreter)_](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
+* [**C++**: _Emulation tutorial (CHIP-8 interpreter)_](http://www.codeslinger.co.uk/pages/projects/chip8.html)
+* [**C++**: _Emulation tutorial (GameBoy emulator)_](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
+* [**C++**: _Emulation tutorial (Master System emulator)_](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
+* [**JavaScript**: _GameBoy Emulation in JavaScript_](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
+* [**Python**: _Emulation Basics: Write your own Chip 8 Emulator/Interpreter_](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 
 #### Build your own `Front-end Framework / Library`
 
-* [**JavaScript**: *WTF is JSX (Let's Build a JSX Renderer)*](https://jasonformat.com/wtf-is-jsx/)
-* [**JavaScript**: *A DIY guide to build your own React*](https://github.com/hexacta/didact)
-* [**JavaScript**: *Reverse Engineering React*](https://vimeo.com/album/3930691)
-* [**JavaScript**: *Building React From Scratch*](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
-* [**JavaScript**: *Building Your Own React Clone in Five Easy Steps*](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/)
-* [**JavaScript**: *Gooact: React in 160 lines of JavaScript*](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
-* [**JavaScript**: *Build your own Vuejs*](https://github.com/jsrebuild/build-your-own-vuejs)
-* [**JavaScript**: *Build Yourself a Redux*](https://zapier.com/engineering/how-to-build-redux/)
-* [**JavaScript**: *Let’s Write Redux!*](https://www.jamasoftware.com/blog/lets-write-redux/)
-* [**JavaScript**: *Redux: Implementing Store from Scratch*](https://egghead.io/lessons/react-redux-implementing-store-from-scratch)
-* [**JavaScript**: *Build Your own Simplified AngularJS in 200 Lines of JavaScript*](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
-* [**JavaScript**: *How to write your own Virtual DOM*](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
+* [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
+* [**JavaScript**: _A DIY guide to build your own React_](https://github.com/hexacta/didact)
+* [**JavaScript**: _Reverse Engineering React_](https://vimeo.com/album/3930691)
+* [**JavaScript**: _Building React From Scratch_](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
+* [**JavaScript**: _Building Your Own React Clone in Five Easy Steps_](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/)
+* [**JavaScript**: _Gooact: React in 160 lines of JavaScript_](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
+* [**JavaScript**: _Build your own Vuejs_](https://github.com/jsrebuild/build-your-own-vuejs)
+* [**JavaScript**: _Build Yourself a Redux_](https://zapier.com/engineering/how-to-build-redux/)
+* [**JavaScript**: _Let’s Write Redux!_](https://www.jamasoftware.com/blog/lets-write-redux/)
+* [**JavaScript**: _Redux: Implementing Store from Scratch_](https://egghead.io/lessons/react-redux-implementing-store-from-scratch)
+* [**JavaScript**: _Build Your own Simplified AngularJS in 200 Lines of JavaScript_](https://blog.mgechev.com/2015/03/09/build-learn-your-own-light-lightweight-angularjs/)
+* [**JavaScript**: _How to write your own Virtual DOM_](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 
 #### Build your own `Game`
-* [**C**: *Handmade Hero*](https://handmadehero.org/)
-* [**C**: *How to Program an NES game in C*](https://nesdoug.com/)
-* [**C**: *Chess Engine In C*](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
-* [**C**: *Let's Make: Dangerous Dave*](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) [video]
-* [**C**: *Learn Video Game Programming in C*](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt)
-[video]
-* [**C**: *Coding A Sudoku Solver in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) [video]
-* [**C**: *Coding a Rogue/Nethack RPG in C*](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) [video]
-* [**C**: *Tutorial For a Brickout Clone*](https://dashgl.com/)
-* [**C**: *A tutorials for a basic Invaders game made in C with GTK: and OpenGL*](https://dashgl.com/Invaders/)
-* [**C**: *Astroids Tutorial written in C using GTK with OpenGL and DashGL for matrix manipulation*](https://dashgl.com/Astroids/)
-* [**C++**: *How To Make Minecraft in C++/ OpenGL*](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) [video]
-* [**C++**: *Breakout*](https://learnopengl.com/In-Practice/2D-Game/Breakout)
-* [**C++**: *Beginning Game Programming v2.0*](http://lazyfoo.net/tutorials/SDL/)
-* [**C#**: *Learn C# by Building a Simple RPG*](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
-* [**C#**: *Creating a Roguelike Game in C#*](https://roguesharp.wordpress.com/)
-* [**Go**: *Games With Go*](https://gameswithgo.org/) [video]
-* [**JavaScript**: *2D breakout game using Phaser*](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
-* [**JavaScript**: *How to Make Flappy Bird in HTML5 With Phaser*](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
-* [**JavaScript**: *Developing Games with React, Redux, and SVG*](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
-* [**JavaScript**: *Build your own 8-Ball Pool game from scratch*](https://www.youtube.com/watch?v=aXwCrtAo4Wc) [video]
-* [**Lua**: *BYTEPATH*](https://github.com/SSYGEN/blog/issues/30)
-* [**Python**: *Developing Games With PyGame*](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
-* [**Python**: *Making Games with Python & Pygame*](https://inventwithpython.com/makinggames.pdf) [pdf]
-* [**Ruby**: *Write Yourself a Roguelike*](https://github.com/thoughtbot/write-yourself-a-roguelike)
-* [**Ruby**: *Developing Games With Ruby*](https://leanpub.com/developing-games-with-ruby/read)
 
+* [**C**: _Handmade Hero_](https://handmadehero.org/)
+* [**C**: _How to Program an NES game in C_](https://nesdoug.com/)
+* [**C**: _Chess Engine In C_](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
+* [**C**: _Let's Make: Dangerous Dave_](https://www.youtube.com/playlist?list=PLSkJey49cOgTSj465v2KbLZ7LMn10bCF9) [video]
+* [**C**: _Learn Video Game Programming in C_](https://www.youtube.com/playlist?list=PLT6WFYYZE6uLMcPGS3qfpYm7T_gViYMMt)
+  [video]
+* [**C**: _Coding A Sudoku Solver in C_](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) [video]
+* [**C**: _Coding a Rogue/Nethack RPG in C_](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) [video]
+* [**C**: _Tutorial For a Brickout Clone_](https://dashgl.com/)
+* [**C**: _A tutorials for a basic Invaders game made in C with GTK: and OpenGL_](https://dashgl.com/Invaders/)
+* [**C**: _Astroids Tutorial written in C using GTK with OpenGL and DashGL for matrix manipulation_](https://dashgl.com/Astroids/)
+* [**C++**: _How To Make Minecraft in C++/ OpenGL_](https://www.youtube.com/playlist?list=PLMZ_9w2XRxiZq1vfw1lrpCMRDufe2MKV_) [video]
+* [**C++**: _Breakout_](https://learnopengl.com/In-Practice/2D-Game/Breakout)
+* [**C++**: _Beginning Game Programming v2.0_](http://lazyfoo.net/tutorials/SDL/)
+* [**C#**: _Learn C# by Building a Simple RPG_](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+* [**C#**: _Creating a Roguelike Game in C#_](https://roguesharp.wordpress.com/)
+* [**Go**: _Games With Go_](https://gameswithgo.org/) [video]
+* [**JavaScript**: _2D breakout game using Phaser_](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
+* [**JavaScript**: _How to Make Flappy Bird in HTML5 With Phaser_](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+* [**JavaScript**: _Developing Games with React, Redux, and SVG_](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
+* [**JavaScript**: _Build your own 8-Ball Pool game from scratch_](https://www.youtube.com/watch?v=aXwCrtAo4Wc) [video]
+* [**Lua**: _BYTEPATH_](https://github.com/SSYGEN/blog/issues/30)
+* [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
+* [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
+* [**Ruby**: _Write Yourself a Roguelike_](https://github.com/thoughtbot/write-yourself-a-roguelike)
+* [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
 
 #### Build your own `Git`
-* [**Haskell**: *Reimplementing “git clone” in Haskell from the bottom up*](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
-* [**JavaScript**: *Gitlet*](http://gitlet.maryrosecook.com/docs/gitlet.html)
-* [**JavaScript**: *Build GIT - Learn GIT*](https://kushagragour.in/blog/2014/01/build-git-learn-git/)
-* [**Python**: *Just enough of a Git client to create a repo, commit, and push itself to GitHub*](https://benhoyt.com/writings/pygit/)
-* [**Ruby**: *Rebuilding Git in Ruby*](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+
+* [**Haskell**: _Reimplementing “git clone” in Haskell from the bottom up_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
+* [**JavaScript**: _Gitlet_](http://gitlet.maryrosecook.com/docs/gitlet.html)
+* [**JavaScript**: _Build GIT - Learn GIT_](https://kushagragour.in/blog/2014/01/build-git-learn-git/)
+* [**Python**: _Just enough of a Git client to create a repo, commit, and push itself to GitHub_](https://benhoyt.com/writings/pygit/)
+* [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
 
 #### Build your own `Network Stack`
-* [**C**: *Beej's Guide to Network Programming*](http://beej.us/guide/bgnet/html/multi/index.html)
-* [**C**: *Let's code a TCP/IP stack*](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
-* [**Ruby**: *How to build a network stack in Ruby*](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+
+* [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/html/multi/index.html)
+* [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+* [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
 
 #### Build your own `Neural Network`
-* [**C#**: *Neural Network OCR*](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
-* [**Go**: *Build a multilayer perceptron with Golang*](https://made2591.github.io/posts/neuralnetwork)
-* [**Go**: *How to build a simple artificial neural network with Go*](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
-* [**Go**: *Building a Neural Net from Scratch in Go*](https://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
-* [**Java**: *Neural Networks: Perceptron*](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be) [video]
-* [**JavaScript**: *Neural Network implementation in JavaScript, by an example*](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
-* [**JavaScript**: *Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)*](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
-* [**JavaScript**: *You can build a neural network in JavaScript even if you don’t really understand neural networks*](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3)
-* [**JavaScript**: *How to create a Neural Network in JavaScript in only 30 lines of code*](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49)
-* [**Python**: *Optical Character Recognition (OCR)*](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
-* [**Python**: *A Neural Network in 11 lines of Python*](https://iamtrask.github.io/2015/07/12/basic-python-network/)
+
+* [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
+* [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
+* [**Go**: _How to build a simple artificial neural network with Go_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
+* [**Go**: _Building a Neural Net from Scratch in Go_](https://www.datadan.io/building-a-neural-net-from-scratch-in-go/)
+* [**Java**: _Neural Networks: Perceptron_](https://www.youtube.com/watch?v=ntKn5TPHHAk&feature=youtu.be) [video]
+* [**JavaScript**: _Neural Network implementation in JavaScript, by an example_](https://franpapers.com/en/machine-learning-ai-en/2017-neural-network-implementation-in-javascript-by-an-example/)
+* [**JavaScript**: _Neural networks from scratch for JavaScript linguists (Part1 — The Perceptron)_](https://hackernoon.com/neural-networks-from-scratch-for-javascript-linguists-part1-the-perceptron-632a4d1fbad2)
+* [**JavaScript**: _You can build a neural network in JavaScript even if you don’t really understand neural networks_](https://itnext.io/you-can-build-a-neural-network-in-javascript-even-if-you-dont-really-understand-neural-networks-e63e12713a3)
+* [**JavaScript**: _How to create a Neural Network in JavaScript in only 30 lines of code_](https://medium.freecodecamp.org/how-to-create-a-neural-network-in-javascript-in-only-30-lines-of-code-343dafc50d49)
+* [**Python**: _Optical Character Recognition (OCR)_](http://aosabook.org/en/500L/optical-character-recognition-ocr.html)
+* [**Python**: _A Neural Network in 11 lines of Python_](https://iamtrask.github.io/2015/07/12/basic-python-network/)
 
 #### Build your own `Operating System`
-* [**Assembly**: *Writing a Tiny x86 Bootloader*](http://joebergeron.io/posts/post_two.html)
-* [**C**: *Operating Systems: From 0 to 1*](https://tuhdo.github.io/os01/)
-* [**C**: *The little book about OS development*](https://littleosbook.github.io/)
-* [**C**: *Kernel 101 –Let’s write a Kernel*](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
-* [**C**: *Build a minimal multi-tasking kernel for ARM from scratch*](https://github.com/jserv/mini-arm-os)
-* [**C**: *How to create an OS from scratch*](https://github.com/cfenollosa/os-tutorial)
-* [**C**: *Malloc tutorial*](https://danluu.com/malloc-tutorial/)
-* [**C**: *Hack the virtual memory*](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
-* [**C++**: *Writing a Bootloader*](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
-* [**Rust**: *Writing an OS in Rust*](https://os.phil-opp.com/first-edition/)
+
+* [**Assembly**: _Writing a Tiny x86 Bootloader_](http://joebergeron.io/posts/post_two.html)
+* [**C**: _Operating Systems: From 0 to 1_](https://tuhdo.github.io/os01/)
+* [**C**: _The little book about OS development_](https://littleosbook.github.io/)
+* [**C**: _Kernel 101 –Let’s write a Kernel_](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
+* [**C**: _Build a minimal multi-tasking kernel for ARM from scratch_](https://github.com/jserv/mini-arm-os)
+* [**C**: _How to create an OS from scratch_](https://github.com/cfenollosa/os-tutorial)
+* [**C**: _Malloc tutorial_](https://danluu.com/malloc-tutorial/)
+* [**C**: _Hack the virtual memory_](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
+* [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
+* [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/first-edition/)
 
 #### Build your own `Physics Engine`
-* [**C**: *Game physics series by Allen Chou*](http://allenchou.net/game-physics-series/)
-* [**C**: *Video Game Physics Tutorial*](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
-* [**C++**: *How to Create a Custom Physics Engine*](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
-* [**C++**: *Game physics series by Glenn Fiedler*](https://gafferongames.com/post/integration_basics/)
-* [**C++**: *3D Physics Engine Tutorial*](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) [video]
-* [**C#**: *TowerFall Physics*](https://mattmakesgames.tumblr.com/post/127890619821/towerfall-physics)
-* [**JavaScript**: *Build your own basic physics engine in JavaScript*](https://www.graphitedigital.com/blog/build-your-own-basic-physics-engine-in-javascript)
-* [**JavaScript**: *How Physics Engines Work*](http://buildnewgames.com/gamephysics/)
-* [**JavaScript**: *Broad Phase Collision Detection Using Spatial Partitioning*](http://buildnewgames.com/broad-phase-collision-detection/)
-* [**JavaScript**: *Build a simple 2D physics engine for JavaScript games*](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/index.html)
+
+* [**C**: _Game physics series by Allen Chou_](http://allenchou.net/game-physics-series/)
+* [**C**: _Video Game Physics Tutorial_](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
+* [**C++**: _How to Create a Custom Physics Engine_](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
+* [**C++**: _Game physics series by Glenn Fiedler_](https://gafferongames.com/post/integration_basics/)
+* [**C++**: _3D Physics Engine Tutorial_](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) [video]
+* [**C#**: _TowerFall Physics_](https://mattmakesgames.tumblr.com/post/127890619821/towerfall-physics)
+* [**JavaScript**: _Build your own basic physics engine in JavaScript_](https://www.graphitedigital.com/blog/build-your-own-basic-physics-engine-in-javascript)
+* [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
+* [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
+* [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/index.html)
 
 #### Build your own `Programming Language`
-* [**C**: *Baby's First Garbage Collector*](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
-* [**C**: *Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code*](http://www.buildyourownlisp.com/)
-* [**C**: *Implement a minimal interpreter, Compiler (x86/Arm) and JIT compiler from scratch*](https://www.slideshare.net/jserv/jit-compiler)
-* [**C**: *Writing a Simple Garbage Collector in C*](http://maplant.com/gc.html)
-* [**C++**: *Writing Your Own Toy Compiler Using Flex*](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
-* [**C++**: *How to Create a Compiler*](https://www.youtube.com/watch?v=eF9qWbuQLuw) [video]
-* [**F#**: *Understanding Parser Combinators*](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
-* [**Go**: *Lexical Scanning in Go*](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
-* [**Haskell**: *Let's Build a Compiler*](http://alephnullplex.github.io/cradle/)
-* [**Haskell**: *Write You a Haskell*](http://dev.stephendiehl.com/fun/)
-* [**Java**: *Crafting interpreters: A handbook for making programming languages*](http://www.craftinginterpreters.com/)
-* [**JavaScript**: *The Super Tiny Compiler*](https://github.com/jamiebuilds/the-super-tiny-compiler)
-* [**OCaml**: *Writing a C Compiler*](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
-* [**Python**: *A Python Interpreter Written in Python*](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
-* [**Python**: *lisp.py: Make your own Lisp interpreter*](http://khamidou.com/compilers/lisp.py/)
-* [**Python**: *Simple Iterator-based Parsing*](http://effbot.org/zone/simple-iterator-parser.htm)
-* [**Python**: *Simple Top-Down Parsing in Python*](http://effbot.org/zone/simple-top-down-parsing.htm)
-* [**Racket**: *Beautiful Racket: How to make your own programming languages with Racket*](https://beautifulracket.com/)
-* [**Ruby**: *A Compiler From Scratch*](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
-* [**Ruby**: *Markdown compiler from scratch in Ruby*](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
+
+* [**C**: _Baby's First Garbage Collector_](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
+* [**C**: _Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code_](http://www.buildyourownlisp.com/)
+* [**C**: _Implement a minimal interpreter, Compiler (x86/Arm) and JIT compiler from scratch_](https://www.slideshare.net/jserv/jit-compiler)
+* [**C**: _Writing a Simple Garbage Collector in C_](http://maplant.com/gc.html)
+* [**C++**: _Writing Your Own Toy Compiler Using Flex_](https://gnuu.org/2009/09/18/writing-your-own-toy-compiler/)
+* [**C++**: _How to Create a Compiler_](https://www.youtube.com/watch?v=eF9qWbuQLuw) [video]
+* [**F#**: _Understanding Parser Combinators_](https://fsharpforfunandprofit.com/posts/understanding-parser-combinators/)
+* [**Go**: _Lexical Scanning in Go_](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
+* [**Haskell**: _Let's Build a Compiler_](http://alephnullplex.github.io/cradle/)
+* [**Haskell**: _Write You a Haskell_](http://dev.stephendiehl.com/fun/)
+* [**Java**: _Crafting interpreters: A handbook for making programming languages_](http://www.craftinginterpreters.com/)
+* [**JavaScript**: _The Super Tiny Compiler_](https://github.com/jamiebuilds/the-super-tiny-compiler)
+* [**OCaml**: _Writing a C Compiler_](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+* [**Python**: _A Python Interpreter Written in Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
+* [**Python**: _lisp.py: Make your own Lisp interpreter_](http://khamidou.com/compilers/lisp.py/)
+* [**Python**: _Simple Iterator-based Parsing_](http://effbot.org/zone/simple-iterator-parser.htm)
+* [**Python**: _Simple Top-Down Parsing in Python_](http://effbot.org/zone/simple-top-down-parsing.htm)
+* [**Racket**: _Beautiful Racket: How to make your own programming languages with Racket_](https://beautifulracket.com/)
+* [**Ruby**: _A Compiler From Scratch_](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
+* [**Ruby**: _Markdown compiler from scratch in Ruby_](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
 
 #### Build your own `Regex Engine`
-* [**C**: *A Regular Expression Matcher*](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
-* [**C**: *Regular Expression Matching Can Be Simple And Fast*](https://swtch.com/~rsc/regexp/regexp1.html)
-* [**JavaScript**: *Build a Regex Engine in Less than 40 Lines of Code*](https://nickdrane.com/build-your-own-regex/)
-* [**Perl**: *How Regexes Work*](https://perl.plover.com/Regex/article.html)
-* [**Scala**: *No Magic: Regular Expressions*](https://rcoh.svbtle.com/no-magic-regular-expressions)
+
+* [**C**: _A Regular Expression Matcher_](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
+* [**C**: _Regular Expression Matching Can Be Simple And Fast_](https://swtch.com/~rsc/regexp/regexp1.html)
+* [**JavaScript**: _Build a Regex Engine in Less than 40 Lines of Code_](https://nickdrane.com/build-your-own-regex/)
+* [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
+* [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
 
 #### Build your own `Search Engine`
-* [**CSS**: *A search engine in CSS*](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
-* [**Python**: *Implementing a Search Engine with Ranking in Python*](http://aakashjapi.com/fuckin-search-engines-how-do-they-work/)
-* [**Python**: *Building a search engine using Redis and redis-py*](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
-* [**Python**: *Building a Vector Space Indexing Engine in Python*](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
-* [**Python**: *Building A Python-Based Search Engine*](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
+
+* [**CSS**: _A search engine in CSS_](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
+* [**Python**: _Implementing a Search Engine with Ranking in Python_](http://aakashjapi.com/fuckin-search-engines-how-do-they-work/)
+* [**Python**: _Building a search engine using Redis and redis-py_](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
+* [**Python**: _Building a Vector Space Indexing Engine in Python_](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
+* [**Python**: _Building A Python-Based Search Engine_](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
 
 #### Build your own `Shell`
-* [**C**: *Tutorial - Write a Shell in C*](https://brennan.io/2015/01/16/write-a-shell-in-c/)
-* [**C**: *Let's build a shell!*](https://github.com/kamalmarhubi/shell-workshop)
-* [**C**: *Writing a UNIX Shell - Part I*](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
-* [**Ruby**: *A Unix Shell in Ruby*](https://www.jstorimer.com/blogs/workingwithcode/7766107-a-unix-shell-in-ruby)
+
+* [**C**: _Tutorial - Write a Shell in C_](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
+* [**C**: _Writing a UNIX Shell - Part I_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
+* [**Ruby**: _A Unix Shell in Ruby_](https://www.jstorimer.com/blogs/workingwithcode/7766107-a-unix-shell-in-ruby)
 
 #### Build your own `Template Engine`
-* [**JavaScript**: *JavaScript template engine in just 20 lines*](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
-* [**Python**: *Approach: Building a toy template engine in Python*](http://alexmic.net/building-a-template-engine/)
-* [**Python**: *A Template Engine*](http://aosabook.org/en/500L/a-template-engine.html)
-* [**Ruby**: *How to write a template engine in less than 30 lines of code*](http://bits.citrusbyte.com/how-to-write-a-template-library/)
+
+* [**JavaScript**: _JavaScript template engine in just 20 lines_](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
+* [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
+* [**Python**: _A Template Engine_](http://aosabook.org/en/500L/a-template-engine.html)
+* [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
 
 #### Build your own `Web Search Engine`
-* [**PHP**: *Code a Search Engine in PHP*](https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/)
-* [**Ruby**: *Write an Internet search engine with 200 lines of Ruby code*](https://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/)
+
+* [**PHP**: _Code a Search Engine in PHP_](https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/)
+* [**Ruby**: _Write an Internet search engine with 200 lines of Ruby code_](https://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/)
 
 #### Build your own `Web Server`
-* [**C#**: *Writing a Web Server from Scratch*](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
-* [**Node.js**: *Let's code a web server from scratch with NodeJS Streams*](https://www.codementor.io/ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
-* [**PHP**: *Writing a webserver in pure PHP*](http://station.clancats.com/writing-a-webserver-in-pure-php/)
-* [**Python**: *A Simple Web Server*](http://aosabook.org/en/500L/a-simple-web-server.html)
-* [**Python**: *Let’s Build A Web Server.*](https://ruslanspivak.com/lsbaws-part1/)
-* [**Python**: *Web application from scratch*](https://defn.io/2018/02/25/web-app-from-scratch-01/)
-* [**Python**: *Building a basic HTTP Server from scratch in Python*](http://joaoventura.net/blog/2017/python-webserver/)
-* [**Ruby**: *Building a simple websockets server from scratch in Ruby*](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
+
+* [**C#**: _Writing a Web Server from Scratch_](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
+* [**Node.js**: _Let's code a web server from scratch with NodeJS Streams_](https://www.codementor.io/ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
+* [**PHP**: _Writing a webserver in pure PHP_](http://station.clancats.com/writing-a-webserver-in-pure-php/)
+* [**Python**: _A Simple Web Server_](http://aosabook.org/en/500L/a-simple-web-server.html)
+* [**Python**: _Let’s Build A Web Server._](https://ruslanspivak.com/lsbaws-part1/)
+* [**Python**: _Web application from scratch_](https://defn.io/2018/02/25/web-app-from-scratch-01/)
+* [**Python**: _Building a basic HTTP Server from scratch in Python_](http://joaoventura.net/blog/2017/python-webserver/)
+* [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
 #### Uncategorized
-* [**(any)**: *From NAND to Tetris: Building a Modern Computer From First Principles*](http://nand2tetris.org/)
-* [**Alloy**: *The Same-Origin Policy*](http://aosabook.org/en/500L/the-same-origin-policy.html)
-* [**C**: *Building a software and hardware stack for a simple computer from scratch*](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
-* [**C**: *Build Your Own Text Editor*](https://viewsourcecode.org/snaptoken/kilo/)
-* [**C**: *How to Write a Video Player in Less Than 1000 Lines*](http://dranger.com/ffmpeg/ffmpeg.html)
-* [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table)
-* [**C**: *Writing an SVG Library*](http://www.code-in-c.com/writing-svg-library-c/)
-* [**C**: *The very basics of a terminal emulator*](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
-* [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
-* [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
-* [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
-* [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
-* [**C#**: *C# Networking: Create a TCP chater server, TCP games, UDP Pong and more*](https://16bpp.net/tutorials/csharp-networking)
-* [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
-* [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
-* [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
-* [**JavaScript**: *Implementing promises from scratch (TDD way)*](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
-* [**Nim**: *Writing a DMIDecode Parser*](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
-* [**Nim**: *Writing a Bencode Parser*](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
-* [**Nim**: *Writing a INI Parser*](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
-* [**Nim**: *Writing a Link Checker*](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
-* [**Nim**: *Writing a stow alternative to manage dotfiles*](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
-* [**Nim**: *Writing a URL Shortening Service*](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
-* [**Python**: *How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes*](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
-* [**Python**: *Continuous Integration System*](http://aosabook.org/en/500L/a-continuous-integration-system.html)
-* [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
-* [**Python**: *Recommender Systems in Python: Beginner Tutorial*](https://www.datacamp.com/community/tutorials/recommender-systems-python)
-* [**Python**: *Write SMS-spam detector with Scikit-learn*](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
-* [**Python**: *A Simple Content-Based Recommendation Engine in Python*](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
-* [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
-* [**Ruby**: *Writing a CI Server*](https://developer.github.com/v3/guides/building-a-ci-server/)
-* [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
-* [**Rust**: *Building a DNS server in Rust*](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
+
+* [**(any)**: _From NAND to Tetris: Building a Modern Computer From First Principles_](http://nand2tetris.org/)
+* [**Alloy**: _The Same-Origin Policy_](http://aosabook.org/en/500L/the-same-origin-policy.html)
+* [**C**: _Building a software and hardware stack for a simple computer from scratch_](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
+* [**C**: _Build Your Own Text Editor_](https://viewsourcecode.org/snaptoken/kilo/)
+* [**C**: _How to Write a Video Player in Less Than 1000 Lines_](http://dranger.com/ffmpeg/ffmpeg.html)
+* [**C**: _Learn how to write a hash table in C_](https://github.com/jamesroutley/write-a-hash-table)
+* [**C**: _Writing an SVG Library_](http://www.code-in-c.com/writing-svg-library-c/)
+* [**C**: _The very basics of a terminal emulator_](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
+* [**C++**: _Build your own VR headset for $100_](https://github.com/relativty/Relativ)
+* [**C++**: _How X Window Managers work and how to write one_](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
+* [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
+* [**C++**: _How a 64k intro is made_](http://www.lofibucket.com/articles/64k_intro.html)
+* [**C#**: _C# Networking: Create a TCP chater server, TCP games, UDP Pong and more_](https://16bpp.net/tutorials/csharp-networking)
+* [**Go**: _Build a web application in Go_](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
+* [**Java**: _Build a Flashlight App_](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
+* [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
+* [**JavaScript**: _Implementing promises from scratch (TDD way)_](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
+* [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
+* [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
+* [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
+* [**Nim**: _Writing a Link Checker_](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
+* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
+* [**Nim**: _Writing a URL Shortening Service_](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
+* [**Python**: _How to Build a Kick-Ass Mobile Document Scanner in Just 5 Minutes_](https://www.pyimagesearch.com/2014/09/01/build-kick-ass-mobile-document-scanner-just-5-minutes/)
+* [**Python**: _Continuous Integration System_](http://aosabook.org/en/500L/a-continuous-integration-system.html)
+* [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+* [**Python**: _Recommender Systems in Python: Beginner Tutorial_](https://www.datacamp.com/community/tutorials/recommender-systems-python)
+* [**Python**: _Write SMS-spam detector with Scikit-learn_](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
+* [**Python**: _A Simple Content-Based Recommendation Engine in Python_](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
+* [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
+* [**Ruby**: _Writing a CI Server_](https://developer.github.com/v3/guides/building-a-ci-server/)
+* [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+* [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 
 ## How to contribute
 
