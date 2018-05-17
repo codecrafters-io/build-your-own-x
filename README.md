@@ -140,6 +140,7 @@
 * [**JavaScript**: *Developing Games with React, Redux, and SVG*](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [**Lua**: *BYTEPATH*](https://github.com/SSYGEN/blog/issues/30)
 * [**Python**: *Developing Games With PyGame*](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
+* [**Python**: *Making Games with Python & Pygame*](https://inventwithpython.com/makinggames.pdf) [pdf]
 * [**Ruby**: *Write Yourself a Roguelike*](https://github.com/thoughtbot/write-yourself-a-roguelike)
 * [**Ruby**: *Developing Games With Ruby*](https://leanpub.com/developing-games-with-ruby/read)
 
