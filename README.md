@@ -22,6 +22,7 @@
 - [Search Engine](#build-your-own-search-engine)
 - [Shell](#build-your-own-shell)
 - [Template Engine](#build-your-own-template-engine)
+- [Web Search Engine](#build-your-own-web-search-engine)
 - [Web Server](#build-your-own-web-server)
 - [Uncategorized](#uncategorized)
 
@@ -239,6 +240,10 @@
 * [**Python**: *Approach: Building a toy template engine in Python*](http://alexmic.net/building-a-template-engine/)
 * [**Python**: *A Template Engine*](http://aosabook.org/en/500L/a-template-engine.html)
 * [**Ruby**: *How to write a template engine in less than 30 lines of code*](http://bits.citrusbyte.com/how-to-write-a-template-library/)
+
+#### Build your own `Web Search Engine`
+* [**PHP**: *Code a Search Engine in PHP*](https://boyter.org/2013/01/code-for-a-search-engine-in-php-part-1/)
+* [**Ruby**: *Write an Internet search engine with 200 lines of Ruby code*](https://blog.saush.com/2009/03/17/write-an-internet-search-engine-with-200-lines-of-ruby-code/)
 
 #### Build your own `Web Server`
 * [**C#**: *Writing a Web Server from Scratch*](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
