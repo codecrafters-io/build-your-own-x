@@ -271,6 +271,7 @@
 * [**Python**: *Building a Facial Recognition Pipeline with Deep Learning in Tensorflow*](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 * [**Python**: *Recommender Systems in Python: Beginner Tutorial*](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 * [**Python**: *Write SMS-spam detector with Scikit-learn*](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
+* [**Python**: *A Simple Content-Based Recommendation Engine in Python*](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
 * [**Ruby**: *A Pedometer in the Real World*](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: *Writing a CI Server*](https://developer.github.com/v3/guides/building-a-ci-server/)
 * [**Rust**: *Let's build a browser engine*](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
