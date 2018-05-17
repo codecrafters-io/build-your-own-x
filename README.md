@@ -264,6 +264,7 @@
 * [**C**: *How to Write a Video Player in Less Than 1000 Lines*](http://dranger.com/ffmpeg/ffmpeg.html)
 * [**C**: *Learn how to write a hash table in C*](https://github.com/jamesroutley/write-a-hash-table)
 * [**C**: *Writing an SVG Library*](http://www.code-in-c.com/writing-svg-library-c/)
+* [**C**: *The very basics of a terminal emulator*](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
 * [**C++**: *Build your own VR headset for $100*](https://github.com/relativty/Relativ)
 * [**C++**: *How X Window Managers work and how to write one*](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
