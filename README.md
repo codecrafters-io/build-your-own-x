@@ -19,6 +19,7 @@
 - [Physics Engine](#build-your-own-physics-engine)
 - [Programming Language](#build-your-own-programming-language)
 - [Regex Engine](#build-your-own-regex-engine)
+- [Search Engine](#build-your-own-search-engine)
 - [Shell](#build-your-own-shell)
 - [Template Engine](#build-your-own-template-engine)
 - [Web Server](#build-your-own-web-server)
@@ -220,6 +221,13 @@
 * [**Perl**: *How Regexes Work*](https://perl.plover.com/Regex/article.html)
 * [**Scala**: *No Magic: Regular Expressions*](https://rcoh.svbtle.com/no-magic-regular-expressions)
 
+#### Build your own `Search Engine`
+* [**CSS**: *A search engine in CSS*](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
+* [**Python**: *Implementing a Search Engine with Ranking in Python*](http://aakashjapi.com/fuckin-search-engines-how-do-they-work/)
+* [**Python**: *Building a search engine using Redis and redis-py*](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
+* [**Python**: *Building a Vector Space Indexing Engine in Python*](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
+* [**Python**: *Building A Python-Based Search Engine*](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
+
 #### Build your own `Shell`
 * [**C**: *Tutorial - Write a Shell in C*](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [**C**: *Let's build a shell!*](https://github.com/kamalmarhubi/shell-workshop)
@@ -255,7 +263,6 @@
 * [**C++**: *Writing a Linux Debugger*](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: *How a 64k intro is made*](http://www.lofibucket.com/articles/64k_intro.html)
 * [**C#**: *C# Networking: Create a TCP chater server, TCP games, UDP Pong and more*](https://16bpp.net/tutorials/csharp-networking)
-* [**CSS**: *A search engine in CSS*](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
 * [**Go**: *Build a web application in Go*](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
 * [**Java**: *Build a Flashlight App*](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
 * [**JavaScript**: *Learn JavaScript Promises by Building a Promise from Scratch*](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
