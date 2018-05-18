@@ -39,6 +39,7 @@
 
 #### Build your own `Blockchain / Cryptocurrency`
 
+* [**ARK**: _Making it easy to build your own Blockchain_](https://github.com/ArkEcosystem/ark-deployer)
 * [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**Ethereum**: _From “What is Blockchain?” to building a blockchain in less than an hour_](https://medium.freecodecamp.org/from-what-is-blockchain-to-building-a-blockchain-within-an-hour-4e738efc819d)
 * [**Go**: _Building Blockchain in Go_](https://jeiwan.cc/posts/building-blockchain-in-go-part-1/)
