@@ -60,6 +60,7 @@
 
 * [**Haskell**: _Roll your own IRC bot_](https://wiki.haskell.org/Roll_your_own_IRC_bot)
 * [**Java**: _How To Make a Scary Russian Twitter Bot With Java_](https://medium.com/@SeloSlav/how-to-make-a-scary-russian-twitter-bot-with-java-b7b62768a3ac)
+* [**Node.js**: _Create Multiple Platforms Bot in Node.js](https://bottender.js.org/)
 * [**Node.js**: _Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js_](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
 * [**Node.js**: _Why you should have your own Twitter bot, and how to build one in less than 30 minutes_](https://medium.freecodecamp.org/easily-set-up-your-own-twitter-bot-4aeed5e61f7f)
 * [**Node.js**: _How to make a responsive telegram bot_](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
