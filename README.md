@@ -5,6 +5,7 @@
 ## Table of contents
 
 * [3D Renderer](#build-your-own-3d-renderer)
+* [Augmented Reality](#build-your-own-augmented-reality)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
 * [Database](#build-your-own-database)
@@ -38,6 +39,15 @@
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
+
+#### Build your own `Augmented Reality`
+
+* [**C#**: _How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D_](https://www.youtube.com/watch?v=uXNjNcqW4kY) [video]
+* [**C#**: _Windows Mixed Reality Academy_](https://docs.microsoft.com/en-us/windows/mixed-reality/academy) [video]
+* [**C#**: _How To Unity ARCore_](https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv) [video]
+* [**C#**: _AR Portal Tutorial with Unity_](https://www.youtube.com/playlist?list=PLPCqNOwwN794Gz5fzUSi1p4OqLU0HTmvn) [video]
+* [**C#**: _How to create a Dragon in Augmented Reality in Unity ARCore _](https://fr-film.net/v-how-to-create-a-dragon-in-augmented-reality-in-unity-arcore-tutorial-qTSDPkPyPqs.html) [video]
+* [**C#**: _How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down_](https://www.youtube.com/watch?v=Z5AmqMuNi08)
 
 #### Build your own `Blockchain / Cryptocurrency`
 
