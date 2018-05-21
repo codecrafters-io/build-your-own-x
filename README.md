@@ -46,8 +46,8 @@
 * [**C#**: _Windows Mixed Reality Academy_](https://docs.microsoft.com/en-us/windows/mixed-reality/academy) [video]
 * [**C#**: _How To Unity ARCore_](https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv) [video]
 * [**C#**: _AR Portal Tutorial with Unity_](https://www.youtube.com/playlist?list=PLPCqNOwwN794Gz5fzUSi1p4OqLU0HTmvn) [video]
-* [**C#**: _How to create a Dragon in Augmented Reality in Unity ARCore _](https://fr-film.net/v-how-to-create-a-dragon-in-augmented-reality-in-unity-arcore-tutorial-qTSDPkPyPqs.html) [video]
-* [**C#**: _How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down_](https://www.youtube.com/watch?v=Z5AmqMuNi08)
+* [**C#**: _How to create a Dragon in Augmented Reality in Unity ARCore_](https://fr-film.net/v-how-to-create-a-dragon-in-augmented-reality-in-unity-arcore-tutorial-qTSDPkPyPqs.html) [video]
+* [**C#**: _How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down_](https://www.youtube.com/watch?v=Z5AmqMuNi08) [video]
 
 #### Build your own `Blockchain / Cryptocurrency`
 
