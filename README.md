@@ -236,6 +236,7 @@
 * [**Java**: _Crafting interpreters: A handbook for making programming languages_](http://www.craftinginterpreters.com/)
 * [**JavaScript**: _The Super Tiny Compiler_](https://github.com/jamiebuilds/the-super-tiny-compiler)
 * [**OCaml**: _Writing a C Compiler_](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
+* [**Pascal**: _Let's Build a Compiler_](https://compilers.iecc.com/crenshaw/)
 * [**Python**: _A Python Interpreter Written in Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [**Python**: _lisp.py: Make your own Lisp interpreter_](http://khamidou.com/compilers/lisp.py/)
 * [**Python**: _Simple Iterator-based Parsing_](http://effbot.org/zone/simple-iterator-parser.htm)
