@@ -279,14 +279,12 @@
 * [**Python**: _A Template Engine_](http://aosabook.org/en/500L/a-template-engine.html)
 * [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
 
-
 #### Build your own `Text Editor`
 
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**C**: _Build Your Own Text Editor_](https://viewsourcecode.org/snaptoken/kilo/)
 * [**C++**: _Designing a Simple Text Editor_](http://www.fltk.org/doc-1.1/editor.html)
 * [**Python**: _Python Tutorial: Make Your Own Text Editor_](https://www.youtube.com/watch?v=xqDonHEYPgA) [video]
-
 
 #### Build your own `Web Search Engine`
 
