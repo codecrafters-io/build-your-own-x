@@ -343,6 +343,7 @@
 * [**Python**: _Recommender Systems in Python: Beginner Tutorial_](https://www.datacamp.com/community/tutorials/recommender-systems-python)
 * [**Python**: _Write SMS-spam detector with Scikit-learn_](https://medium.com/@kopilov.vlad/detect-sms-spam-in-kaggle-with-scikit-learn-5f6afa7a3ca2)
 * [**Python**: _A Simple Content-Based Recommendation Engine in Python_](http://blog.untrod.com/2016/06/simple-similar-products-recommendation-engine-in-python.html)
+* [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Writing a CI Server_](https://developer.github.com/v3/guides/building-a-ci-server/)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
