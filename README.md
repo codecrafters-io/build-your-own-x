@@ -56,6 +56,7 @@
 * [**C#**: _Building a BitTorrent client from scratch in C#_](https://www.seanjoflynn.com/research/bittorrent.html)
 * [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day2_bencode.html#cid4)
 * [**Node.js**: _Write your own bittorrent client_](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
+* [**Python**: _A BitTorrent client in Python 3.5_](http://markuseliasson.se/article/bittorrent-in-python/)
 
 #### Build your own `Blockchain / Cryptocurrency`
 
