@@ -168,7 +168,6 @@
 * [**Lua**: _BYTEPATH_](https://github.com/SSYGEN/blog/issues/30)
 * [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
-* [**Ruby**: _Write Yourself a Roguelike_](https://github.com/thoughtbot/write-yourself-a-roguelike)
 * [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
 
 #### Build your own `Git`
