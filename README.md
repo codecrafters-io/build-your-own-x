@@ -356,7 +356,6 @@
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**TypeScript**: _Make your own GraphQL metrics dashboard_](http://all-loops-considered.org/2018/05/09/graphql-metrics-part-1/)
 
-
 ## How to contribute
 
 Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
