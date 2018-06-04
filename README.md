@@ -326,8 +326,6 @@
 * [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: _How a 64k intro is made_](http://www.lofibucket.com/articles/64k_intro.html)
 * [**C#**: _C# Networking: Create a TCP chater server, TCP games, UDP Pong and more_](https://16bpp.net/tutorials/csharp-networking)
-* [**Go**: _Build a web application in Go_](https://www.sohamkamani.com/blog/2017/09/13/how-to-build-a-web-application-in-golang/)
-* [**Java**: _Build a Flashlight App_](https://www.youtube.com/watch?v=dhWL4DC7Krs) [video]
 * [**Java**: _How to Build an Android Reddit App_](https://www.youtube.com/playlist?list=PLgCYzUzKIBE9HUJU-upNvl3TRVAo9W47y) [video]
 * [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
 * [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
@@ -350,7 +348,6 @@
 * [**Python**: _Driver Drowsiness detection using OpenCV and Python_](http://pythonopencv.com/driver-drowsiness-detection-using-opencv-and-python/)
 * [**Python**: _Stock Market Predictions with LSTM in Python_](https://www.datacamp.com/community/tutorials/lstm-python-stock-market)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
-* [**Ruby**: _Writing a CI Server_](https://developer.github.com/v3/guides/building-a-ci-server/)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
