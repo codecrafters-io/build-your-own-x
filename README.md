@@ -245,6 +245,7 @@
 * [**Haskell**: _Let's Build a Compiler_](http://alephnullplex.github.io/cradle/)
 * [**Haskell**: _Write You a Haskell_](http://dev.stephendiehl.com/fun/)
 * [**Haskell**: _Write Yourself a Scheme in 48 Hours_](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
+* [**Haskell**: _Write You A Scheme_](https://www.wespiser.com/writings/wyas/home.html)
 * [**Java**: _Crafting interpreters: A handbook for making programming languages_](http://www.craftinginterpreters.com/)
 * [**JavaScript**: _The Super Tiny Compiler_](https://github.com/jamiebuilds/the-super-tiny-compiler)
 * [**JavaScript**: _The Super Tiny Interpreter_](https://github.com/keyanzhang/the-super-tiny-interpreter)
