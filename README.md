@@ -348,6 +348,7 @@
 * [**JavaScript**: _Build Your Own Module Bundler - Minipack_](https://github.com/ronami/minipack)
 * [**JavaScript**: _Learn JavaScript Promises by Building a Promise from Scratch_](https://levelup.gitconnected.com/understand-javascript-promises-by-building-a-promise-from-scratch-84c0fd855720)
 * [**JavaScript**: _Implementing promises from scratch (TDD way)_](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
+* [**JavaScript**: _Implement your own — call(), apply() and bind() method in JavaScript_](https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b)
 * [**Kotlin**: _Build Your Own Cache_](http://kezhenxu94.me/2018/05/27/Build-Your-Own-Cache/)
 * [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
 * [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
