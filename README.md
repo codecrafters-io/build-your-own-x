@@ -162,6 +162,7 @@
 * [**C++**: _Tetris tutorial in C++ platform independent focused in game logic for beginners_](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
 * [**C++**: _Remaking Cavestory in C++_](https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa)
 * [**C++**: _Reconstructing Cave Story_](https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X)
+* [**C++**: _Space Invaders from Scratch_](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
 * [**C#**: _Learn C# by Building a Simple RPG_](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 * [**C#**: _Creating a Roguelike Game in C#_](https://roguesharp.wordpress.com/)
 * [**Go**: _Games With Go_](https://gameswithgo.org/) [video]
