@@ -27,6 +27,7 @@
 * [Template Engine](#build-your-own-template-engine)
 * [Text Editor](#build-your-own-text-editor)
 * [Visual Recognition System](#build-your-own-visual-recognition-system)
+* [Voxel Engine](#build-your-own-voxel-engine)
 * [Web Search Engine](#build-your-own-web-search-engine)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
@@ -329,6 +330,11 @@
 * [**Python**: _Driver Drowsiness detection using OpenCV and Python_](http://pythonopencv.com/driver-drowsiness-detection-using-opencv-and-python/)
 * [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+
+#### Build your own `Voxel Engine`
+
+* [**Java**: _Let's make a voxel engine_](https://www.youtube.com/watch?v=C_Fo9PcrVXA&list=PLXa65xzz2vplye7cn1HH4GyE6_FjnDSug&index=1) [video]
+* [**Java**: _Java Voxel Engine Tutorial_](https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL) [video]
 
 #### Build your own `Web Search Engine`
 
