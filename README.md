@@ -102,6 +102,7 @@
 
 * [**C**: _Rewriting the cat command from scratch_](https://learnto.computer/screencasts/bsd-cat) [video]
 * [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
+* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
 
 #### Build your own `Database`
 
@@ -369,7 +370,6 @@
 * [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
 * [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
 * [**Nim**: _Writing a Link Checker_](https://xmonader.github.io/nimdays/day4_asynclinkschecker.html#cid10)
-* [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day6_nistow.html#cid16)
 * [**Nim**: _Writing a URL Shortening Service_](https://xmonader.github.io/nimdays/day7_shorturl.html#cid20)
 * [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://medium.com/douglas-matoso-english/build-static-site-generator-nodejs-8969ebe34b22)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
