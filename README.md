@@ -380,6 +380,7 @@
 * [**JavaScript**: _Implementing promises from scratch (TDD way)_](https://www.mauriciopoppe.com/notes/computer-science/computation/promises/)
 * [**JavaScript**: _Implement your own — call(), apply() and bind() method in JavaScript_](https://blog.usejournal.com/implement-your-own-call-apply-and-bind-method-in-javascript-42cc85dba1b)
 * [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
+* [**JavaScript**: _How to Make an Evolutionary Tetris AI_](https://www.youtube.com/watch?v=xLHCMMGuN0Q) [video]
 * [**Kotlin**: _Build Your Own Cache_](http://kezhenxu94.me/2018/05/27/Build-Your-Own-Cache/)
 * [**Nim**: _Writing a DMIDecode Parser_](https://xmonader.github.io/nimdays/day1_dmidecode.html#cid1)
 * [**Nim**: _Writing a INI Parser_](https://xmonader.github.io/nimdays/day5_iniparser.html#cid13)
