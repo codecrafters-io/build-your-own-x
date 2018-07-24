@@ -275,6 +275,7 @@
 * [**JavaScript**: _The Super Tiny Compiler_](https://github.com/jamiebuilds/the-super-tiny-compiler)
 * [**JavaScript**: _The Super Tiny Interpreter_](https://github.com/keyanzhang/the-super-tiny-interpreter)
 * [**JavaScript**: _Little Lisp interpreter_](https://maryrosecook.com/blog/post/little-lisp-interpreter)
+* [**JavaScript**: _How to implement a programming language in JavaScript_](http://lisperator.net/pltut/)
 * [**OCaml**: _Writing a C Compiler_](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 * [**Pascal**: _Let's Build a Compiler_](https://compilers.iecc.com/crenshaw/)
 * [**Python**: _A Python Interpreter Written in Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
