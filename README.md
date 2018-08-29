@@ -291,6 +291,7 @@
 * [**Racket**: _Beautiful Racket: How to make your own programming languages with Racket_](https://beautifulracket.com/)
 * [**Ruby**: _A Compiler From Scratch_](https://www.destroyallsoftware.com/screencasts/catalog/a-compiler-from-scratch)
 * [**Ruby**: _Markdown compiler from scratch in Ruby_](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
+* [**Rust**: _So You Want to Build a Language VM_](https://blog.subnetzero.io/post/building-language-vm-part-00/)
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 
 #### Build your own `Regex Engine`
