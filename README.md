@@ -103,7 +103,7 @@
 * [**Python**: _Create a Twitter Bot in Python Using Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**Python**: _Creating Reddit Bot with Python & PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
 * [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
-* [**R**: _Build A Slack Bot with Ruby_](https://github.com/slack-ruby/slack-ruby-bot)
+* [**Ruby**: _Build A Slack Bot with Ruby_](https://github.com/slack-ruby/slack-ruby-bot)
 
 #### Build your own `Command-Line Tool`
 
