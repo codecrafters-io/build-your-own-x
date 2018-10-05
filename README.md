@@ -198,6 +198,7 @@
 * [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
 * [**Python**: _The Complete Roguelike Tutorial_](https://www.youtube.com/playlist?list=PLKUel_nHsTQ1yX7tQxR_SQRdcOFyXfNAb) [video]
+* [**Python**: _Create your own Visual Novel with Ren'Py, Quickstart Guide_](https://www.renpy.org/doc/html/quickstart.html)
 * [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
 * [**Ruby**: _Ruby Snake_](https://www.diatomenterprises.com/gamedev-on-ruby-why-not/)
 
