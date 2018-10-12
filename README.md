@@ -396,6 +396,7 @@
 * [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
 * [**JavaScript**: _How to Make an Evolutionary Tetris AI_](https://www.youtube.com/watch?v=xLHCMMGuN0Q) [video]
 * [**JavaScript**: _Building a Simple URL Shortener With Just HTML and Javascript_](https://palash.tk/Build-URL-Shortener-With-HTML-JS)
+* [**JavaScript**: _Build a ride hailing app with React Native_](https://pusher.com/tutorials/ride-hailing-react-native)
 * [**Kotlin**: _Build Your Own Cache_](http://kezhenxu94.me/2018/05/27/Build-Your-Own-Cache/)
 * [**Nim**: _Writing a Redis Protocol Parser_](https://xmonader.github.io/nimdays/day12_resp.html)
 * [**Nim**: _Writing a Build system_](https://xmonader.github.io/nimdays/day11_buildsystem.html)
@@ -425,7 +426,6 @@
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**TypeScript**: _Make your own GraphQL metrics dashboard_](http://all-loops-considered.org/2018/05/09/graphql-metrics-part-1/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
-* [**React Native**: _BUILD A RIDE HAILING APP WITH REACT NATIVEs_](https://pusher.com/tutorials/ride-hailing-react-native)
 
 ## How to contribute
 
