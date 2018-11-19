@@ -329,6 +329,7 @@
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Ruby**: _A Unix Shell in Ruby_](https://www.jstorimer.com/blogs/workingwithcode/7766107-a-unix-shell-in-ruby)
+* [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
 #### Build your own `Template Engine`
 
