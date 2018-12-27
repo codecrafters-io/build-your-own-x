@@ -19,7 +19,7 @@ Thanks for contributing! Tutorial in this list should provide a guided path for 
 * [ ] Command-Line Tool
 * [ ] Database
 * [ ] Docker
-* [ ] Emulator
+* [ ] Emulator / Virtual Machine
 * [ ] Front-end Framework / Library
 * [ ] Game
 * [ ] Git
