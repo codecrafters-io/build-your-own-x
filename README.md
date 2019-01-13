@@ -189,6 +189,7 @@
 * [**C++**: _Space Invaders from Scratch_](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
 * [**C#**: _Learn C# by Building a Simple RPG_](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 * [**C#**: _Creating a Roguelike Game in C#_](https://roguesharp.wordpress.com/)
+* [**C#**: _Build a C#/WPF RPG_](https://scottlilly.com/build-a-cwpf-rpg/)
 * [**Go**: _Games With Go_](https://gameswithgo.org/) [video]
 * [**Java**: _3D Game Development with LWJGL 3_](https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/)
 * [**JavaScript**: _2D breakout game using Phaser_](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
