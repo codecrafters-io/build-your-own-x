@@ -356,7 +356,6 @@
 
 #### Build your own `Visual Recognition System`
 
-* [**Python**: _Driver Drowsiness detection using OpenCV and Python_](http://pythonopencv.com/driver-drowsiness-detection-using-opencv-and-python/)
 * [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
