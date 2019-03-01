@@ -410,7 +410,7 @@
 * [**JavaScript**: _How to Make an Evolutionary Tetris AI_](https://www.youtube.com/watch?v=xLHCMMGuN0Q) [video]
 * [**JavaScript**: _Building a Simple URL Shortener With Just HTML and Javascript_](https://palash.tk/Build-URL-Shortener-With-HTML-JS)
 * [**JavaScript**: _Build a ride hailing app with React Native_](https://pusher.com/tutorials/ride-hailing-react-native)
-* [**Kotlin**: _Build Your Own Cache_](http://kezhenxu94.me/2018/05/27/Build-Your-Own-Cache/)
+* [**Kotlin**: _Build Your Own Cache_](https://github.com/kezhenxu94/cache-lite)
 * [**Nim**: _Writing a Redis Protocol Parser_](https://xmonader.github.io/nimdays/day12_resp.html)
 * [**Nim**: _Writing a Build system_](https://xmonader.github.io/nimdays/day11_buildsystem.html)
 * [**Nim**: _Writing a MiniTest Framework_](https://xmonader.github.io/nimdays/day08_minitest.html)
