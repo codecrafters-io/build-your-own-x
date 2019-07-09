@@ -183,6 +183,7 @@
 * [**C**: _A tutorials for a basic Invaders game made in C with GTK: and OpenGL_](https://dashgl.com/Invaders/)
 * [**C**: _Astroids Tutorial written in C using GTK with OpenGL and DashGL for matrix manipulation_](https://dashgl.com/Astroids/)
 * [**C**: _On Tetris and Reimplementation_](https://brennan.io/2015/06/12/tetris-reimplementation/)
+* [**C**: _Let's Make: Dangerous Dave_](https://github.com/MaiZure/lmdave)
 * [**C++**: _Breakout_](https://learnopengl.com/In-Practice/2D-Game/Breakout)
 * [**C++**: _Beginning Game Programming v2.0_](http://lazyfoo.net/tutorials/SDL/)
 * [**C++**: _Tetris tutorial in C++ platform independent focused in game logic for beginners_](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
