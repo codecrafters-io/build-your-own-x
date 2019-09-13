@@ -86,8 +86,7 @@
 * [**Scala**: _How to build a simple actor-based blockchain_](https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177)
 * [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
 * [**TypeScript**: _NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus_](https://naivecoinstake.learn.uno/)
-* [**Solidity**: _Lets create our first HelloWorld dApp_]
-(https://medium.com/@allenjosephaj/lets-create-our-first-helloworld-dapp-461ae9bc5f7f)
+* [**Solidity**: _Lets create our first HelloWorld dApp_](https://medium.com/@allenjosephaj/lets-create-our-first-helloworld-dapp-461ae9bc5f7f)
 
 #### Build your own `Bot`
 
