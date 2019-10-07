@@ -309,6 +309,7 @@
 * [**Ruby**: _Markdown compiler from scratch in Ruby_](https://blog.beezwax.net/2017/07/07/writing-a-markdown-compiler/)
 * [**Rust**: _So You Want to Build a Language VM_](https://blog.subnetzero.io/post/building-language-vm-part-00/)
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
+* [**TypeScript**: _Build your own WebAssembly Compiler_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
 #### Build your own `Regex Engine`
 
