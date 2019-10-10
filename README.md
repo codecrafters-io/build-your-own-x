@@ -218,6 +218,7 @@
 
 * [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/html/multi/index.html)
 * [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
+* [**Go**: _Writing a simple VPN in Go_](https://github.com/aki237/pin)
 * [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
 
 #### Build your own `Neural Network`
