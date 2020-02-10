@@ -287,7 +287,7 @@
 * [**Elixir**: _Demystifying compilers by writing your own_](https://www.youtube.com/watch?v=zMJYoYwOCd4) [video]
 * [**Go**: _The Super Tiny Compiler_](https://github.com/hazbo/the-super-tiny-compiler)
 * [**Go**: _Lexical Scanning in Go_](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
-* [**Haskell**: _Let's Build a Compiler_](http://alephnullplex.github.io/cradle/)
+* [**Haskell**: _Let's Build a Compiler_](https://g-ford.github.io/cradle/)
 * [**Haskell**: _Write You a Haskell_](http://dev.stephendiehl.com/fun/)
 * [**Haskell**: _Write Yourself a Scheme in 48 Hours_](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [**Haskell**: _Write You A Scheme_](https://www.wespiser.com/writings/wyas/home.html)
