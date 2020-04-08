@@ -265,7 +265,6 @@
 * [**C++**: _Game physics series by Allen Chou_](http://allenchou.net/game-physics-series/)
 * [**C++**: _How to Create a Custom Physics Engine_](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
 * [**C++**: _3D Physics Engine Tutorial_](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) [video]
-* [**C#**: _TowerFall Physics_](https://mattmakesgames.tumblr.com/post/127890619821/towerfall-physics)
 * [**JavaScript**: _Build your own basic physics engine in JavaScript_](https://www.graphitedigital.com/blog/build-your-own-basic-physics-engine-in-javascript)
 * [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
