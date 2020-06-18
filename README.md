@@ -169,6 +169,8 @@
 * [**JavaScript**: _How to write your own Virtual DOM_](https://medium.com/@deathmood/how-to-write-your-own-virtual-dom-ee74acc13060)
 * [**JavaScript**: _Building a frontend framework, from scratch, with components (templating, state, VDOM)_](https://mfrachet.github.io/create-frontend-framework/)
 * [**JavaScript**: _Build your own React_](https://pomb.us/build-your-own-react/)
+* [**JavaScript**: _Create a Modern Vanilla Javascript Router_](https://hackdoor.io/articles/0XN6jANd/create-modern-javascript-router)
+* [**Typescript**: _Build the operators from RxJS from scratch_](https://blog.strongbrew.io/build-the-operators-from-rxjs-from-scratch/?lectureId=intro)
 
 #### Build your own `Game`
 
