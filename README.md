@@ -110,7 +110,6 @@
 
 #### Build your own `Command-Line Tool`
 
-* [**C**: _Rewriting the cat command from scratch_](https://learnto.computer/screencasts/bsd-cat) [video]
 * [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
 * [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
