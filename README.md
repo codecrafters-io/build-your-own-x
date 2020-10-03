@@ -270,6 +270,7 @@
 * [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://www.ibm.com/developerworks/library/wa-build2dphysicsengine/index.html)
+* [**JavaScript**: _Test Collision With Separating Axis Theorem in JavaScript_](https://medium.com/@edu.js.o/test-collision-with-separating-axis-theorem-in-javascript-8456d1c92b6c)
 
 #### Build your own `Programming Language`
 
