@@ -21,6 +21,7 @@
 * [Operating System](#build-your-own-operating-system)
 * [Physics Engine](#build-your-own-physics-engine)
 * [Programming Language](#build-your-own-programming-language)
+* [Proxy](#build-your-own-proxy)
 * [Regex Engine](#build-your-own-regex-engine)
 * [Search Engine](#build-your-own-search-engine)
 * [Shell](#build-your-own-shell)
@@ -314,6 +315,13 @@
 * [**Rust**: _Learning Parser Combinators With Rust_](https://bodil.lol/parser-combinators/)
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 * [**TypeScript**: _Build your own WebAssembly Compiler_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+
+#### Build your own `Proxy`
+
+* [With Ubuntu VM](https://networkjutsu.com/building-your-own-proxy-server/)
+* [With PuTTY](https://dzone.com/articles/guide-to-make-your-own-proxy-for-more-ips)
+* [With Java](https://people.apache.org/~jim/NewArchitect/webtech/2001/04/java/index.html)
+
 
 #### Build your own `Regex Engine`
 
