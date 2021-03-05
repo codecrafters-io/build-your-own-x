@@ -238,6 +238,7 @@
 * [**Python**: _Traffic signs classification with a convolutional network_](https://navoshta.com/traffic-signs-classification/)
 * [**Python**: _Generate Music using LSTM Neural Network in Keras_](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
+* [**Python**:An Introduction to RLU in Artificial Neural Networks](https://www.nbshare.io/notebook/584445049/Rectified-Linear-Unit-For-Artificial-Neural-Networks-Part-1-Regression/)
 
 #### Build your own `Operating System`
 
