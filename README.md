@@ -155,7 +155,6 @@
 * [**JavaScript**: _A DIY guide to build your own React_](https://github.com/hexacta/didact)
 * [**JavaScript**: _Reverse Engineering React_](https://vimeo.com/album/3930691) [video]
 * [**JavaScript**: _Building React From Scratch_](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
-* [**JavaScript**: _Building Your Own React Clone in Five Easy Steps_](https://blog.javascripting.com/2016/10/05/building-your-own-react-clone-in-five-easy-steps/)
 * [**JavaScript**: _Gooact: React in 160 lines of JavaScript_](https://medium.com/@sweetpalma/gooact-react-in-160-lines-of-javascript-44e0742ad60f)
 * [**JavaScript**: _React Internals_](http://www.mattgreer.org/articles/react-internals-part-one-basic-rendering/)
 * [**JavaScript**: _Learn how React Reconciler package works by building your own lightweight React DOM_](https://hackernoon.com/learn-you-some-custom-react-renderers-aed7164a4199)
