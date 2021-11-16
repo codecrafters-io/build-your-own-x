@@ -22,6 +22,7 @@
 * [Physics Engine](#build-your-own-physics-engine)
 * [Programming Language](#build-your-own-programming-language)
 * [Regex Engine](#build-your-own-regex-engine)
+* [Rule Engine](#build-your-own-rule-engine))
 * [Search Engine](#build-your-own-search-engine)
 * [Shell](#build-your-own-shell)
 * [Template Engine](#build-your-own-template-engine)
@@ -319,6 +320,9 @@
 * [**JavaScript**: Implementing a Regular Expression Engine](https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/) 
 * [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
 * [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
+
+#### Build your own `Rule Engine`
+* [**TypeScript/Javascript**: _Simple yet powerful rule engine for nodejs - elif.js_](https://github.com/halilkaankarakoc/elif.js)
 
 #### Build your own `Search Engine`
 
