@@ -87,7 +87,7 @@
 * [**Scala**: _How to build a simple actor-based blockchain_](https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177)
 * [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
 * [**TypeScript**: _NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus_](https://naivecoinstake.learn.uno/)
-* [**Docker**: _cryptoMiner: a tutorial for how mining cryptocurrency  and dockerize this] (https://ryigitkader.medium.com/create-a-crypto-miner-docker-image-77eb487c833f)
+* [**Docker**: _cryptoMiner: a tutorial for how mining cryptocurrency  and dockerize this_](https://ryigitkader.medium.com/create-a-crypto-miner-docker-image-77eb487c833f)
 
 #### Build your own `Bot`
 
