@@ -269,6 +269,7 @@
 
 #### Build your own `Programming Language`
 
+* [**Java**:  Build a Tiny Compiler in Java](https://medium.com/javarevisited/build-a-tiny-compiler-in-java-662f67a1ce85)
 * [**(any)**: _mal - Make a Lisp_](https://github.com/kanaka/mal#mal---make-a-lisp)
 * [**Assembly**: _Jonesforth_](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [**C**: _Baby's First Garbage Collector_](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
