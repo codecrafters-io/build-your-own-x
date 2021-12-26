@@ -118,7 +118,6 @@
 #### Build your own `Database`
 
 * [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
-* [**C++**: _Implementing a Key-Value Store_](http://codecapsule.com/2012/11/07/ikvs-implementing-a-key-value-store-table-of-contents/)
 * [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: _An Archaeology-Inspired Database_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [**Crystal**: _Why you should build your own NoSQL Database_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
