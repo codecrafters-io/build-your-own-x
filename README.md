@@ -327,6 +327,7 @@
 * [**Python**: _Building A Python-Based Search Engine_](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
 * [**Python**: _Making text search learn from feedback_](https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0)
 * [**Python**: _Finding Important Words in Text Using TF-IDF_](https://stevenloria.com/tf-idf/)
+* [**Python**: _Neural Image Search with Jina_](https://github.com/jina-ai/example-multimodal-fashion-search)
 
 #### Build your own `Shell`
 
