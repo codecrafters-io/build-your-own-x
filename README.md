@@ -1,8 +1,8 @@
-**[[Submit tutorial](https://github.com/codecrafters-io/build-your-own-x/issues/new)]**
+[![CodeCrafters.io](codecrafters-banner.png)](https://codecrafters.io)
 
-# ![Build your own X](feynman.png)
+> What I cannot create, I do not understand — Richard Feynman.
 
-## Table of contents
+## Table of Contents
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
@@ -439,7 +439,7 @@
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
-## How to contribute 
+## Contribute 
 * Contributions are very welcome: [Submit tutorial](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
 
