@@ -6,6 +6,8 @@ It's a great way to learn. [Submit here](https://github.com/codecrafters-io/buil
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It's a great way to learn. Submissions welcome, just send a PR.
+
 ## Table of Contents
 
 * [3D Renderer](#build-your-own-3d-renderer)
@@ -444,7 +446,7 @@ It's a great way to learn. [Submit here](https://github.com/codecrafters-io/buil
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
 ## Contribute 
-* Contributions are very welcome: [Submit tutorial](https://github.com/codecrafters-io/build-your-own-x/issues/new)
+* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
 
 ## Origins & License
