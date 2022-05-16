@@ -1,12 +1,8 @@
 [![CodeCrafters.io](codecrafters-banner.png)](https://codecrafters.io)
 
-This repository is a compilation of guides for re-creating our favorite technologies from scratch. 
-
-It's a great way to learn. [Submit here](https://github.com/codecrafters-io/build-your-own-x/issues/new).
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It's a great way to learn. Submissions welcome, just send a PR.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
-
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It's a great way to learn. Submissions welcome, just send a PR.
 
 ## Table of Contents
 
