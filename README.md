@@ -341,7 +341,6 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 #### Build your own `Template Engine`
 
-* [**JavaScript**: _JavaScript template engine in just 20 lines_](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
 * [**JavaScript**: _Understanding JavaScript Micro-Templating_](https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e)
 * [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
 * [**Python**: _A Template Engine_](http://aosabook.org/en/500L/a-template-engine.html)
