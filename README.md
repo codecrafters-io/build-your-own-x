@@ -1,8 +1,10 @@
-**[[Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)]**
+[![CodeCrafters.io](codecrafters-banner.png)](https://codecrafters.io)
 
-# ![Build your own X](feynman.png)
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It's a great way to learn. Submissions welcome, just send a PR.
 
-## Table of contents
+> *What I cannot create, I do not understand — Richard Feynman.*
+
+## Table of Contents: Build your own X
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
@@ -438,12 +440,12 @@
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
-## How to contribute 
-* Contributions are very welcome: [Submit tutorial](https://github.com/danistefanovic/build-your-own-x/issues/new)
-* Help me to review [pending submissions](https://github.com/danistefanovic/build-your-own-x/issues) by leaving comments and "reactions"
+## Contribute 
+* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
+* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
 
-## License
+## Origins & License
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Daniel Stefanovic](http://twitter.com/danistefanovic) has waived all copyright and related or neighboring rights to this work.
+This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors). It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
