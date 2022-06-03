@@ -112,6 +112,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 #### Build your own `Command-Line Tool`
 
 * [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
+* [**Python**: _Visualize your public git contributions with Python_](https://github.com/vmeshche/gview)
 * [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
 * [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
