@@ -256,6 +256,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [**C++**: _Write your own Operating System_](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) [video]
 * [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
+* [**C**:  Building Your Own Android OS](https://www.androidauthority.com/build-custom-android-rom-720453/)
 
 #### Build your own `Physics Engine`
 
