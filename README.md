@@ -30,7 +30,6 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [Text Editor](#build-your-own-text-editor)
 * [Visual Recognition System](#build-your-own-visual-recognition-system)
 * [Voxel Engine](#build-your-own-voxel-engine)
-* [Web Search Engine](#build-your-own-web-search-engine)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 
@@ -352,6 +351,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [**Python**: _Python Tutorial: Make Your Own Text Editor_](https://www.youtube.com/watch?v=xqDonHEYPgA) [video]
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
+* [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://www.philippflenker.com/hecto/)
 
 #### Build your own `Visual Recognition System`
 
