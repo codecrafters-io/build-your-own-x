@@ -196,7 +196,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [**JavaScript**: _Build your own 8-Ball Pool game from scratch_](https://www.youtube.com/watch?v=aXwCrtAo4Wc) [video]
 * [**JavaScript**: _How to Make Your First Roguelike_](https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677)
 * [**JavaScript**: _Think like a programmer: How to build Snake using only JavaScript, HTML & CSS_](https://medium.freecodecamp.org/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e)
-* [**JavaScript**: _Build a complete 2D game with vanilla JavaScript for beginners_](https://www.youtube.com/watch?v=GFO_txvwK_c&list=WL&index=7&t=1749s)
+* [**JavaScript**: _Build a complete 2D game with vanilla JavaScript for beginners_](https://www.youtube.com/watch?v=GFO_txvwK_c&list=WL&index=7&t=1749s) [video]
 * [**Lua**: _BYTEPATH_](https://github.com/SSYGEN/blog/issues/30)
 * [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
