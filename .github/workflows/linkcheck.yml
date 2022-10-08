@@ -11,3 +11,5 @@ jobs:
       - uses: actions/checkout@v3
       - name: Run linksafe
         uses: TechWiz-3/linksafe@main
+        with:
+          whitelist_files: "codecrafters-banner.png"
