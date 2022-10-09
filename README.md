@@ -31,6 +31,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [Visual Recognition System](#build-your-own-visual-recognition-system)
 * [Voxel Engine](#build-your-own-voxel-engine)
 * [Web Server](#build-your-own-web-server)
+* [VS Code Extension](#build-your-own-vs-code-extension)
 * [Uncategorized](#uncategorized)
 
 ## Tutorials
@@ -379,6 +380,12 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [**Python**: _Building a basic HTTP Server from scratch in Python_](http://joaoventura.net/blog/2017/python-webserver/)
 * [**Python**: _Implementing a RESTful Web API with Python & Flask_](http://blog.luisrei.com/articles/flaskrest.html)
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
+
+#### Build your own `VS Code Extension`
+
+* [**JavaScript**: How to Make Your Own VS Code Extension (Ex.Hello World)](https://www.freecodecamp.org/news/making-vscode-extension)
+
+* [**TypeScript**: How to Make Your Own VS Code Extension (Ex.Hello World)](https://vscode-docs.readthedocs.io/en/stable/extensions/example-hello-world)
 
 #### Uncategorized
 
