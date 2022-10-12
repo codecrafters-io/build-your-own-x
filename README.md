@@ -115,6 +115,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
 * [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
 * [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day06_nistow.html)
+* [**Node.js**: _Create a CLI tool in Javascript_](https://citw.dev/tutorial/create-your-own-cli-tool)
 
 #### Build your own `Database`
 
