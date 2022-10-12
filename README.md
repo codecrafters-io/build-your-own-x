@@ -383,9 +383,9 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 #### Build your own `VS Code Extension`
 
-* [**JavaScript**: How to Make Your Own VS Code Extension (Ex.Hello World)](https://www.freecodecamp.org/news/making-vscode-extension)
+* [**JavaScript**: _How to Make Your Own VS Code Extension (Ex.Hello World)_](https://www.freecodecamp.org/news/making-vscode-extension)
 
-* [**TypeScript**: How to Make Your Own VS Code Extension (Ex.Hello World)](https://vscode-docs.readthedocs.io/en/stable/extensions/example-hello-world)
+* [**TypeScript**: _How to Make Your Own VS Code Extension (Ex.Hello World)_](https://vscode-docs.readthedocs.io/en/stable/extensions/example-hello-world)
 
 #### Uncategorized
 
