@@ -7,7 +7,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 ## Table of Contents: Build your own X
 
 * [3D Renderer](#build-your-own-3d-renderer)
-* [Audio vizualization](#build-your-own-audio-vizualization)
+* [Audio vizualizer](#build-your-own-audio-vizualizer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
@@ -49,7 +49,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
 
-#### Build your own `Audio vizualization`
+#### Build your own `Audio vizualizer`
 
 * [**C# / Unity**: _Audio Visualization - Unity/C# Tutorial_](https://www.youtube.com/playlist?list=PL3POsQzaCw53p2tA6AWf7_AWgplskR0Vo) [video]
 * [**Processing**: _processing.pdf_](https://www.cg.tuwien.ac.at/courses/WissArbeiten/WS2010/processing.pdf)
