@@ -1,10 +1,12 @@
-[![CodeCrafters.io](https://codecrafters.vercel.app/for/github-repo-banner.png)](https://codecrafters.io/github-banner)
+[![Banner](https://codecrafters.io/landing/images/byox-banner.png)](https://codecrafters.io/github-banner)
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. It's a great way to learn. Submissions welcome, just send a PR.
+## Table of Contents: Build your own X
+
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
-## Table of Contents: Build your own X
+It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
