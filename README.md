@@ -109,6 +109,7 @@ It's a great way to learn.
 * [**Python**: _Creating Reddit Bot with Python & PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
 * [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 * [**Rust**: _A bot for Starcraft in Rust, C or any other language_](https://habr.com/en/post/436254/)
+* [**Go**: _Creating a Twitter Bot in Go_](https://blog.jonaylor.xyz/creating-a-twitter-bot-in-go)
 
 #### Build your own `Command-Line Tool`
 
@@ -260,6 +261,7 @@ It's a great way to learn.
 * [**C++**: _Write your own Operating System_](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) [video]
 * [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
+* [**Rust**: _Build a terminal emulator from scartch_](https://www.poor.dev/blog/terminal-anatomy/)
 
 #### Build your own `Physics Engine`
 
