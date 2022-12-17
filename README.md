@@ -260,6 +260,7 @@ It's a great way to learn.
 * [**C++**: _Write your own Operating System_](https://www.youtube.com/playlist?list=PLHh55M_Kq4OApWScZyPl5HhgsTJS9MZ6M) [video]
 * [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
+* [**(any)**: Linux from scratch v11.2](https://linuxfromscratch.org/lfs/downloads/stable/LFS-BOOK-11.2.pdf)
 
 #### Build your own `Physics Engine`
 
