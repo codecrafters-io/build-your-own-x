@@ -174,6 +174,7 @@ It's a great way to learn.
 
 #### Build your own `Game`
 
+* [**(any)**: _The Best Programming Languages for Building Games_](https://www.sitepoint.com/best-programming-language-for-game-development/)
 * [**C**: _Handmade Hero_](https://handmadehero.org/)
 * [**C**: _How to Program an NES game in C_](https://nesdoug.com/)
 * [**C**: _Chess Engine In C_](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
@@ -195,6 +196,7 @@ It's a great way to learn.
 * [**Go**: _Games With Go_](https://www.youtube.com/playlist?list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x) [video]
 * [**Java**: _Code a 2D Game Engine using Java - Full Course for Beginners_](https://www.youtube.com/watch?v=025QFeZfeyM) [video]
 * [**Java**: _3D Game Development with LWJGL 3_](https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/)
+* [**JavaScript**: _Ultimate Guide to JavaScript Game Development_](https://www.codewizardshq.com/javascript-games/)
 * [**JavaScript**: _2D breakout game using Phaser_](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
 * [**JavaScript**: _How to Make Flappy Bird in HTML5 With Phaser_](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 * [**JavaScript**: _Developing Games with React, Redux, and SVG_](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
