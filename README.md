@@ -359,7 +359,7 @@ It's a great way to learn.
 * [**Python**: _Python Tutorial: Make Your Own Text Editor_](https://www.youtube.com/watch?v=xqDonHEYPgA) [video]
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
-* [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://www.philippflenker.com/hecto/)
+* [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://www.flenker.blog/hecto/)
 
 #### Build your own `Visual Recognition System`
 
