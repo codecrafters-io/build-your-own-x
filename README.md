@@ -32,6 +32,7 @@ It's a great way to learn.
 * [Text Editor](#build-your-own-text-editor)
 * [Visual Recognition System](#build-your-own-visual-recognition-system)
 * [Voxel Engine](#build-your-own-voxel-engine)
+* [Web Browser](#build-your-own-web-browser)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
 
@@ -370,6 +371,11 @@ It's a great way to learn.
 * [**C++**: _Let's Make a Voxel Engine_](https://sites.google.com/site/letsmakeavoxelengine/home)
 * [**Java**: _Java Voxel Engine Tutorial_](https://www.youtube.com/watch?v=QZ4Vk2PkPZk&list=PL80Zqpd23vJfyWQi-8FKDbeO_ZQamLKJL) [video]
 
+#### Build your own `Web Browser`
+
+* [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
+* [**Python**: _Browser Engineering_](https://browser.engineering)
+
 #### Build your own `Web Server`
 
 * [**C#**: _Writing a Web Server from Scratch_](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
@@ -440,7 +446,6 @@ It's a great way to learn.
 * [**Python**: _Build your own Git plugin with python_](https://www.joshburns.xyz/posts/byo_git_plugin_tutorial)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
-* [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
