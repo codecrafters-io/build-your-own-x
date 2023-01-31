@@ -128,7 +128,7 @@ It's a great way to learn.
 * [**JavaScript**: _Dagoba: an in-memory graph database_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
-* [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/)
+* [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
 
 #### Build your own `Docker`
 
