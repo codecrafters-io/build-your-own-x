@@ -120,6 +120,9 @@ It's a great way to learn.
 * [**Go**: _Go CLI tutorial: fortune clone_](https://flaviocopes.com/go-tutorial-fortune/)
 * [**Nim**: _Writing a stow alternative to manage dotfiles_](https://xmonader.github.io/nimdays/day06_nistow.html)
 * [**Node.js**: _Create a CLI tool in Javascript_](https://citw.dev/tutorial/create-your-own-cli-tool)
+* [**Rust**: _Command line apps in Rust_](https://rust-cli.github.io/book/index.html)
+* [**Rust**: _Writing a Command Line Tool in Rust_](https://mattgathu.github.io/2017/08/29/writing-cli-app-rust.html)
+
 
 #### Build your own `Database`
 
