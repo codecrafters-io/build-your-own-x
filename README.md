@@ -1,12 +1,12 @@
 [![Banner](https://codecrafters.io/landing/images/byox-banner.png)](https://codecrafters.io/github-banner)
 
-## Table of Contents: Build your own X
+## Table of Contents: Build Your Own X
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch! 
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
-It's a great way to learn.
+It's a great way to learn to code!
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
@@ -466,8 +466,8 @@ It's a great way to learn.
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
 ## Contribute 
-* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
-* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
+* Submissions are welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new).
+* Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions".
 
 ## Origins & License
 
