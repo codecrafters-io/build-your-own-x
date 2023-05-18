@@ -352,6 +352,8 @@ It's a great way to learn.
 #### Build your own `Shell`
 
 * [**C**: _Tutorial - Write a Shell in C_](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [**C**: _Building a Simple Shell in C: A Step-by-Step Tutorial 🚀 Part 1](https://jiyeoncodemaster.wordpress.com/2022/11/10/part-1-building-a-simple-shell-in-c-a-step-by-step-tutorial-%f0%9f%9a%80/)
+* [**C**: _Building a Simple Shell in C: A Step-by-Step Tutorial 🚀 Part 2](https://jiyeoncodemaster.wordpress.com/2022/11/12/part-2-building-a-simple-shell-in-c-a-step-by-step-tutorial-%f0%9f%9a%80/)
 * [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
 * [**C**: _Writing a UNIX Shell_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
