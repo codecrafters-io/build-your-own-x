@@ -1,4 +1,4 @@
-[![Banner](https://codecrafters.io/landing/images/byox-banner.gif)](https://codecrafters.io/github-banner)
+[![Banner](https://codecrafters.io/landing/images/byox-banner.png)](https://codecrafters.io/github-banner)
 
 ## Table of Contents: Build your own X
 
