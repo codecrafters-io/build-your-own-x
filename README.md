@@ -40,7 +40,7 @@ It's a great way to learn.
 
 #### Build your own `3D Renderer`
 
-* [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
+* [**C++**: Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
 * [**C++**: _Raycasting engine of Wolfenstein 3D_](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: _Physically Based Rendering:From Theory To Implementation_](http://www.pbr-book.org/)
@@ -352,8 +352,8 @@ It's a great way to learn.
 #### Build your own `Shell`
 
 * [**C**: _Tutorial - Write a Shell in C_](https://brennan.io/2015/01/16/write-a-shell-in-c/)
-* [**C**: _Building a Simple Shell in C: A Step-by-Step Tutorial 🚀 Part 1](https://jiyeoncodemaster.wordpress.com/2022/11/10/part-1-building-a-simple-shell-in-c-a-step-by-step-tutorial-%f0%9f%9a%80/)
-* [**C**: _Building a Simple Shell in C: A Step-by-Step Tutorial 🚀 Part 2](https://jiyeoncodemaster.wordpress.com/2022/11/12/part-2-building-a-simple-shell-in-c-a-step-by-step-tutorial-%f0%9f%9a%80/)
+* [**C**: Building a Simple Shell in C: A Step-by-Step Tutorial 🚀 Part 1](https://jiyeoncodemaster.wordpress.com/2022/11/10/part-1-building-a-simple-shell-in-c-a-step-by-step-tutorial-%f0%9f%9a%80/)
+* [**C**: Building a Simple Shell in C: A Step-by-Step Tutorial 🚀 Part 2](https://jiyeoncodemaster.wordpress.com/2022/11/12/part-2-building-a-simple-shell-in-c-a-step-by-step-tutorial-%f0%9f%9a%80/)
 * [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
 * [**C**: _Writing a UNIX Shell_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
@@ -414,7 +414,7 @@ It's a great way to learn.
 * [**C**: _The very basics of a terminal emulator_](https://www.uninformativ.de/blog/postings/2018-02-24/0/POSTING-en.html)
 * [**C**: _Write a System Call_](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [**C**: _Sol - An MQTT broker from scratch_](https://codepr.github.io/posts/sol-mqtt-broker)
-* [**C**: _File Compression in C: A Detailed Guide on Run-Length Encoding](https://code-craft-eta.vercel.app/tutorials/rle.html)
+* [**C**: File Compression in C: A Detailed Guide on Run-Length Encoding](https://code-craft-eta.vercel.app/tutorials/rle.html)
 * [**C++**: _Build your own VR headset for $200_](https://github.com/relativty/Relativ)
 * [**C++**: _How X Window Managers work and how to write one_](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
 * [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
