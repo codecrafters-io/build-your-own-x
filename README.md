@@ -138,6 +138,7 @@ It's a great way to learn.
 * [**Golang**: _Build Your Own Database from Scratch: Persistence, Indexing, Concurrency_](https://build-your-own.org/database/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
 * [**Zig**: _A Database Without Dynamic Memory Allocation_](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
+* [**Zig**: _Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode_](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
 
 #### Build your own `Docker`
 
