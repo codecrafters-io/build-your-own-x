@@ -121,6 +121,7 @@ It's a great way to learn.
 * [**Node.js**: _Create a CLI tool in Javascript_](https://citw.dev/tutorial/create-your-own-cli-tool)
 * [**Rust**: _Command line apps in Rust_](https://rust-cli.github.io/book/index.html)
 * [**Rust**: _Writing a Command Line Tool in Rust_](https://mattgathu.github.io/2017/08/29/writing-cli-app-rust.html)
+* [**C#**: _Writing a wc Command Line Tool in C# ](https://github.com/ebrahim-s-ebrahim/ccwc)
 
 
 #### Build your own `Database`
