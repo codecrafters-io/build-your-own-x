@@ -135,7 +135,8 @@ It's a great way to learn.
 * [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
 * [**Golang**: _Build Your Own Database from Scratch: Persistence, Indexing, Concurrency_](https://build-your-own.org/database/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
-
+* [**Golang**: _Build Your Own Redis from Scratch](https://www.build-redis-from-scratch.dev/)
+* 
 #### Build your own `Docker`
 
 * [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
