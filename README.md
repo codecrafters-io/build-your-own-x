@@ -230,7 +230,7 @@ It's a great way to learn.
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
 
 #### Build your own `Network`
-* [**Linux**: _Build your own cloud network with wireguard_](https://www.qovery.com/blog/build-your-own-cloud-network)
+* [**Linux**: _Build your own (IPv6) network with wireguard_](https://www.qovery.com/blog/build-your-own-network-with-linux-and-wireguard)
 
 #### Build your own `Network Stack`
 
