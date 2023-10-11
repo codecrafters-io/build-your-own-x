@@ -376,6 +376,7 @@ It's a great way to learn.
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
 * [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://www.flenker.blog/hecto/)
+* [**JS**:  _Build your own code editor in JS_ _](https://www.youtube.com/watch?v=tupa5BRHK4Q)
 
 #### Build your own `Visual Recognition System`
 
