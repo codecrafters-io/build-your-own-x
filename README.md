@@ -51,6 +51,7 @@ It's a great way to learn.
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
+* [**Rust/Zig**: _Writing a small ray tracer in Rust and Zig_](https://nelari.us/post/raytracer_with_rust_and_zig/)
 
 #### Build your own `Augmented Reality`
 
@@ -136,6 +137,8 @@ It's a great way to learn.
 * [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
+* [**Zig**: _A Database Without Dynamic Memory Allocation_](https://tigerbeetle.com/blog/a-database-without-dynamic-memory/)
+* [**Zig**: _Building a high-performance database buffer pool in Zig using io_uring's new fixed-buffer mode_](https://gavinray97.github.io/blog/io-uring-fixed-bufferpool-zig)
 
 #### Build your own `Docker`
 
@@ -217,6 +220,7 @@ It's a great way to learn.
 * [**Ruby**: _Ruby Snake_](https://www.diatomenterprises.com/gamedev-on-ruby-why-not/)
 * [**Rust**: _Adventures in Rust: A Basic 2D Game_](https://a5huynh.github.io/posts/2018/adventures-in-rust/)
 * [**Rust**: _Roguelike Tutorial in Rust + tcod_](https://tomassedovic.github.io/roguelike-tutorial/)
+* [**Zig**: _Writing and Releasing a game in zig_](https://zig.news/samhattangady/writing-and-releasing-a-game-in-zig-13f3)
 
 #### Build your own `Git`
 
@@ -272,6 +276,7 @@ It's a great way to learn.
 * [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
 * [**Rust**: _Add RISC-V Rust Operating System Tutorial_](https://osblog.stephenmarz.com/)
+* [**Zig**: _Using Zig to Provide Stack Traces on Kernel Panic for a Bare Bones Operating System_](https://andrewkelley.me/post/zig-stack-traces-kernel-panic-bare-bones-os.html)
 * [**(any)**: Linux from scratch](https://linuxfromscratch.org/lfs)
 
 #### Build your own `Physics Engine`
@@ -328,6 +333,8 @@ It's a great way to learn.
 * [**Rust**: _Learning Parser Combinators With Rust_](https://bodil.lol/parser-combinators/)
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 * [**TypeScript**: _Build your own WebAssembly Compiler_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+* [**Zig**: _Writing A Compiler_](https://g-w1.github.io/blog/code/2020/11/18/writing-a-compiler.html)
+* [**Zig**: _Writing A Brain**** Compiler_](https://g-w1.github.io/blog/zig/low-level/compiler/2021/05/23/bf-compile.html)
 
 #### Build your own `Regex Engine`
 
@@ -340,6 +347,7 @@ It's a great way to learn.
 * [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
 * [**Python**: _Build Your Own Regular Expression Engines: Backtracking, NFA, DFA_](https://build-your-own.org/b2a/r0_intro)
 * [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
+* [**Zig**: _Regular Expressions in Zig_](https://www.openmymind.net/Regular-Expressions-in-Zig/)
 
 #### Build your own `Search Engine`
 
@@ -359,6 +367,7 @@ It's a great way to learn.
 * [**C**: Write a shell in C](https://danishpraka.sh/posts/write-a-shell/)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+* [**Zig**: _A Unix Shell in Zig_](http://ratfactor.com/zig/forking-is-cool)
 
 #### Build your own `Template Engine`
 
@@ -468,6 +477,10 @@ It's a great way to learn.
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
+* [**Zig**: _How to Write a Redis Module in Zig_](https://redislabs.com/blog/write-redis-module-zig/)
+* [**Zig**: _Learning About ELF With Zig_](https://g-w1.github.io/blog/zig/low-level/2021/03/15/elf-linux.html)
+* [**Zig**: _Want to create a TUI application? - The Basics of "Uncooked" Terminal IO_](https://zig.news/lhp/want-to-create-a-tui-application-the-basics-of-uncooked-terminal-io-17gm)
+* [**Zig**: _Why I rewrote my Rust keyboard firmware in Zig: consistency, mastery, and fun_](https://kevinlynagh.com/rust-zig/)
 
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
