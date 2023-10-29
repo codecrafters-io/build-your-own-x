@@ -92,6 +92,8 @@ It's a great way to learn.
 * [**Scala**: _How to build a simple actor-based blockchain_](https://medium.freecodecamp.org/how-to-build-a-simple-actor-based-blockchain-aac1e996c177)
 * [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
 * [**TypeScript**: _NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus_](https://naivecoinstake.learn.uno/)
+* [**Rust**: _Building A Blockchain in Rust & Substrate_](https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp)
+
 
 #### Build your own `Bot`
 
@@ -136,6 +138,7 @@ It's a great way to learn.
 * [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dinesh.wiki/posts/build-your-own-persistent-kv-store/)
+* [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
 
 #### Build your own `Docker`
 
