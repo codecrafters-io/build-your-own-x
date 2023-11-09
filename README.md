@@ -230,6 +230,7 @@ It's a great way to learn.
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+* [**Ruby**: Building Git](https://github.com/jcoglan/jit)
 
 #### Build your own `Network Stack`
 
