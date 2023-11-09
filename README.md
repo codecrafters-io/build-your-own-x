@@ -290,6 +290,8 @@ It's a great way to learn.
 #### Build your own `Programming Language`
 
 * [**(any)**: _mal - Make a Lisp_](https://github.com/kanaka/mal#mal---make-a-lisp)
+* [**(any)**: _simplelanguage: How to implement a language in Truffle for the GraalVM_](https://github.com/graalvm/simplelanguage/)
+* [**(any)**: _RPython: Writing an Interpreter with PyPy_](https://morepypy.blogspot.com/2011/04/tutorial-writing-interpreter-with-pypy.html)
 * [**Assembly**: _Jonesforth_](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [**C**: _Baby's First Garbage Collector_](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
 * [**C**: _Build Your Own Lisp: Learn C and build your own programming language in 1000 lines of code_](http://www.buildyourownlisp.com/)
