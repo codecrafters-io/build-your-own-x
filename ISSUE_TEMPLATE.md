@@ -1,17 +1,6 @@
 <!--
 Thanks for your contribution! If you're submitting a tutorial, please ensure it includes a guided path for learners, either through a step-by-step article or by breaking down code into digestible parts that are easy to follow. Please submit only programming tutorials that build something interesting from scratch; no frameworks, libraries, guides for frameworks/libraries or tutorials that glue just other libraries together. 
 -->
-
-### Main programming language
-<!-- max. 1 -->
-
-### Tutorial title
-<!-- the original title from the article, repository, ... -->
-https://github.com/confusedconsciousness/build-your-own-x.git
-<!--
-Thanks for your contribution! If you're submitting a tutorial, please ensure it includes a guided path for learners, either through a step-by-step article or by breaking down code into digestible parts that are easy to follow. Please submit only programming tutorials that build something interesting from scratch; no frameworks, libraries, guides for frameworks/libraries or tutorials that glue just other libraries together. 
--->
-
 ### Main programming language
 Java
 
