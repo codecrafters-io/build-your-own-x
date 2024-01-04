@@ -1,14 +1,14 @@
 <!--
 Thanks for your contribution! If you're submitting a tutorial, please ensure it includes a guided path for learners, either through a step-by-step article or by breaking down code into digestible parts that are easy to follow. Please submit only programming tutorials that build something interesting from scratch; no frameworks, libraries, guides for frameworks/libraries or tutorials that glue just other libraries together. 
 -->
+
 ### Main programming language
-Java
+<!-- max. 1 -->
 
 ### Tutorial title
-Build your own Search Engine from Scratch in Java
+<!-- the original title from the article, repository, ... -->
 
 ### Tutorial URL
-https://www.0xkishan.com/blogs/build-your-own-search-engine-from-scratch-in-java
 
 ### Category
 * [ ] 3D Renderer
@@ -29,7 +29,7 @@ https://www.0xkishan.com/blogs/build-your-own-search-engine-from-scratch-in-java
 * [ ] Physics Engine
 * [ ] Programming Language
 * [ ] Regex Engine
-* [x] Search Engine
+* [ ] Search Engine
 * [ ] Shell
 * [ ] Template Engine
 * [ ] Visual Recognition System
@@ -37,4 +37,3 @@ https://www.0xkishan.com/blogs/build-your-own-search-engine-from-scratch-in-java
 * [ ] Web Search Engine
 * [ ] Web Server
 * [ ] Uncategorized
-* 
