@@ -7,8 +7,19 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 
 ### Tutorial title
 <!-- the original title from the article, repository, ... -->
+https://github.com/confusedconsciousness/build-your-own-x.git
+<!--
+Thanks for your contribution! If you're submitting a tutorial, please ensure it includes a guided path for learners, either through a step-by-step article or by breaking down code into digestible parts that are easy to follow. Please submit only programming tutorials that build something interesting from scratch; no frameworks, libraries, guides for frameworks/libraries or tutorials that glue just other libraries together. 
+-->
+
+### Main programming language
+Java
+
+### Tutorial title
+Build your own Search Engine from Scratch in Java
 
 ### Tutorial URL
+https://www.0xkishan.com/blogs/build-your-own-search-engine-from-scratch-in-java
 
 ### Category
 * [ ] 3D Renderer
@@ -29,7 +40,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Physics Engine
 * [ ] Programming Language
 * [ ] Regex Engine
-* [ ] Search Engine
+* [x] Search Engine
 * [ ] Shell
 * [ ] Template Engine
 * [ ] Visual Recognition System
@@ -37,3 +48,4 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Web Search Engine
 * [ ] Web Server
 * [ ] Uncategorized
+* 
