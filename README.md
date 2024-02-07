@@ -14,6 +14,7 @@ It's a great way to learn.
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
+* [DNS](#build-your-own-dns)
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
@@ -148,6 +149,9 @@ It's a great way to learn.
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
+
+#### Build your own `DNS`
+* [**BIND**: _Build your own DNS server on Linux_](https://opensource.com/article/17/4/build-your-own-name-server)
 
 #### Build your own `Emulator / Virtual Machine`
 
