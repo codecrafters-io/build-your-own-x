@@ -147,6 +147,7 @@ It's a great way to learn.
 * [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=8fi7uSYlOdc) [video]
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
+* [**Rust**: _Writing a container in Rust_](https://litchipi.site/serie/containers_in_rust)
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
 
 #### Build your own `Emulator / Virtual Machine`
