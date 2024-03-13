@@ -384,6 +384,7 @@ It's a great way to learn.
 
 * [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
+* [**Python**: _Building an App to Classify Dogs Using fastai and Streamlit_](https://towardsdatascience.com/how-to-create-an-app-to-classify-dogs-using-fastai-and-streamlit-af3e75f0ee28?sk=929c3020d855295fcf0e7eab75f2a596)
 
 #### Build your own `Voxel Engine`
 
