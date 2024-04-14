@@ -123,6 +123,7 @@ It's a great way to learn.
 * [**Node.js**: _Create a CLI tool in Javascript_](https://citw.dev/tutorial/create-your-own-cli-tool)
 * [**Rust**: _Command line apps in Rust_](https://rust-cli.github.io/book/index.html)
 * [**Rust**: _Writing a Command Line Tool in Rust_](https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html)
+* [**Python**: _Writing a Interactive Command Line Tool in Python_](https://pratikpathak.com/create-an-interactive-command-line-tool-in-python-%f0%9f%90%8d/)
 
 
 #### Build your own `Database`
