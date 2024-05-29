@@ -40,6 +40,7 @@ It's a great way to learn.
 
 #### Build your own `3D Renderer`
 
+* [**C**: _Create a spinning ASCII donut_](https://www.a1k0n.net/2021/01/13/optimizing-donut.html)
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
 * [**C++**: _Raycasting engine of Wolfenstein 3D_](http://lodev.org/cgtutor/raycasting.html)
