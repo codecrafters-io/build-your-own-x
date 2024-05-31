@@ -164,6 +164,7 @@ It's a great way to learn.
 * [**JavaScript**: _GameBoy Emulation in JavaScript_](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
 * [**Python**: _Emulation Basics: Write your own Chip 8 Emulator/Interpreter_](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 * [**Rust**: _0dmg: Learning Rust by building a partial Game Boy emulator_](https://jeremybanks.github.io/0dmg/)
+* [**Rust**: _Writing NES Emulator in Rust_](https://bugzmanov.github.io/nes_ebook/)
 
 #### Build your own `Front-end Framework / Library`
 
