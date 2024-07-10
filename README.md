@@ -1,6 +1,6 @@
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
-## Build your own <insert-technology-here>
+## Build your own &lt;insert-technology-here&gt;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
