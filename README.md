@@ -1,6 +1,6 @@
 [![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
-## Table of Contents: Build your own X
+## Build your own &lt;insert-technology-here&gt;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
 
@@ -383,7 +383,7 @@ It's a great way to learn.
 
 #### Build your own `Visual Recognition System`
 
-* [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://blog.devcenter.co/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
+* [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
 #### Build your own `Voxel Engine`
