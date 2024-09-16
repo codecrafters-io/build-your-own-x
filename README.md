@@ -236,6 +236,7 @@ It's a great way to learn.
 * [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [**C / Python**: _Build your own VPN/Virtual Switch_](https://github.com/peiyuanix/build-your-own-zerotier)
 * [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+* [**Python**: _Network Programming in Python_](https://glammingspace.blogspot.com/2019/09/network-programming-in-python.html?m=1)
 
 #### Build your own `Neural Network`
 
