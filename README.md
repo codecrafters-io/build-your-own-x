@@ -267,6 +267,7 @@ It's a great way to learn.
 * [**C**: _Kernel 201 – Let’s write a Kernel with keyboard and screen support_](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
 * [**C**: _Build a minimal multi-tasking kernel for ARM from scratch_](https://github.com/jserv/mini-arm-os)
 * [**C**: _How to create an OS from scratch_](https://github.com/cfenollosa/os-tutorial)
+* [**(any)**: _Making Simple Graphical Linux Distro from Scratch_](https://www.youtube.com/watch?v=guSDz5Iwgw0)
 * [**C**: _Malloc tutorial_](https://danluu.com/malloc-tutorial/)
 * [**C**: _Hack the virtual memory_](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
 * [**C**: _Learning operating system development using Linux kernel and Raspberry Pi_](https://github.com/s-matyukevich/raspberry-pi-os)
