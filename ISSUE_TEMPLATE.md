@@ -37,3 +37,4 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Web Search Engine
 * [ ] Web Server
 * [ ] Uncategorized
+* [ ] Fitness App
