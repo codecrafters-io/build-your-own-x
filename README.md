@@ -119,6 +119,7 @@ It's a great way to learn.
 
 #### Build your own `Command-Line Tool`
 
+* [**Dart**: _Make a weather app with Dart_](https://meamka.me/posts/make-a-weather-app-with-dart/)
 * [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
 * [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
