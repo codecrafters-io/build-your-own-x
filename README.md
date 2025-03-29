@@ -1,4 +1,21 @@
-[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
+# ai
+journey to learn new things every day using ai 
+https://desirelovell.com/
+https://www.linkedin.com/in/desirelovell/
+https://linktr.ee/desirelovell
+
+### Languages and Tools:
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+
+<h2>Skills</h2>
+<ul>
+    <li>Python</li>
+    <li>JavaScript</li>
+    <li>HTML & CSS</li>
+</ul>[![Banner](https://codecrafters.io/images/byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
 
