@@ -169,7 +169,7 @@ It's a great way to learn.
 * [**JavaScript**: _GameBoy Emulation in JavaScript_](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
 * [**Python**: _Emulation Basics: Write your own Chip 8 Emulator/Interpreter_](http://omokute.blogspot.com.br/2012/06/emulation-basics-write-your-own-chip-8.html)
 * [**Rust**: _0dmg: Learning Rust by building a partial Game Boy emulator_](https://jeremybanks.github.io/0dmg/)
-* [**Zig**: _Making a CHIP-8 emulator in Zig_](https://handling.website/archives/tag/zig)
+* [**Zig**: _Making a CHIP-8 emulator in Zig_](https://web.archive.org/web/20231029134327/https://handling.website/archives/1977)
 
 #### Build your own `Front-end Framework / Library`
 
