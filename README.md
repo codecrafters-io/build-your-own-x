@@ -55,8 +55,8 @@ It's a great way to learn.
 
 #### Build your own `Generative AI`
 
-*[**(any)**: _How to build a generative AI solution: A step-by-step guide_](https://www.leewayhertz.com/how-to-build-a-generative-ai-solution/)
-*[**Python**: _Build a GenAI Chatbot in less than an hour_](https://medium.com/@gbouslov/from-zero-to-genai-chatbot-hero-29b1f45f6542)
+* [**(any)**: _How to build a generative AI solution: A step-by-step guide_](https://www.leewayhertz.com/how-to-build-a-generative-ai-solution/)
+* [**Python**: _Build a GenAI Chatbot in less than an hour_](https://medium.com/@gbouslov/from-zero-to-genai-chatbot-hero-29b1f45f6542)
 
 #### Build your own `Augmented Reality`
 
