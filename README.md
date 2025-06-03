@@ -286,6 +286,7 @@ It's a great way to learn.
 * [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic)
+* [**JavaScript**: _Making a falling sand simulator (in 2D)_](https://jason.today/falling-sand)
 
 #### Build your own `Programming Language`
 
@@ -437,6 +438,7 @@ It's a great way to learn.
 * [**JavaScript**: _JavaScript Algorithms and Data Structures_](https://github.com/trekhleb/javascript-algorithms)
 * [**JavaScript**: _Build a ride hailing app with React Native_](https://pusher.com/tutorials/ride-hailing-react-native)
 * [**JavaScript**: _Build Your Own AdBlocker in (Literally) 10 Minutes_](https://levelup.gitconnected.com/building-your-own-adblocker-in-literally-10-minutes-1eec093b04cd)
+* [**JavaScript**: _Building Real-Time Global Illumination (in 2D with Raymarching + Radiance Cascades)_](https://jason.today/gi)
 * [**Kotlin**: _Build Your Own Cache_](https://github.com/kezhenxu94/cache-lite)
 * [**Lua**: _Building a CDN from Scratch to Learn about CDN_](https://github.com/leandromoreira/cdn-up-and-running)
 * [**Nim**: _Writing a Redis Protocol Parser_](https://xmonader.github.io/nimdays/day12_resp.html)
