@@ -20,6 +20,7 @@ It's a great way to learn.
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
+* [Memory Allocator](#build-your-own-memory-allocator)
 * [Network Stack](#build-your-own-network-stack)
 * [Neural Network](#build-your-own-neural-network)
 * [Operating System](#build-your-own-operating-system)
