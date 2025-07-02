@@ -37,3 +37,4 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Web Search Engine
 * [ ] Web Server
 * [ ] Uncategorized
+A great educational resource! You can see the power of open source and the importance of community contribution in this project. Thanks to everyone involved, you are doing an incredible job for equal opportunity in education.
