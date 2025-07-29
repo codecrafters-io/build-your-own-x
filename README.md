@@ -276,7 +276,7 @@ It's a great way to learn.
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
 * [**Rust**: _Add RISC-V Rust Operating System Tutorial_](https://osblog.stephenmarz.com/)
 * [**(any)**: _Linux from scratch_](https://linuxfromscratch.org/lfs)
-
+* [**(any)**: _OSDev.org_](https://wiki.osdev.org/)
 #### Build your own `Physics Engine`
 
 * [**C**: _Video Game Physics Tutorial_](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
