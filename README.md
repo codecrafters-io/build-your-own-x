@@ -1,3 +1,34 @@
+
+<div align="right">
+  <details>
+    <summary >🌐 Language</summary>
+    <div>
+      <div align="center">
+        <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=en">English</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=zh-CN">简体中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=zh-TW">繁體中文</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=ja">日本語</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=ko">한국어</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=hi">हिन्दी</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=th">ไทย</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=fr">Français</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=de">Deutsch</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=es">Español</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=it">Itapano</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=ru">Русский</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=pt">Português</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=nl">Nederlands</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=pl">Polski</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=ar">العربية</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=fa">فارسی</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=tr">Türkçe</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=vi">Tiếng Việt</a>
+        | <a href="https://openaitx.github.io/view.html?user=codecrafters-io&project=build-your-own-x&lang=id">Bahasa Indonesia</a>
+      </div>
+    </div>
+  </details>
+</div>
+
 [![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
