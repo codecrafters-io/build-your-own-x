@@ -393,6 +393,7 @@ It's a great way to learn.
 
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Python**: _Browser Engineering_](https://browser.engineering)
+* [**Python**: _Create Your Own Browser Using Python_](https://www.youtube.com/watch?v=z-5bZ8EoKu4)[video]
 
 #### Build your own `Web Server`
 
