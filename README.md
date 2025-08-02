@@ -194,6 +194,7 @@ It's a great way to learn.
 * [**C**: _Coding A Sudoku Solver in C_](https://www.youtube.com/playlist?list=PLkTXsX7igf8edTYU92nU-f5Ntzuf-RKvW) [video]
 * [**C**: _Coding a Rogue/Nethack RPG in C_](https://www.youtube.com/playlist?list=PLkTXsX7igf8erbWGYT4iSAhpnJLJ0Nk5G) [video]
 * [**C**: _On Tetris and Reimplementation_](https://brennan.io/2015/06/12/tetris-reimplementation/)
+* [**C**: _Kohi Game Engine: a Vulkan Game Engine Series in C](https://www.youtube.com/watch?v=dHPuU-DJoBM&list=PLv8Ddw9K0JPg1BEO-RS-0MYs423cvLVtj&ab_channel=TravisVroman) [video]
 * [**C++**: _Breakout_](https://learnopengl.com/In-Practice/2D-Game/Breakout)
 * [**C++**: _Beginning Game Programming v2.0_](http://lazyfoo.net/tutorials/SDL/)
 * [**C++**: _Tetris tutorial in C++ platform independent focused in game logic for beginners_](http://javilop.com/gamedev/tetris-tutorial-in-c-platform-independent-focused-in-game-logic-for-beginners/)
