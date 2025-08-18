@@ -469,7 +469,7 @@ It's a great way to learn.
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
-* [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
+* [**TypeScript**: _Tiny Package Manager: Learn how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
