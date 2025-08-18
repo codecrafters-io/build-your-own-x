@@ -406,6 +406,7 @@ It's a great way to learn.
 * [**Python**: _Web application from scratch_](https://defn.io/2018/02/25/web-app-from-scratch-01/)
 * [**Python**: _Building a basic HTTP Server from scratch in Python_](http://joaoventura.net/blog/2017/python-webserver/)
 * [**Python**: _Implementing a RESTful Web API with Python & Flask_](http://blog.luisrei.com/articles/flaskrest.html)
+* [**Python**: _The Flask Mega-Tutorial_](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
 #### Uncategorized
