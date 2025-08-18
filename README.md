@@ -241,7 +241,8 @@ It's a great way to learn.
 #### Build your own `Neural Network`
 
 * [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
-* [**F#**: _Building Neural Networks in F#_](https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6)
+* [**F#**: _Building Neural Networks in F#: Part 1_](https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6)
+* [**F#**: _Building Neural Networks in F#: Part 2_](https://medium.com/data-science/building-neural-networks-in-f-part-2-training-evaluation-5e3a68889da6)
 * [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
 * [**Go**: _How to build a simple artificial neural network with Go_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**Go**: _Building a Neural Net from Scratch in Go_](https://datadan.io/blog/neural-net-with-go)
