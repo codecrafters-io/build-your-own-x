@@ -240,6 +240,7 @@ It's a great way to learn.
 
 #### Build your own `Neural Network`
 
+* [**C++**: _Neural Network from scratch in C++_](https://github.com/SorawitChok/Neural-Network-from-scratch-in-Cpp)
 * [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
 * [**F#**: _Building Neural Networks in F#_](https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6)
 * [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
