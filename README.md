@@ -8,6 +8,16 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
+<!-- Keep these links. Translations will automatically update with the README. -->
+[Deutsch](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=de) | 
+[Español](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=es) | 
+[français](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=fr) | 
+[日本語](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=ja) | 
+[한국어](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=ko) | 
+[Português](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=pt) | 
+[Русский](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=ru) | 
+[中文](https://readme-i18n.com/codecrafters-io/build-your-own-x?lang=zh)
+
 * [3D Renderer](#build-your-own-3d-renderer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
