@@ -19,6 +19,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Command-Line Tool
 * [ ] Database
 * [ ] Docker
+* [ ] E-commerce / Marketplace
 * [ ] Emulator / Virtual Machine
 * [ ] Front-end Framework / Library
 * [ ] Game
