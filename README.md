@@ -16,6 +16,7 @@ It's a great way to learn.
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
+* [E-commerce / Marketplace](#build-your-own-e-commerce--marketplace)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
@@ -149,6 +150,23 @@ It's a great way to learn.
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
+
+#### Build your own `E-commerce / Marketplace`
+
+* [**Django**: _Build an E-commerce Website with Django_](https://www.youtube.com/watch?v=YZvRrldjf1Y) [video]
+* [**Go**: _Building a Marketplace Platform with Go_](https://www.usegolang.com/)
+* [**JavaScript**: _Build a Full Stack Amazon Clone_](https://www.youtube.com/watch?v=RDV3Z1KCBvo) [video]
+* [**JavaScript**: _Building an E-commerce Application with MEAN Stack_](https://www.youtube.com/watch?v=N9GfFX_mYqw) [video]
+* [**Laravel**: _Build a Marketplace with Laravel_](https://www.youtube.com/watch?v=VD2l9A_3YQE) [video]
+* [**Node.js**: _Build a Shopping Cart with Node.js and Stripe_](https://www.youtube.com/watch?v=mI_-1tbIXQI) [video]
+* [**Node.js**: _Build an E-commerce REST API with Node.js_](https://dev.to/andrewbaisden/how-to-create-a-full-stack-e-commerce-website-from-scratch-3b9g)
+* [**Python**: _Build an E-commerce Site with Django_](https://justdjango.com/blog/build-an-e-commerce-website-with-django)
+* [**Python**: _Building an E-commerce Platform with Django and Stripe_](https://testdriven.io/blog/django-stripe-tutorial/)
+* [**Python**: _Create a Digital Marketplace with Django_](https://www.codingforentrepreneurs.com/projects/ecommerce/)
+* [**Rails**: _Build a Marketplace with Ruby on Rails_](https://www.learnenough.com/ruby-on-rails-tutorial)
+* [**React**: _Build an E-commerce App with React and Commerce.js_](https://www.freecodecamp.org/news/build-an-e-commerce-app-with-react-and-commerce-js/)
+* [**React**: _Build a Full Stack E-commerce with Next.js and Stripe_](https://www.youtube.com/watch?v=4mOkFXyxfsU) [video]
+* [**Vue.js**: _Building a Shopping Cart with Vue 3 and TypeScript_](https://vueschool.io/articles/vuejs-tutorials/building-a-shopping-cart-with-vue-3-and-typescript/)
 
 #### Build your own `Emulator / Virtual Machine`
 
