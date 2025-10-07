@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Build Your Own X - Interactive Explorer</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <h1>🛠️ Build Your Own X</h1>
+                <p class="subtitle">Learn by building your favorite technologies from scratch</p>
+                <blockquote>
+                    <em>"What I cannot create, I do not understand"</em> — Richard Feynman
+                </blockquote>
+            </div>
+        </header>
+
+        <div class="controls">
+            <div class="search-bar">
+                <input type="text" id="searchInput" placeholder="Search tutorials (e.g., 'blockchain', 'python', 'game')... (Ctrl+K)">
+                <button id="clearSearch" class="clear-btn">✕</button>
+            </div>
+            
+            <div class="action-buttons">
+                <button id="surpriseBtn" class="surprise-btn">🎲 Surprise Me! (Ctrl+R)</button>
+                <button id="showAllBtn" class="show-all-btn">📚 Show All</button>
+            </div>
+            
+            <div class="filter-chips" id="filterChips"></div>
+        </div>
+
+        <div class="stats" id="stats">
+            <div class="stat-card">
+                <span class="stat-number" id="totalTutorials">0</span>
+                <span class="stat-label">Tutorials</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="totalCategories">0</span>
+                <span class="stat-label">Categories</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="totalLanguages">0</span>
+                <span class="stat-label">Languages</span>
+            </div>
+            <div class="stat-card">
+                <span class="stat-number" id="visibleCount">0</span>
+                <span class="stat-label">Showing</span>
+            </div>
+        </div>
+
+        <div class="categories" id="categories"></div>
+
+        <div class="modal" id="tutorialModal">
+            <div class="modal-content">
+                <span class="close-modal">&times;</span>
+                <div id="modalBody"></div>
+            </div>
+        </div>
+    </div>
+
+    <footer>
+        <p>
+            Built with ❤️ | Original repository by 
+            <a href="https://github.com/codecrafters-io/build-your-own-x" target="_blank">CodeCrafters</a>
+        </p>
+    </footer>
+
+    <script src="app.js"></script>
+</body>
+</html>
