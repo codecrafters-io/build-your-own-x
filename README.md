@@ -15,6 +15,7 @@ It's a great way to learn.
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
+* [Demo](#build-your-own-demo)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
@@ -149,6 +150,10 @@ It's a great way to learn.
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
+
+#### Build your own `Demo`
+
+* [**C++**: _How to start writing an actual demo in <400 lines_](https://gargaj.github.io/demos-for-dummies/)
 
 #### Build your own `Emulator / Virtual Machine`
 
