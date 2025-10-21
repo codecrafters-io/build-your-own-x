@@ -13,6 +13,7 @@ It's a great way to learn.
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
+* [CI system](#build-your-own-ci-system)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
@@ -112,6 +113,10 @@ It's a great way to learn.
 * [**Python**: _Creating Reddit Bot with Python & PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
 * [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 * [**Rust**: _A bot for Starcraft in Rust, C or any other language_](https://habr.com/en/post/436254/)
+
+#### Build your own `CI System`
+
+* [**Go**: _Build your own CI system in Go_](https://x-dvr.github.io/dev-blog/posts/building-ci-in-go-1/)
 
 #### Build your own `Command-Line Tool`
 
