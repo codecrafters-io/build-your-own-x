@@ -152,6 +152,7 @@ It's a great way to learn.
 
 #### Build your own `Emulator / Virtual Machine`
 
+* [**Ada**: _Write your own Virtual Machine in 62 lines of Ada_](https://harishtpj.github.io/posts/ada_vm/)
 * [**C**: _Home-grown bytecode interpreters_](https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c)
 * [**C**: _Virtual machine in C_](http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
 * [**C**: _Write your Own Virtual Machine_](https://justinmeiners.github.io/lc3-vm/)
