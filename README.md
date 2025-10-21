@@ -215,6 +215,7 @@ It's a great way to learn.
 * [**Lua**: _BYTEPATH_](https://github.com/SSYGEN/blog/issues/30)
 * [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
+* [**Python**: _Build your own AI Chess Engine in python_](https://www.youtube.com/playlist?list=PLBwF487qi8MGU81nDGaeNE1EnNEPYWKY_)
 * [**Python**: _Roguelike Tutorial Revised_](http://rogueliketutorials.com/)
 * [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
 * [**Ruby**: _Ruby Snake_](https://www.diatomenterprises.com/gamedev-on-ruby-why-not/)
