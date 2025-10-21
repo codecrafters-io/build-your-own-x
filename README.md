@@ -20,6 +20,7 @@ It's a great way to learn.
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
+* [Network](#build-your-own-network)
 * [Network Stack](#build-your-own-network-stack)
 * [Neural Network](#build-your-own-neural-network)
 * [Operating System](#build-your-own-operating-system)
@@ -230,6 +231,9 @@ It's a great way to learn.
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+
+#### Build your own `Network`
+* [**Linux**: _Build your own (IPv6) network with wireguard_](https://www.qovery.com/blog/build-your-own-network-with-linux-and-wireguard)
 
 #### Build your own `Network Stack`
 
