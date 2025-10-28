@@ -481,3 +481,10 @@ function startServer(port: number): void {
 
 // Start the server
 startServer(8080);
+
+function foo(blaz: {
+  oddly: "long" | "type";
+  but: "hey" | "this" | "is" | number;
+}) {}
+
+function new_fn(bar: number) {}
