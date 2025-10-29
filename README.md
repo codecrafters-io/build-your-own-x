@@ -318,6 +318,8 @@ It's a great way to learn.
 * [**OCaml**: _Writing a C Compiler_](https://norasandler.com/2017/11/29/Write-a-Compiler.html)
 * [**OCaml**: _Writing a Lisp, the series_](https://bernsteinbear.com/blog/lisp/)
 * [**Pascal**: _Let's Build a Compiler_](https://compilers.iecc.com/crenshaw/)
+* [**Pharo**: _Build a reflective kernel_](http://books.pharo.org/booklet-ReflectiveCore/)
+* [**Pharo**: _Build a mini Scheme_](http://books.pharo.org/booklet-AMiniSchemeInPharo/)
 * [**Python**: _A Python Interpreter Written in Python_](http://aosabook.org/en/500L/a-python-interpreter-written-in-python.html)
 * [**Python**: _lisp.py: Make your own Lisp interpreter_](http://khamidou.com/compilers/lisp.py/)
 * [**Python**: _How to Write a Lisp Interpreter in Python_](http://norvig.com/lispy.html)
