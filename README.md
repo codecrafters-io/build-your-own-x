@@ -8,33 +8,47 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
-* [3D Renderer](#build-your-own-3d-renderer)
-* [Augmented Reality](#build-your-own-augmented-reality)
-* [BitTorrent Client](#build-your-own-bittorrent-client)
-* [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
-* [Bot](#build-your-own-bot)
-* [Command-Line Tool](#build-your-own-command-line-tool)
-* [Database](#build-your-own-database)
-* [Docker](#build-your-own-docker)
-* [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
-* [Front-end Framework / Library](#build-your-own-front-end-framework--library)
-* [Game](#build-your-own-game)
-* [Git](#build-your-own-git)
-* [Network Stack](#build-your-own-network-stack)
-* [Neural Network](#build-your-own-neural-network)
-* [Operating System](#build-your-own-operating-system)
-* [Physics Engine](#build-your-own-physics-engine)
-* [Programming Language](#build-your-own-programming-language)
-* [Regex Engine](#build-your-own-regex-engine)
-* [Search Engine](#build-your-own-search-engine)
-* [Shell](#build-your-own-shell)
-* [Template Engine](#build-your-own-template-engine)
-* [Text Editor](#build-your-own-text-editor)
-* [Visual Recognition System](#build-your-own-visual-recognition-system)
-* [Voxel Engine](#build-your-own-voxel-engine)
-* [Web Browser](#build-your-own-web-browser)
-* [Web Server](#build-your-own-web-server)
-* [Uncategorized](#uncategorized)
+<h1>Table of Contents</h1>
+
+<table style="width:100%; border-collapse:collapse;">
+  <tr>
+    <td style="width:50%; vertical-align:top; border:3px double #000; padding:10px;">
+      <ul>
+        <li><a href="#build-your-own-3d-renderer">3D Renderer</a></li>
+        <li><a href="#build-your-own-augmented-reality">Augmented Reality</a></li>
+        <li><a href="#build-your-own-bittorrent-client">BitTorrent Client</a></li>
+        <li><a href="#build-your-own-blockchain--cryptocurrency">Blockchain / Cryptocurrency</a></li>
+        <li><a href="#build-your-own-bot">Bot</a></li>
+        <li><a href="#build-your-own-command-line-tool">Command-Line Tool</a></li>
+        <li><a href="#build-your-own-database">Database</a></li>
+        <li><a href="#build-your-own-docker">Docker</a></li>
+        <li><a href="#build-your-own-emulator--virtual-machine">Emulator / Virtual Machine</a></li>
+        <li><a href="#build-your-own-front-end-framework--library">Front-end Framework / Library</a></li>
+        <li><a href="#build-your-own-game">Game</a></li>
+        <li><a href="#build-your-own-git">Git</a></li>
+        <li><a href="#build-your-own-network-stack">Network Stack</a></li>
+      </ul>
+    </td>
+    <td style="width:50%; vertical-align:top; border:3px double #000; padding:10px;">
+      <ul>
+        <li><a href="#build-your-own-neural-network">Neural Network</a></li>
+        <li><a href="#build-your-own-operating-system">Operating System</a></li>
+        <li><a href="#build-your-own-physics-engine">Physics Engine</a></li>
+        <li><a href="#build-your-own-programming-language">Programming Language</a></li>
+        <li><a href="#build-your-own-regex-engine">Regex Engine</a></li>
+        <li><a href="#build-your-own-search-engine">Search Engine</a></li>
+        <li><a href="#build-your-own-shell">Shell</a></li>
+        <li><a href="#build-your-own-template-engine">Template Engine</a></li>
+        <li><a href="#build-your-own-text-editor">Text Editor</a></li>
+        <li><a href="#build-your-own-visual-recognition-system">Visual Recognition System</a></li>
+        <li><a href="#build-your-own-voxel-engine">Voxel Engine</a></li>
+        <li><a href="#build-your-own-web-browser">Web Browser</a></li>
+        <li><a href="#build-your-own-web-server">Web Server</a></li>
+        <li><a href="#uncategorized">Uncategorized</a></li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ## Tutorials
 
