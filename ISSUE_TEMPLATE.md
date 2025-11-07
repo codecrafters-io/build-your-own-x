@@ -1,4 +1,11 @@
 <!--
+Please help improve this repository by providing:
+1. Clear issue title
+2. Reproducible steps
+3. Expected vs actual behavior
+-->
+
+<!--
 Thanks for your contribution! If you're submitting a tutorial, please ensure it includes a guided path for learners, either through a step-by-step article or by breaking down code into digestible parts that are easy to follow. Please submit only programming tutorials that build something interesting from scratch; no frameworks, libraries, guides for frameworks/libraries or tutorials that glue just other libraries together. 
 -->
 
