@@ -134,6 +134,7 @@ It's a great way to learn.
 * [**Clojure**: _An Archaeology-Inspired Database_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [**Crystal**: _Why you should build your own NoSQL Database_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
 * [**Go**: _Build Your Own Database from Scratch: Persistence, Indexing, Concurrency_](https://build-your-own.org/database/)
+* [**Go**: _Code a database in 45 steps: a series of test-driven small coding puzzles_](https://trialofcode.org/database/)
 * [**Go**: _Build Your Own Redis from Scratch_](https://www.build-redis-from-scratch.dev/)
 * [**JavaScript**: _Dagoba: an in-memory graph database_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
