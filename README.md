@@ -471,6 +471,7 @@ It's a great way to learn.
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
+* [**Php**: Create your first composer packagist package: Learns how php composer works under the hood](https://medium.com/@jun.chenying/how-to-create-a-composer-packagist-package-bdd414b9efd6)
 
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
