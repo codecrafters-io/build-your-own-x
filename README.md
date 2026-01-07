@@ -472,6 +472,9 @@ It's a great way to learn.
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
+## Other language
+* [Chinese version](https://github.com/buhe/build-your-own-x-zh)
+
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
