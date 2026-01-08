@@ -15,6 +15,7 @@ It's a great way to learn.
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
+* [DNS Server](#build-your-own-dns-server)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
@@ -141,6 +142,15 @@ It's a great way to learn.
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
+
+
+#### Build your own `DNS Server`
+
+* [**Python**: _Implement DNS in a weekend_](https://implement-dns.wizardzines.com/)
+* [**Python**: _Make your own DNS Server in Python_](https://youtube.com/playlist?list=PLBOh8f9FoHHhvO5e5HF_6mYvtZegobYX2) [video]
+* [**Node.js**: _Build a DNS Server in Node.js_](https://engineerhead.github.io/dns-server/)
+* [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
+
 
 #### Build your own `Docker`
 
@@ -449,7 +459,6 @@ It's a great way to learn.
 * [**Node.js**: _Build a static site generator in 40 lines with Node.js_](https://www.webdevdrops.com/en/build-static-site-generator-nodejs-8969ebe34b22/)
 * [**Node.js**: _Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js._](https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340)
 * [**Node.js**: _How to create a real-world Node CLI app with Node_](https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3)
-* [**Node.js**: _Build a DNS Server in Node.js_](https://engineerhead.github.io/dns-server/)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
 * [**PHP**: _Make your own blog_](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [**PHP**: _Modern PHP Without a Framework_](https://kevinsmith.io/modern-php-without-a-framework)
@@ -467,7 +476,6 @@ It's a great way to learn.
 * [**Python**: _Build your own Git plugin with python_](https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
-* [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
