@@ -360,7 +360,7 @@ It's a great way to learn.
 * [**C**: _Writing a UNIX Shell_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
 * [**C**: Write a shell in C](https://danishpraka.sh/posts/write-a-shell/)
-* [**C**: _C-Shell (A lightweight, POSIX-oriented shell implementation in C)_](https://github.com/JeetMajumdar2003/C-Shell)
+* [**C**: _C-Shell_](https://github.com/JeetMajumdar2003/C-Shell)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
