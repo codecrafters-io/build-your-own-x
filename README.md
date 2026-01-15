@@ -9,6 +9,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
+* [Audio vizualizer](#build-your-own-audio-vizualizer)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
@@ -51,6 +52,12 @@ It's a great way to learn.
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
+
+#### Build your own `Audio vizualizer`
+
+* [**C# / Unity**: _Audio Visualization - Unity/C# Tutorial_](https://www.youtube.com/playlist?list=PL3POsQzaCw53p2tA6AWf7_AWgplskR0Vo) [video]
+* [**Processing**: _processing.pdf_](https://www.cg.tuwien.ac.at/courses/WissArbeiten/WS2010/processing.pdf)
+* [**Processing**: _using-processing-for-music-visualization_](https://www.generativehut.com/post/using-processing-for-music-visualization)
 
 #### Build your own `Augmented Reality`
 
