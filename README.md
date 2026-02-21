@@ -56,6 +56,7 @@ It's a great way to learn.
 * [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
+* [**Python**: _Create a Ray Tracer in Python_](https://arunrocks.com/ray-tracer-in-python-1-points-in-3d-space-show-notes/) [video]
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
 
 #### Build your own `AI Model`
