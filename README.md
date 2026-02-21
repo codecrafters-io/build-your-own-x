@@ -1,4 +1,4 @@
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
+[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
 
