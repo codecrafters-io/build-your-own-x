@@ -372,6 +372,7 @@ It's a great way to learn.
 * [**Python**: _Building A Python-Based Search Engine_](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
 * [**Python**: _Making text search learn from feedback_](https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0)
 * [**Python**: _Finding Important Words in Text Using TF-IDF_](https://stevenloria.com/tf-idf/)
+* [**Go**: _A memory based search engine_](https://github.com/mg52/search)
 
 #### Build your own `Shell`
 
