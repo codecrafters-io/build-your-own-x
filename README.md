@@ -226,6 +226,7 @@ It's a great way to learn.
 * [**Lua**: _BYTEPATH_](https://github.com/SSYGEN/blog/issues/30)
 * [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
+* [**Python**: _Developing games with Arcade Library_](https://api.arcade.academy/en/stable/get_started/arcade_book.html)
 * [**Python**: _Roguelike Tutorial Revised_](http://rogueliketutorials.com/)
 * [**Ruby**: _Developing Games With Ruby_](https://leanpub.com/developing-games-with-ruby/read)
 * [**Ruby**: _Ruby Snake_](https://www.diatomenterprises.com/gamedev-on-ruby-why-not/)
