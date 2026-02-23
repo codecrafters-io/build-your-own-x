@@ -2,9 +2,9 @@
 
 ## Build your own &lt;insert-technology-here&gt;
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+This repository is a compilation of excellent-written, step-by-step guides for re-creating our favorite technologies from scratch!
 
-> *What I cannot create, I do not understand — Richard Feynman.*
+> *What I cannot create, I do not understand — Richard Feynman (1988)*
 
 It's a great way to learn.
 
@@ -494,7 +494,7 @@ It's a great way to learn.
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
 ## Contribute 
-* Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
+* Submissions are welcome, just [send a PR](https://github.com/codecrafters-io/build-your-own-x/pulls), or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
 
 ## Origins & License
