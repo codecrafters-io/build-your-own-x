@@ -134,6 +134,7 @@ It's a great way to learn.
 * [**Rust**: _Command line apps in Rust_](https://rust-cli.github.io/book/index.html)
 * [**Rust**: _Writing a Command Line Tool in Rust_](https://mattgathu.dev/2017/08/29/writing-cli-app-rust.html)
 * [**Zig**: _Build Your Own CLI App in Zig from Scratch_](https://rebuild-x.github.io/docs/#/./zig/terminal/cli)
+* [**Python**: _Build your own AI agent credential vault_](https://github.com/nKOxxx/agentvault)
 
 
 #### Build your own `Database`
