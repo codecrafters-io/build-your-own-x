@@ -77,6 +77,7 @@ It's a great way to learn.
 * [**Python**: _Building an AI Coding Agent from Scratch_](https://github.com/suno-ai/ai-coder)
 * [**Python**: _Multi-Agent Collaboration with AutoGen_](https://github.com/microsoft/autogen)
 * [**TypeScript**: _Build AI Agents in TypeScript_](https://github.com/AgentsOS/agents-typescript)
+* [**Python**: _Build Your Own AI Agent from Scratch_](https://github.com/eysure/llm-agent-from-scratch)
 
 #### Build your own `Augmented Reality`
 
@@ -300,6 +301,7 @@ It's a great way to learn.
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
+* [**Python**: _Build a Neural Network from Scratch with NumPy_](https://www.python-course.eu/neural_networks_from_scratch.php)
 
 #### Build your own `Operating System`
 
