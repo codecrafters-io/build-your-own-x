@@ -10,12 +10,15 @@ It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
 * [AI Model](#ai-model)
+* [AI Agent](#build-your-own-ai-agent)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
+* [Vector Database](#build-your-own-vector-database)
+* [MCP (Model Context Protocol)](#build-your-own-mcp-model-context-protocol)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
@@ -60,8 +63,21 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
+* [**Python**: _Build a Production-Ready RAG System from Scratch_](https://github.com/patchlevel/ai-gateway)
+* [**Python**: _Build Your Own LLM Agent from Scratch_](https://github.com/eysure/llm-agent-from-scratch)
+* [**Python**: _Build a Multi-Agent System with CrewAI_](https://github.com/joaomdmoura/crewAI)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
+* [**Python**: _Build RAG from scratch with Ollama_](https://github.com/ivan-tolkunov/rag-ollama)
+* [**Python**: _Build Your Own Embedding Model_](https://github.com/Mozilla-OA/embedding-model-training)
+
+#### Build your own `AI Agent`
+* [**Python**: _Build Autonomous AI Agents with LangChain_](https://github.com/langchain-ai/langchain)
+* [**Python**: _Create a Claude-style Agent_](https://github.com/anas-ai/Claude-Agent)
+* [**Python**: _Building an AI Coding Agent from Scratch_](https://github.com/suno-ai/ai-coder)
+* [**Python**: _Multi-Agent Collaboration with AutoGen_](https://github.com/microsoft/autogen)
+* [**TypeScript**: _Build AI Agents in TypeScript_](https://github.com/AgentsOS/agents-typescript)
+* [**Python**: _Build Your Own AI Agent from Scratch_](https://github.com/eysure/llm-agent-from-scratch)
 
 #### Build your own `Augmented Reality`
 
@@ -140,6 +156,20 @@ It's a great way to learn.
 
 * [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
 * [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
+
+#### Build your own `Vector Database`
+* [**Python**: _Build a Vector Database from Scratch_](https://github.com/tensorflow/tensorstore/tree/main/kernels/bullet)
+* [**Python**: _Build Your Own Milvus (Vector Database)_](https://github.com/milvus-io/milvus)
+* [**Python**: _Chroma: AI-native Embedding Database_](https://github.com/chroma-core/chroma)
+* [**Python**: _Build Vector Search from Scratch_](https://github.com/facebookresearch/faiss)
+* [**Rust**: _Building a Vector Database in Rust_](https://github.com/qdrant/qdrant)
+
+#### Build your own `MCP (Model Context Protocol)`
+* [**Python**: _Build Your Own MCP Server_](https://github.com/modelcontextprotocol/python-sdk)
+* [**TypeScript**: _MCP TypeScript Implementation_](https://github.com/modelcontextprotocol/typescript-sdk)
+* [**Python**: _Build a Claude MCP Server for Your Data_](https://github.com/anthropics/mcp)
+
+#### Build your own `Database` (continued)
 * [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: _An Archaeology-Inspired Database_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [**Crystal**: _Why you should build your own NoSQL Database_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
@@ -271,6 +301,7 @@ It's a great way to learn.
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
+* [**Python**: _Build a Neural Network from Scratch with NumPy_](https://www.python-course.eu/neural_networks_from_scratch.php)
 
 #### Build your own `Operating System`
 
