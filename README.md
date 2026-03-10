@@ -9,7 +9,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
-* [AI Model](#ai-model)
+* [AI Model](#build-your-own-ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
@@ -17,6 +17,7 @@ It's a great way to learn.
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
+* [Distributed Systems](#build-your-own-distributed-systems)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
@@ -55,7 +56,7 @@ It's a great way to learn.
 * [**C# / TypeScript / JavaScript**: _Learning how to write a 3D soft engine from scratch in C#, TypeScript or JavaScript_](https://www.davrous.com/2013/06/13/tutorial-series-learning-how-to-write-a-3d-soft-engine-from-scratch-in-c-typescript-or-javascript/)
 * [**Java / JavaScript**: _Build your own 3D renderer_](https://avik-das.github.io/build-your-own-raytracer/)
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
-* [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
+* [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](https://web.archive.org/web/2023/https://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
 
 #### Build your own `AI Model`
@@ -211,14 +212,14 @@ It's a great way to learn.
 * [**C++**: _Remaking Cavestory in C++_](https://www.youtube.com/watch?v=ETvApbD5xRo&list=PLNOBk_id22bw6LXhrGfhVwqQIa-M2MsLa) [video]
 * [**C++**: _Reconstructing Cave Story_](https://www.youtube.com/playlist?list=PL006xsVEsbKjSKBmLu1clo85yLrwjY67X) [video]
 * [**C++**: _Space Invaders from Scratch_](http://nicktasios.nl/posts/space-invaders-from-scratch-part-1.html)
-* [**C#**: _Learn C# by Building a Simple RPG_](http://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
+* [**C#**: _Learn C# by Building a Simple RPG_](https://scottlilly.com/learn-c-by-building-a-simple-rpg-index/)
 * [**C#**: _Creating a Roguelike Game in C#_](https://roguesharp.wordpress.com/)
 * [**C#**: _Build a C#/WPF RPG_](https://scottlilly.com/build-a-cwpf-rpg/)
 * [**Go**: _Games With Go_](https://www.youtube.com/playlist?list=PLDZujg-VgQlZUy1iCqBbe5faZLMkA3g2x) [video]
 * [**Java**: _Code a 2D Game Engine using Java - Full Course for Beginners_](https://www.youtube.com/watch?v=025QFeZfeyM) [video]
 * [**Java**: _3D Game Development with LWJGL 3_](https://lwjglgamedev.gitbooks.io/3d-game-development-with-lwjgl/content/)
 * [**JavaScript**: _2D breakout game using Phaser_](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
-* [**JavaScript**: _How to Make Flappy Bird in HTML5 With Phaser_](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+* [**JavaScript**: _How to Make Flappy Bird in HTML5 With Phaser_](https://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 * [**JavaScript**: _Developing Games with React, Redux, and SVG_](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [**JavaScript**: _Build your own 8-Ball Pool game from scratch_](https://www.youtube.com/watch?v=aXwCrtAo4Wc) [video]
 * [**JavaScript**: _How to Make Your First Roguelike_](https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677)
@@ -389,7 +390,7 @@ It's a great way to learn.
 * [**JavaScript**: _Understanding JavaScript Micro-Templating_](https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e)
 * [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
 * [**Python**: _A Template Engine_](http://aosabook.org/en/500L/a-template-engine.html)
-* [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
+* [**Ruby**: _How to write a template engine in less than 30 lines of code_](https://web.archive.org/web/20180913134144/http://bits.citrusbyte.com/how-to-write-a-template-library/)
 
 #### Build your own `Text Editor`
 
