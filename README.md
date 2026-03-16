@@ -168,9 +168,9 @@ It's a great way to learn.
 * [**C**: _Write your Own Virtual Machine_](https://justinmeiners.github.io/lc3-vm/)
 * [**C**: _Writing a Game Boy emulator, Cinoop_](https://cturt.github.io/cinoop.html)
 * [**C++**: _How to write an emulator (CHIP-8 interpreter)_](http://www.multigesture.net/articles/how-to-write-an-emulator-chip-8-interpreter/)
-* [**C++**: _Emulation tutorial (CHIP-8 interpreter)_](http://www.codeslinger.co.uk/pages/projects/chip8.html)
-* [**C++**: _Emulation tutorial (GameBoy emulator)_](http://www.codeslinger.co.uk/pages/projects/gameboy.html)
-* [**C++**: _Emulation tutorial (Master System emulator)_](http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
+* [**C++**: _Emulation tutorial (CHIP-8 interpreter)_](https://web.archive.org/web/20250111123953/http://www.codeslinger.co.uk/pages/projects/chip8.html)
+* [**C++**: _Emulation tutorial (GameBoy emulator)_](https://web.archive.org/web/20250111124022/http://www.codeslinger.co.uk/pages/projects/gameboy.html)
+* [**C++**: _Emulation tutorial (Master System emulator)_](https://web.archive.org/web/20250111124053/http://www.codeslinger.co.uk/pages/projects/mastersystem/memory.html)
 * [**C++**: _NES Emulator From Scratch_](https://www.youtube.com/playlist?list=PLrOv9FMX8xJHqMvSGB_9G9nZZ_4IgteYf) [video]
 * [**Common Lisp**: _CHIP-8 in Common Lisp_](http://stevelosh.com/blog/2016/12/chip8-cpu/)
 * [**JavaScript**: _GameBoy Emulation in JavaScript_](http://imrannazar.com/GameBoy-Emulation-in-JavaScript)
@@ -300,8 +300,8 @@ It's a great way to learn.
 * [**C++**: _Game physics series by Allen Chou_](http://allenchou.net/game-physics-series/)
 * [**C++**: _How to Create a Custom Physics Engine_](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
 * [**C++**: _3D Physics Engine Tutorial_](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) [video]
-* [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
-* [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
+* [**JavaScript**: _How Physics Engines Work_](https://web.archive.org/web/20250108095753/http://buildnewgames.com/gamephysics/)
+* [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](https://web.archive.org/web/20250108094745/http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic)
 
 #### Build your own `Processor`
@@ -389,7 +389,7 @@ It's a great way to learn.
 * [**JavaScript**: _Understanding JavaScript Micro-Templating_](https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e)
 * [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
 * [**Python**: _A Template Engine_](http://aosabook.org/en/500L/a-template-engine.html)
-* [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
+* [**Ruby**: _How to write a template engine in less than 30 lines of code_](https://web.archive.org/web/20250116115924/https://bits.citrusbyte.com/how-to-write-a-template-library/)
 
 #### Build your own `Text Editor`
 
