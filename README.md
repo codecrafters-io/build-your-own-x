@@ -496,9 +496,16 @@ It's a great way to learn.
 
 #### Build your own `AI Agent`
 * [**AI Agent**: What is an AI Agent?_](https://www.ibm.com/think/topics/ai-agents)
-
-
-
+* [**Learn**: Build your first AI Agent_](https://www.aitoolskit.io/agents/building-first-ai-agent?utm_source=chatgpt.com)
+* [**No code AI Agent using N8N**: Build AI Agent using N8N_](https://youtu.be/qU3fmidNbJE?si=8zBTDd_xWhgj49LG)(https://youtu.be/DV0Ln7HRyJQ?si=Veo8tNdfCtl1ZfdQ)
+* [**AI Agent with code**: Make AI Agent from scrach_]()
+* [**Learn Python**: python from begining](https://youtu.be/8DvywoWv6fI?si=jvf7XHc1rYoku7qm)
+* [**Learn Ml**: Ml from begining](https://youtu.be/i_LwzRVP7bg?si=_rTqPnx2W8t6ISb9)
+* [**Rl**: Rl for AI agents ](https://www.youtube.com/playlist?list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV)
+* [**Build AI AGENT**: build AI agent from python](https://youtu.be/bTMPwUgLZf0?si=-zXGNDZK3e_ljnBC)
+* [**Build AI AGENT**: build AI agent](https://youtu.be/w0H1-b044KY?si=CiAlsPTB-LGnmq4n)
+* [**GitHub**:All AI Agents repository](https://github.com/nibzard/awesome-agentic-patterns)
+* [**list**:top 10 AI AGENTS list](https://opendatascience.com/the-top-ten-github-agentic-ai-repositories-in-2025/)
 
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
