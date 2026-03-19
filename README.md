@@ -38,6 +38,7 @@ It's a great way to learn.
 * [Web Browser](#build-your-own-web-browser)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
+* [Build Your Own AI Agent](#build-your-own-AI-Agent)
 
 ## Tutorials
 
@@ -493,6 +494,19 @@ It's a great way to learn.
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
+#### Build your own `AI Agent`
+* [**AI Agent**: What is an AI Agent?_](https://www.ibm.com/think/topics/ai-agents)
+* [**Learn**: Build your first AI Agent_](https://www.aitoolskit.io/agents/building-first-ai-agent?utm_source=chatgpt.com)
+* [**No code AI Agent using N8N**: Build AI Agent using N8N_](https://youtu.be/qU3fmidNbJE?si=8zBTDd_xWhgj49LG)(https://youtu.be/DV0Ln7HRyJQ?si=Veo8tNdfCtl1ZfdQ)
+* [**AI Agent with code**: Make AI Agent from scrach_]()
+* [**Learn Python**: python from begining](https://youtu.be/8DvywoWv6fI?si=jvf7XHc1rYoku7qm)
+* [**Learn Ml**: Ml from begining](https://youtu.be/i_LwzRVP7bg?si=_rTqPnx2W8t6ISb9)
+* [**Rl**: Rl for AI agents ](https://www.youtube.com/playlist?list=PLgNJO2hghbmjlE6cuKMws2ejC54BTAaWV)
+* [**Build AI AGENT**: build AI agent from python](https://youtu.be/bTMPwUgLZf0?si=-zXGNDZK3e_ljnBC)
+* [**Build AI AGENT**: build AI agent](https://youtu.be/w0H1-b044KY?si=CiAlsPTB-LGnmq4n)
+* [**GitHub**:All AI Agents repository](https://github.com/nibzard/awesome-agentic-patterns)
+* [**list**:top 10 AI AGENTS list](https://opendatascience.com/the-top-ten-github-agentic-ai-repositories-in-2025/)
+
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
@@ -502,3 +516,6 @@ It's a great way to learn.
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 This repository is the work of [many contributors](https://github.com/codecrafters-io/build-your-own-x/graphs/contributors). It was started by [Daniel Stefanovic](https://github.com/danistefanovic), and is now maintained by [CodeCrafters, Inc.](https://codecrafters.io) To the extent possible under law, [CodeCrafters, Inc.](https://codecrafters.io) has waived all copyright and related or neighboring rights to this work.
+
+
+
