@@ -1,4 +1,4 @@
-[![Banner](https://codecrafters.io/images/updated-byox-banner.gif)](https://codecrafters.io/github-banner)
+[![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
 ## Build your own &lt;insert-technology-here&gt;
 
@@ -9,6 +9,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
+* [AI Model](#ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
@@ -20,10 +21,12 @@ It's a great way to learn.
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
+* [Memory Allocator](#build-your-own-memory-allocator)
 * [Network Stack](#build-your-own-network-stack)
 * [Neural Network](#build-your-own-neural-network)
 * [Operating System](#build-your-own-operating-system)
 * [Physics Engine](#build-your-own-physics-engine)
+* [Processor](#build-your-own-processor)
 * [Programming Language](#build-your-own-programming-language)
 * [Regex Engine](#build-your-own-regex-engine)
 * [Search Engine](#build-your-own-search-engine)
@@ -38,6 +41,9 @@ It's a great way to learn.
 
 ## Tutorials
 
+#### Build your own `Distributed Systems`
+* [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
+
 #### Build your own `3D Renderer`
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
@@ -51,6 +57,11 @@ It's a great way to learn.
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
+
+#### Build your own `AI Model`
+* [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
+* [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
+* [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
 
 #### Build your own `Augmented Reality`
 
@@ -72,7 +83,6 @@ It's a great way to learn.
 #### Build your own `Blockchain / Cryptocurrency`
 
 * [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
-* [**C#**: _Programming The Blockchain in C#_](https://programmingblockchain.gitbooks.io/programmingblockchain/)
 * [**Crystal**: _Write your own blockchain and PoW algorithm using Crystal_](https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52)
 * [**Go**: _Building Blockchain in Go_](https://jeiwan.net/posts/building-blockchain-in-go-part-1/)
 * [**Go**: _Code your own blockchain in less than 200 lines of Go_](https://medium.com/@mycoralhealth/code-your-own-blockchain-in-less-than-200-lines-of-go-e296282bcffc)
@@ -105,7 +115,7 @@ It's a great way to learn.
 * [**Node.js**: _Building A Simple AI Chatbot With Web Speech API And Node.js_](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
 * [**Python**: _How to Build Your First Slack Bot with Python_](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 * [**Python**: _How to build a Slack Bot with Python using Slack Events API & Django under 20 minute_](https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e)
-* [**Python**: _Build a Reddit Bot_](http://pythonforengineers.com/build-a-reddit-bot-part-1/)
+* [**Python**: _Build a Reddit Bot_](https://pythonforengineers.com/blog/build-a-reddit-bot-part-1/)
 * [**Python**: _How To Make A Reddit Bot_](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
 * [**Python**: _How To Create a Telegram Bot Using Python_](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
 * [**Python**: _Create a Twitter Bot in Python Using Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
@@ -133,7 +143,8 @@ It's a great way to learn.
 * [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
 * [**Clojure**: _An Archaeology-Inspired Database_](http://aosabook.org/en/500L/an-archaeology-inspired-database.html)
 * [**Crystal**: _Why you should build your own NoSQL Database_](https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5)
-* [**Go**: _Build Your Own Database from Scratch: Persistence, Indexing, Concurrency_](https://build-your-own.org/database/)
+* [**Go**: _Build Your Own Database from Scratch: From B+Tree To SQL in 3000 Lines_](https://build-your-own.org/database/)
+* [**Go**: _Code a database in 45 steps: a series of test-driven small coding puzzles_](https://trialofcode.org/database/)
 * [**Go**: _Build Your Own Redis from Scratch_](https://www.build-redis-from-scratch.dev/)
 * [**JavaScript**: _Dagoba: an in-memory graph database_](http://aosabook.org/en/500L/dagoba-an-in-memory-graph-database.html)
 * [**Python**: _DBDB: Dog Bed Database_](http://aosabook.org/en/500L/dbdb-dog-bed-database.html)
@@ -231,6 +242,10 @@ It's a great way to learn.
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
 
+#### Build your own `Memory Allocator`
+
+* [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://medium.com/p/e0354e914402)
+
 #### Build your own `Network Stack`
 
 * [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/)
@@ -241,7 +256,8 @@ It's a great way to learn.
 #### Build your own `Neural Network`
 
 * [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
-* [**F#**: _Building Neural Networks in F#_](https://towardsdatascience.com/building-neural-networks-in-f-part-1-a2832ae972e6)
+* [**F#**: _Building Neural Networks in F#: Part 1_](https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6)
+* [**F#**: _Building Neural Networks in F#: Part 2_](https://medium.com/data-science/building-neural-networks-in-f-part-2-training-evaluation-5e3a68889da6)
 * [**Go**: _Build a multilayer perceptron with Golang_](https://made2591.github.io/posts/neuralnetwork)
 * [**Go**: _How to build a simple artificial neural network with Go_](https://sausheong.github.io/posts/how-to-build-a-simple-artificial-neural-network-with-go/)
 * [**Go**: _Building a Neural Net from Scratch in Go_](https://datadan.io/blog/neural-net-with-go)
@@ -254,11 +270,8 @@ It's a great way to learn.
 * [**Python**: _Generate Music using LSTM Neural Network in Keras_](https://towardsdatascience.com/how-to-generate-music-using-a-lstm-neural-network-in-keras-68786834d4c5)
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
-* [**Python**] Build your own ChatGPT with Python — freeCodeCamp (https://www.freecodecamp.org/news/build-a-chatgpt-clone-with-python/)
-
-
-
-
+* [**Python**: Build your own ChatGPT with Python – freeCodeCamp](https://www.freecodecamp.org/news/build-a-chatgpt-clone-with-python/)
+* [**Python**: SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python](https://github.com/xames3/slowtorch)
 
 #### Build your own `Operating System`
 
@@ -291,6 +304,10 @@ It's a great way to learn.
 * [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic)
+
+#### Build your own `Processor`
+
+* [**Verilog**: _From Blinker to RISC-V_](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV)
 
 #### Build your own `Programming Language`
 
@@ -454,6 +471,7 @@ It's a great way to learn.
 * [**Node.js**: _Building A Simple Single Sign On(SSO) Server And Solution From Scratch In Node.js._](https://codeburst.io/building-a-simple-single-sign-on-sso-server-and-solution-from-scratch-in-node-js-ea6ee5fdf340)
 * [**Node.js**: _How to create a real-world Node CLI app with Node_](https://medium.freecodecamp.org/how-to-create-a-real-world-node-cli-app-with-node-391b727bbed3)
 * [**Node.js**: _Build a DNS Server in Node.js_](https://engineerhead.github.io/dns-server/)
+* [**Node.js**: _Build a Synchronization Engine with Node.js and Y.js_](https://greenvitriol.com/posts/sync-engine-for-everyone)
 * [**PHP**: _Write your own MVC from scratch in PHP_ ](https://chaitya62.github.io/2018/04/29/Writing-your-own-MVC-from-Scratch-in-PHP.html)
 * [**PHP**: _Make your own blog_](https://ilovephp.jondh.me.uk/en/tutorial/make-your-own-blog)
 * [**PHP**: _Modern PHP Without a Framework_](https://kevinsmith.io/modern-php-without-a-framework)
