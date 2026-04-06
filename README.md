@@ -38,6 +38,7 @@ It's a great way to learn.
 * [Web Browser](#build-your-own-web-browser)
 * [Web Server](#build-your-own-web-server)
 * [Uncategorized](#uncategorized)
+- [guardian-agent-prompts](https://github.com/milkomida77/guardian-agent-prompts) - 49 production-tested AI agent system prompts for building multi-agent orchestration systems, automated code review, and development workflow coordination. MIT licensed.
 
 ## Tutorials
 
