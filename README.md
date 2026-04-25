@@ -2,7 +2,7 @@
 
 ## Build your own &lt;insert-technology-here&gt;
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
@@ -359,7 +359,7 @@ It's a great way to learn.
 * [**Go**: _How to build a regex engine from scratch_](https://rhaeguard.github.io/posts/regex)
 * [**JavaScript**: _Build a Regex Engine in Less than 40 Lines of Code_](https://nickdrane.com/build-your-own-regex/)
 * [**JavaScript**: _How to implement regular expressions in functional javascript using derivatives_](http://dpk.io/dregs/toydregs)
-* [**JavaScript**: _Implementing a Regular Expression Engine_](https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/) 
+* [**JavaScript**: _Implementing a Regular Expression Engine_](https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/)
 * [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
 * [**Python**: _Build Your Own Regular Expression Engines: Backtracking, NFA, DFA_](https://build-your-own.org/b2a/r0_intro)
 * [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
@@ -379,7 +379,7 @@ It's a great way to learn.
 * [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
 * [**C**: _Writing a UNIX Shell_](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Build Your Own Shell_](https://github.com/tokenrove/build-your-own-shell)
-* [**C**: Write a shell in C](https://danishpraka.sh/posts/write-a-shell/)
+* [**C**: _Write a shell in C_](https://danishpraka.sh/posts/write-a-shell/)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
 
@@ -493,7 +493,7 @@ It's a great way to learn.
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
-## Contribute 
+## Contribute
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
 
