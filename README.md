@@ -61,6 +61,7 @@ It's a great way to learn.
 
 #### Build your own `AI Agent`
 
+* [**Go**: _How to Build an Agent_](https://ampcode.com/how-to-build-an-agent)
 * [**Python**: _Building an AI agent from scratch in Python_](https://www.leoniemonigatti.com/blog/ai-agent-from-scratch-in-python.html)
 * [**Python**: _Build Your Own OpenClaw_](https://github.com/czl9707/build-your-own-openclaw)
 * [**TypeScript**: _Build Your Own AI Coding Agent From Scratch_](https://github.com/nauvalazhar/build-your-own-ai-coding-agent)
