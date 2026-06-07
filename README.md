@@ -9,7 +9,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
-* [AI Model](#ai-model)
+* [AI Model](#build-your-own-ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
@@ -115,9 +115,10 @@ It's a great way to learn.
 * [**Node.js**: _Building A Simple AI Chatbot With Web Speech API And Node.js_](https://www.smashingmagazine.com/2017/08/ai-chatbot-web-speech-api-node-js/)
 * [**Python**: _How to Build Your First Slack Bot with Python_](https://www.fullstackpython.com/blog/build-first-slack-bot-python.html)
 * [**Python**: _How to build a Slack Bot with Python using Slack Events API & Django under 20 minute_](https://medium.com/freehunch/how-to-build-a-slack-bot-with-python-using-slack-events-api-django-under-20-minute-code-included-269c3a9bf64e)
-* [**Python**: _Build a Reddit Bot_](https://pythonforengineers.com/blog/build-a-reddit-bot-part-1/)
-* [**Python**: _How To Make A Reddit Bot_](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
-* [**Python**: _How To Create a Telegram Bot Using Python_](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
+* [**Python**: *How to build a Discord bot with python using Python*](https://youtube.com/playlist?list=PLwqYQaS6jxfk_NCetUOyNRDGAf9_kU90n&si=u1P3bxNt3PxdnILV) [video]
+* [**Python**:  *How to_build a Reddit Bot_*](https://pythonforengineers.com/blog/build-a-reddit-bot-part-1/)
+* [**Python**: _How To make A Reddit Bot_](https://www.youtube.com/watch?v=krTUf7BpTc0) [video]
+* [**Python**: _How To create a Telegram Bot Using Python_](https://www.freecodecamp.org/news/how-to-create-a-telegram-bot-using-python/)
 * [**Python**: _Create a Twitter Bot in Python Using Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**Python**: _Creating Reddit Bot with Python & PRAW_](https://www.youtube.com/playlist?list=PLIFBTFgFpoJ9vmYYlfxRFV6U_XhG-4fpP) [video]
 * [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
