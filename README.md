@@ -1,5 +1,44 @@
 [![Banner](https://codecrafters.io/images/new-ccgithub-banner.png)](https://codecrafters.io/github-banner)
 
+
+## Table of Contents
+
+- [Build your own &lt;insert-technology-here&gt;](#build-your-own-ltinsert-technology-heregt)
+- [Tutorials](#tutorials)
+    - [Build your own Distributed Systems](#build-your-own-distributed-systems)
+    - [Build your own 3D Renderer](#build-your-own-3d-renderer)
+    - [Build your own AI Model](#build-your-own-ai-model)
+    - [Build your own Augmented Reality](#build-your-own-augmented-reality)
+    - [Build your own BitTorrent Client](#build-your-own-bittorrent-client)
+    - [Build your own Blockchain / Cryptocurrency](#build-your-own-blockchain-cryptocurrency)
+    - [Build your own Bot](#build-your-own-bot)
+    - [Build your own Command-Line Tool](#build-your-own-command-line-tool)
+    - [Build your own Database](#build-your-own-database)
+    - [Build your own Docker](#build-your-own-docker)
+    - [Build your own Emulator / Virtual Machine](#build-your-own-emulator-virtual-machine)
+    - [Build your own Front-end Framework / Library](#build-your-own-front-end-framework-library)
+    - [Build your own Game](#build-your-own-game)
+    - [Build your own Git](#build-your-own-git)
+    - [Build your own Memory Allocator](#build-your-own-memory-allocator)
+    - [Build your own Network Stack](#build-your-own-network-stack)
+    - [Build your own Neural Network](#build-your-own-neural-network)
+    - [Build your own Operating System](#build-your-own-operating-system)
+    - [Build your own Physics Engine](#build-your-own-physics-engine)
+    - [Build your own Processor](#build-your-own-processor)
+    - [Build your own Programming Language](#build-your-own-programming-language)
+    - [Build your own Regex Engine](#build-your-own-regex-engine)
+    - [Build your own Search Engine](#build-your-own-search-engine)
+    - [Build your own Shell](#build-your-own-shell)
+    - [Build your own Template Engine](#build-your-own-template-engine)
+    - [Build your own Text Editor](#build-your-own-text-editor)
+    - [Build your own Visual Recognition System](#build-your-own-visual-recognition-system)
+    - [Build your own Voxel Engine](#build-your-own-voxel-engine)
+    - [Build your own Web Browser](#build-your-own-web-browser)
+    - [Build your own Web Server](#build-your-own-web-server)
+    - [Uncategorized](#uncategorized)
+- [Contribute](#contribute)
+- [Origins & License](#origins-license)
+
 ## Build your own &lt;insert-technology-here&gt;
 
 This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
