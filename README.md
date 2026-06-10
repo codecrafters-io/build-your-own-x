@@ -45,7 +45,7 @@ It's a great way to learn.
 * [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
 
 #### Build your own `3D Renderer`
-
+* [**Rust**: _Learn Graphics Programming with wgpu! (make a renderer too!)_](https://sotrh.github.io/learn-wgpu/)
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
 * [**C++**: _Raycasting engine of Wolfenstein 3D_](http://lodev.org/cgtutor/raycasting.html)
@@ -71,6 +71,7 @@ It's a great way to learn.
 * [**C#**: _How to create a Dragon in Augmented Reality in Unity ARCore_](https://www.youtube.com/watch?v=qTSDPkPyPqs) [video]
 * [**C#**: _How to Augmented Reality AR Tutorial: ARKit Portal to the Upside Down_](https://www.youtube.com/watch?v=Z5AmqMuNi08) [video]
 * [**Python**: _Augmented Reality with Python and OpenCV_](https://bitesofcode.wordpress.com/2017/09/12/augmented-reality-with-python-and-opencv-part-1/)
+* [**GDScript**: _Godot XR (AR/VR development)_](https://docs.godotengine.org/en/stable/tutorials/xr/index.html)
 
 #### Build your own `BitTorrent Client`
 
@@ -492,6 +493,15 @@ It's a great way to learn.
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
+
+## Build your own malware
+
+* [**C/C++**: _Malware Development blog by 0xpat_](https://0xpat.github.io/Malware_development_part_1/)
+* [**Rust**: _Learn Rust Malware Development with memN0ps blogs!_](https://memn0ps.github.io/)
+* [**C/C++**: _Malware Development Course by Maldev Academy_](https://maldevacademy.com/)
+* [**C/C++**: _Malware Development Course by Sektor7 Institute_](https://institute.sektor7.net/courses)
+* [**Rust**: _Rust Malware Development by Smukx_](https://github.com/rvrsh3ll/Rust-for-Malware-Development)
+
 
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
