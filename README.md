@@ -170,7 +170,7 @@ Es una excelente manera de aprender.
 
 **Recursos en inglés (títulos traducidos):**
 
-* [**C**: _Tutorial — Escribe un Shell en C_](https://brennan.io/2015/01/16/write-a-shell-in-c/)
+* [**C**: _Tutorial — Escribe un Shell en C_](tutoriales/shell/escribe-un-shell-en-c.md) *(traducción en español — original de [Stephen Brennan](https://brennan.io/2015/01/16/write-a-shell-in-c/), CC BY-SA 4.0)*
 * [**C**: _¡Construyamos un shell!_ (taller práctico con código)](https://github.com/kamalmarhubi/shell-workshop)
 * [**C**: _Escribiendo un Shell UNIX_ (serie en 3 partes)](https://indradhanush.github.io/blog/writing-a-unix-shell-part-1/)
 * [**C**: _Construye tu propio Shell_ (guía de referencia)](https://github.com/tokenrove/build-your-own-shell)
