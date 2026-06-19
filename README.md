@@ -43,6 +43,8 @@ It's a great way to learn.
 
 #### Build your own `Distributed Systems`
 * [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
+* [**Python:**  Building a Fault-Tolerant Load Balancer From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-faulttolerant-load-balancer-from-scratch/)
+* [**Python:**  Building a Custom Airflow DAG Scheduler in Pure Python](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-custom-airflow-dag-scheduler-in-pure-python/)
 
 #### Build your own `3D Renderer`
 
@@ -151,6 +153,14 @@ It's a great way to learn.
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
+* [**Python:**  Building a Custom ElasticSearch Clone in Pure Python](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-elasticsearch-in-python-from-scratch/)
+* [**Python:**  Building an In-Memory Key-Value Store From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-an-inmemory-keyvalue-store-from-scratch/)
+* [**Python:**  Building a Relational SQL Database Engine Abstraction From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-relational-sql-database-engine-abstraction-from-scratch/)
+* [**Python:**  Building a NoSQL Document Store From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-nosql-document-store-from-scratch/)
+* [**Python:**  Building a Custom ElasticSearch Clone in Pure Python](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-elasticsearch-in-python-from-scratch/)
+* [**Python:**  Building an In-Memory Key-Value Store From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-an-inmemory-keyvalue-store-from-scratch/)
+* [**Python:**  Building a Relational SQL Database Engine Abstraction From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-relational-sql-database-engine-abstraction-from-scratch/)
+* [**Python:**  Building a NoSQL Document Store From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-nosql-document-store-from-scratch/)
 
 #### Build your own `Docker`
 
@@ -160,6 +170,9 @@ It's a great way to learn.
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
+* [**Python:**  Building a Custom Docker Daemon Engine From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-custom-docker-daemon-engine-from-scratch/)
+* [**Python:**  Building a Custom Docker CLI Client in Pure Python](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-custom-docker-cli-client-in-pure-python.md/)
+
 
 #### Build your own `Emulator / Virtual Machine`
 
@@ -193,6 +206,8 @@ It's a great way to learn.
 * [**JavaScript**: _Building a frontend framework, from scratch, with components (templating, state, VDOM)_](https://mfrachet.github.io/create-frontend-framework/)
 * [**JavaScript**: _Build your own React_](https://pomb.us/build-your-own-react/)
 * [**JavaScript**: _Building a Custom React Renderer_](https://youtu.be/CGpMlWVcHok) [video]
+* [**Python:**  Building a Reactive Frontend Framework from Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-reactive-frontend-framework-from-scratch.md/)
+
 
 #### Build your own `Game`
 
@@ -241,6 +256,8 @@ It's a great way to learn.
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+* [**Python:**  Building a Custom Git Server Daemon From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-custom-git-server-daemon-from-scratch/)
+* [**Python:**  Building a Custom Git Client over Raw Sockets](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-custom-git-client-over-raw-sockets.md/)
 
 #### Build your own `Memory Allocator`
 
@@ -252,6 +269,11 @@ It's a great way to learn.
 * [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [**C / Python**: _Build your own VPN/Virtual Switch_](https://github.com/peiyuanix/build-your-own-zerotier)
 * [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+* [**Python:**  The Shared Backbone: Creating the Core Utilities Layer](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/the-shared-backbone-creating-the-core-utilities-layer/)
+* [**Python:**  Building an Interactive TCP Chat Client From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-an-interactive-tcp-chat-client-from-scratch/)
+* [**Python:**  Building a Stateful TCP Chat Server From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-stateful-tcp-chat-server-from-scratch/)
+* [**Python:**  Building a Reusable Socket Bootstrap Utility](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-reusable-socket-bootstrap-utility/)
+* [**Python:**  Building a Pure HTTP Client over Raw Sockets](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-pure-http-client-over-raw-sockets/)
 
 #### Build your own `Neural Network`
 
@@ -372,6 +394,7 @@ It's a great way to learn.
 * [**Python**: _Building A Python-Based Search Engine_](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
 * [**Python**: _Making text search learn from feedback_](https://medium.com/filament-ai/making-text-search-learn-from-feedback-4fe210fd87b0)
 * [**Python**: _Finding Important Words in Text Using TF-IDF_](https://stevenloria.com/tf-idf/)
+* [**Python:**  Building a Custom ElasticSearch Clone in Pure Python](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-elasticsearch-in-python-from-scratch/)
 
 #### Build your own `Shell`
 
@@ -399,6 +422,10 @@ It's a great way to learn.
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
 * [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://www.flenker.blog/hecto/)
+* [**Python:**  End-to-End Integration Testing of Jekyll with Concrete Templates](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/endtoend-integration-testing-with-concrete-templates/)
+* [**Python:**  Deep Dive: Building a Custom Markdown-to-HTML Engine from Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/deep-dive-building-a-custom-markdowntohtml-engine-from-scratch/)
+* [**Python:**  Building a Minimalist Jekyll Clone From Scratch in Python](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-minimalist-jekyll-clone-from-scratch-in-python/)
+* [**Python:**  Building an OOP Jekyll Slug Generator From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-an-oop-jekyll-slug-generator-from-scratch/)
 
 #### Build your own `Visual Recognition System`
 
@@ -427,6 +454,7 @@ It's a great way to learn.
 * [**Python**: _Building a basic HTTP Server from scratch in Python_](http://joaoventura.net/blog/2017/python-webserver/)
 * [**Python**: _Implementing a RESTful Web API with Python & Flask_](http://blog.luisrei.com/articles/flaskrest.html)
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
+* [**Python:**  Building a Pure HTTP REST API Server From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-pure-http-rest-api-server-from-scratch/)
 
 #### Uncategorized
 
@@ -492,6 +520,11 @@ It's a great way to learn.
 * [**Rust**: _Writing Scalable Chat Service from Scratch_](https://nbaksalyar.github.io/2015/07/10/writing-chat-in-rust.html)
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
+* [**Python:**  Building a Stateless Lexical Reply Engine From Scratch](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/building-a-stateless-lexical-reply-engine-from-scratch/)
+* [**Python:**  Parsing Site Configurations with a Custom YAML Engine](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/parsing-site-configurations-with-a-custom-yaml-engine/)
+* [**Python:**  Engineering Log: Evolution of a First-Principles Architectural Paradigm](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/from-first-principles-rebuilding-the-enterprise-and-ai-stack-with-zero-dependencies/)
+* [**Python:**  Engineering Log: Evolution of a First-Principles Architectural Paradigm (Dev Cycle)](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/engineering-log-evolution-of-a-firstprinciples-architectural-paradigm/)
+* [**Python:**  AI Systems Design From Scratch: The Zero-Dependency Manifesto](https://www.google.com/search?q=https://aminblm.github.io/ai_systems_design_from_scratch/ai-systems-design-from-scratch-the-zerodependency-manifesto/)
 
 ## Contribute 
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
