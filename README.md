@@ -24,6 +24,7 @@ It's a great way to learn.
 * [Memory Allocator](#build-your-own-memory-allocator)
 * [Network Stack](#build-your-own-network-stack)
 * [Neural Network](#build-your-own-neural-network)
+* [AI Agent](#build-your-own-ai-agent)
 * [Operating System](#build-your-own-operating-system)
 * [Physics Engine](#build-your-own-physics-engine)
 * [Processor](#build-your-own-processor)
@@ -61,6 +62,9 @@ It's a great way to learn.
 #### Build your own `AI Model`
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
+
+#### Build your own `AI Agent`
+
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
 
 #### Build your own `Augmented Reality`
