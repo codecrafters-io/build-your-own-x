@@ -43,6 +43,8 @@ It's a great way to learn.
 
 #### Build your own `Distributed Systems`
 * [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
+* [**Python**: _Build Your Own Raft Consensus Protocol From Scratch_](https://alexdevflow.github.io/en/blog/raft-consensus-python/)
+
 
 #### Build your own `3D Renderer`
 
