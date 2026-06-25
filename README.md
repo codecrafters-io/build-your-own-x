@@ -28,6 +28,7 @@ It's a great way to learn.
 * [Physics Engine](#build-your-own-physics-engine)
 * [Processor](#build-your-own-processor)
 * [Programming Language](#build-your-own-programming-language)
+* [Rate Limiter](#build-your-own-rate-limiter)
 * [Regex Engine](#build-your-own-regex-engine)
 * [Search Engine](#build-your-own-search-engine)
 * [Shell](#build-your-own-shell)
@@ -353,6 +354,12 @@ It's a great way to learn.
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 * [**TypeScript**: _Build your own WebAssembly Compiler_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
+#### Build your own `Rate Limiter`
+
+* [**Go**: *Let's Create a Simple Load Balancer*](https://kasvith.me/posts/lets-create-a-simple-lb-go/)
+* [**Go**: *Building a Production Rate Limiter from Scratch in Go*](https://dev.to/young_gao/building-a-production-rate-limiter-from-scratch-in-go-52b6)
+* [**Python**: *Rate-Limiting Strategies and Techniques*](https://flask-limiter.readthedocs.io/en/stable/strategies.html)
+  
 #### Build your own `Regex Engine`
 
 * [**C**: _A Regular Expression Matcher_](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
