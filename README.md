@@ -422,6 +422,7 @@ It's a great way to learn.
 * [**Node.js**: _Let's code a web server from scratch with NodeJS Streams_](https://www.codementor.io/@ziad-saab/let-s-code-a-web-server-from-scratch-with-nodejs-streams-h4uc9utji)
 * [**Node.js**: _lets-build-express_](https://github.com/antoaravinth/lets-build-express)
 * [**PHP**: _Writing a webserver in pure PHP_](http://station.clancats.com/writing-a-webserver-in-pure-php/)
+* [**Python**: _A simple Http and Wsgi server._](https://github.com/mohsen481/webserver)
 * [**Python**: _A Simple Web Server_](http://aosabook.org/en/500L/a-simple-web-server.html)
 * [**Python**: _Let’s Build A Web Server._](https://ruslanspivak.com/lsbaws-part1/)
 * [**Python**: _Web application from scratch_](https://defn.io/2018/02/25/web-app-from-scratch-01/)
