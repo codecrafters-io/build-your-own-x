@@ -9,7 +9,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
-* [AI Model](#ai-model)
+* [AI Model](#build-your-own-ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
