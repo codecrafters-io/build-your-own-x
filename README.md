@@ -241,6 +241,7 @@ It's a great way to learn.
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+* [**Rust**: _GIT_but_in_Rust_](https://github.com/srs-sudeep/RIT)
 
 #### Build your own `Memory Allocator`
 
