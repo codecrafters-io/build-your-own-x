@@ -8,6 +8,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
+* [Distributed Systems](#build-your-own-distributed-systems)
 * [3D Renderer](#build-your-own-3d-renderer)
 * [AI Model](#ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
