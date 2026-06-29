@@ -60,6 +60,8 @@ It's a great way to learn.
 
 #### Build your own `AI Model`
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
+* [**Python**: _Let's build GPT: from scratch, in code, spelled out_](https://www.youtube.com/watch?v=kCc8FmEb1nY) [video]
+* [**Python**: _The Annotated Transformer_](http://nlp.seas.harvard.edu/annotated-transformer/)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
 
