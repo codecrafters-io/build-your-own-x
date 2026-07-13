@@ -62,6 +62,7 @@ It's a great way to learn.
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
+* [**Python**: _A Robot Policy, from a bare simulator to a vision-language-action model_](https://www.zero2robot.com/)
 
 #### Build your own `Augmented Reality`
 
