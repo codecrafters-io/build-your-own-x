@@ -57,6 +57,7 @@ It's a great way to learn.
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
+* [**Python / Go / Rust / C / C++ / JavaScript**: _Build a Software 3D Renderer — rasterization, z-buffer, Phong shading, ray tracing_](https://shipthatcode.com/courses/build-3d-renderer)
 
 #### Build your own `AI Model`
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
@@ -151,6 +152,7 @@ It's a great way to learn.
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
+* [**Python / Go / Rust / C / C++ / JavaScript**: _Build a Relational Database — pages, B-tree, WAL, MVCC, query planner, joins_](https://shipthatcode.com/courses/build-database)
 
 #### Build your own `Docker`
 
@@ -160,6 +162,7 @@ It's a great way to learn.
 * [**Python**: _A workshop on Linux containers: Rebuild Docker from Scratch_](https://github.com/Fewbytes/rubber-docker)
 * [**Python**: _A proof-of-concept imitation of Docker, written in 100% Python_](https://github.com/tonybaloney/mocker)
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
+* [**Python / Go / Rust / C / C++ / JavaScript**: _Build a Container Runtime — namespaces, cgroups, OverlayFS, OCI images_](https://shipthatcode.com/courses/build-docker)
 
 #### Build your own `Emulator / Virtual Machine`
 
@@ -241,6 +244,7 @@ It's a great way to learn.
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+* [**Python / Go / Rust / C / C++ / JavaScript**: _Build Git from scratch — object model, plumbing, refs, pack files_](https://shipthatcode.com/courses/build-git)
 
 #### Build your own `Memory Allocator`
 
@@ -272,6 +276,7 @@ It's a great way to learn.
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
+* [**Python**: _Build a Neural Network from scratch — autograd, optimizers, CNNs, attention, transformer block_](https://shipthatcode.com/courses/build-neural-network)
 
 #### Build your own `Operating System`
 
@@ -294,6 +299,7 @@ It's a great way to learn.
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
 * [**Rust**: _Add RISC-V Rust Operating System Tutorial_](https://osblog.stephenmarz.com/)
 * [**(any)**: _Linux from scratch_](https://linuxfromscratch.org/lfs)
+* [**C / Rust / C++ / Assembly**: _Build an OS Kernel — boot, GDT/IDT, paging, MLFQ scheduling, ELF loader, syscalls_](https://shipthatcode.com/courses/build-os-kernel)
 
 #### Build your own `Physics Engine`
 
@@ -352,6 +358,7 @@ It's a great way to learn.
 * [**Rust**: _Learning Parser Combinators With Rust_](https://bodil.lol/parser-combinators/)
 * [**Swift**: _Building a LISP from scratch with Swift_](https://www.uraimo.com/2017/02/05/building-a-lisp-from-scratch-with-swift/)
 * [**TypeScript**: _Build your own WebAssembly Compiler_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
+* [**Python / Rust / Go / C / C++ / JavaScript**: _Build a Programming Language — lexer, parser, AST, interpreter, closures, GC, classes_](https://shipthatcode.com/courses/build-programming-language)
 
 #### Build your own `Regex Engine`
 
@@ -364,6 +371,7 @@ It's a great way to learn.
 * [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
 * [**Python**: _Build Your Own Regular Expression Engines: Backtracking, NFA, DFA_](https://build-your-own.org/b2a/r0_intro)
 * [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
+* [**Python / Go / Rust / C / C++ / JavaScript**: _Build a Regex Engine — NFA, DFA, backtracking, Thompson construction_](https://shipthatcode.com/courses/build-regex-engine)
 
 #### Build your own `Search Engine`
 
@@ -383,6 +391,7 @@ It's a great way to learn.
 * [**C**: Write a shell in C](https://danishpraka.sh/posts/write-a-shell/)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+* [**Python / Go / Rust / C / C++ / JavaScript**: _Build a Unix Shell — pipes, redirection, job control, builtins_](https://shipthatcode.com/courses/build-shell)
 
 #### Build your own `Template Engine`
 
@@ -400,6 +409,7 @@ It's a great way to learn.
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
 * [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://www.flenker.blog/hecto/)
+* [**Python / Go / Rust / C / C++ / JavaScript**: _Build a Text Editor — rope buffer, syntax highlighting, undo/redo_](https://shipthatcode.com/courses/build-text-editor)
 
 #### Build your own `Visual Recognition System`
 
