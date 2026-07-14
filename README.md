@@ -138,6 +138,7 @@ It's a great way to learn.
 
 #### Build your own `Database`
 
+* [**(any)**: Key-Value Storage Engine](https://read.thecoder.cafe/p/build-your-own-kv-engine)
 * [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
 * [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
 * [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
