@@ -307,6 +307,7 @@ It's a great way to learn.
 
 #### Build your own `Processor`
 
+* [**(any)**: _digiwleea: build a working 8-bit CPU from single transistors, in your browser_](https://digiwleea.wleeaf.dev/learn/)
 * [**Verilog**: _From Blinker to RISC-V_](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV)
 
 #### Build your own `Programming Language`
