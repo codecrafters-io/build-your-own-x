@@ -15,6 +15,7 @@ It's a great way to learn.
 * [Blockchain / Cryptocurrency](#build-your-own-blockchain--cryptocurrency)
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
+* [Distributed Systems](#build-your-own-distributed-systems)
 * [Database](#build-your-own-database)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
