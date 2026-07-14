@@ -1,0 +1,18 @@
+name: Link-check
+on:
+  schedule:
+    - cron: '0 0 * * 1'  # every monday
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Run linksafe
+        uses: TechWiz-3/linksafe@fast
+        with:
+          whitelist_files: "codecrafters-banner.png"
+          whitelist_links: "https://simjue.pages.dev/post/2018/07-01-go-unix-shell/,https://www.jamasoftware.com/blog/lets-write-redux/,https://learnopengl.com/In-Practice/2D-Game/Breakout,https://www.sohamkamani.com/nodejs/telegram-bot/,https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/,https://www.datacamp.com"
+        env:
+          TOKEN: ${{ secrets.TOKEN }}
