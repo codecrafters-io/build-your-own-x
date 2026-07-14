@@ -16,6 +16,7 @@ It's a great way to learn.
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
+* [Distributed System](#build-your-own-distributed-system)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
@@ -40,9 +41,6 @@ It's a great way to learn.
 * [Uncategorized](#uncategorized)
 
 ## Tutorials
-
-#### Build your own `Distributed Systems`
-* [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
 
 #### Build your own `3D Renderer`
 
@@ -151,6 +149,10 @@ It's a great way to learn.
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
+
+#### Build your own `Distributed System`
+
+* [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
 
 #### Build your own `Docker`
 
