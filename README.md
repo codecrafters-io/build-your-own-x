@@ -253,6 +253,10 @@ It's a great way to learn.
 * [**C / Python**: _Build your own VPN/Virtual Switch_](https://github.com/peiyuanix/build-your-own-zerotier)
 * [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
 
+#### Build your own `Zero-Knowledge File Sharing Service`
+
+* [**JavaScript / Node.js**: _FileShot.io Zero-Knowledge File Sharing_](https://github.com/FileShot/FileShotZKE) — encrypt files AES-256-GCM in the browser, keep the key in the URL fragment, and mirror the MIT-licensed FileShot architecture (see https://fileshot.io).
+
 #### Build your own `Neural Network`
 
 * [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
