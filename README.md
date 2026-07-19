@@ -103,6 +103,7 @@ It's a great way to learn.
 * [**TypeScript**: _Naivecoin: a tutorial for building a cryptocurrency_](https://lhartikk.github.io/)
 * [**TypeScript**: _NaivecoinStake: a tutorial for building a cryptocurrency with the Proof of Stake consensus_](https://naivecoinstake.learn.uno/)
 * [**Rust**: _Building A Blockchain in Rust & Substrate_](https://hackernoon.com/building-a-blockchain-in-rust-and-substrate-a-step-by-step-guide-for-developers-kc223ybp)
+* [**Go**: _Learn Blockchain by Code_](https://github.com/uchaindb/LearnBlockchainByCode)
 
 
 #### Build your own `Bot`
