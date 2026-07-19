@@ -294,6 +294,7 @@ It's a great way to learn.
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
 * [**Rust**: _Add RISC-V Rust Operating System Tutorial_](https://osblog.stephenmarz.com/)
 * [**(any)**: _Linux from scratch_](https://linuxfromscratch.org/lfs)
+* [**Rust**: _Write an OS for the Raspberry Pi in Rust_](https://tc.gts3.org/cs3210/2020/spring/lab.html)
 
 #### Build your own `Physics Engine`
 
