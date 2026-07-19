@@ -221,9 +221,9 @@ It's a great way to learn.
 * [**JavaScript**: _How to Make Flappy Bird in HTML5 With Phaser_](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
 * [**JavaScript**: _Developing Games with React, Redux, and SVG_](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [**JavaScript**: _Build your own 8-Ball Pool game from scratch_](https://www.youtube.com/watch?v=aXwCrtAo4Wc) [video]
-* [**JavaScript**: _How to Make Your First Roguelike_](https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677)
+* [**JavaScript**: _How to Make Your First Roguelike_](https://code.tutsplus.com/how-to-make-your-first-roguelike--gamedev-13677)
 * [**JavaScript**: _Think like a programmer: How to build Snake using only JavaScript, HTML & CSS_](https://medium.freecodecamp.org/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e)
-* [**Lua**: _BYTEPATH_](https://github.com/SSYGEN/blog/issues/30)
+* [**Lua**: _BYTEPATH_](https://web.archive.org/web/2020/https://github.com/SSYGEN/blog/issues/30)
 * [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
 * [**Python**: _Roguelike Tutorial Revised_](http://rogueliketutorials.com/)
@@ -299,7 +299,7 @@ It's a great way to learn.
 
 * [**C**: _Video Game Physics Tutorial_](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
 * [**C++**: _Game physics series by Allen Chou_](http://allenchou.net/game-physics-series/)
-* [**C++**: _How to Create a Custom Physics Engine_](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
+* [**C++**: _How to Create a Custom Physics Engine_](https://code.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
 * [**C++**: _3D Physics Engine Tutorial_](https://www.youtube.com/playlist?list=PLEETnX-uPtBXm1KEr_2zQ6K_0hoGH6JJ0) [video]
 * [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
@@ -390,7 +390,7 @@ It's a great way to learn.
 * [**JavaScript**: _Understanding JavaScript Micro-Templating_](https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e)
 * [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
 * [**Python**: _A Template Engine_](http://aosabook.org/en/500L/a-template-engine.html)
-* [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
+* [**Ruby**: _How to write a template engine in less than 30 lines of code_](https://web.archive.org/web/2020/http://bits.citrusbyte.com/how-to-write-a-template-library/)
 
 #### Build your own `Text Editor`
 
@@ -440,7 +440,7 @@ It's a great way to learn.
 * [**C**: _Write a System Call_](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 * [**C**: _Sol - An MQTT broker from scratch_](https://codepr.github.io/posts/sol-mqtt-broker)
 * [**C++**: _Build your own VR headset for $200_](https://github.com/relativty/Relativ)
-* [**C++**: _How X Window Managers work and how to write one_](https://seasonofcode.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i.html)
+* [**C++**: _How X Window Managers work and how to write one_](https://jichu4n.com/posts/how-x-window-managers-work-and-how-to-write-one-part-i/)
 * [**C++**: _Writing a Linux Debugger_](https://blog.tartanllama.xyz/writing-a-linux-debugger-setup/)
 * [**C++**: _How a 64k intro is made_](http://www.lofibucket.com/articles/64k_intro.html)
 * [**C++**: _Make your own Game Engine_](https://www.youtube.com/playlist?list=PLlrATfBNZ98dC-V-N3m0Go4deliWHPFwT)
@@ -486,7 +486,7 @@ It's a great way to learn.
 * [**Python**: _Building a simple Generative Adversarial Network (GAN) using Tensorflow_](https://blog.paperspace.com/implementing-gans-in-tensorflow/)
 * [**Python**: _Learn ML Algorithms by coding: Decision Trees_](https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4)
 * [**Python**: _JSON Decoding Algorithm_](https://github.com/cheery/json-algorithm)
-* [**Python**: _Build your own Git plugin with python_](https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin)
+* [**Python**: _Build your own Git plugin with python_](https://web.archive.org/web/2020/https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
