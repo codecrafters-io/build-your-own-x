@@ -272,6 +272,7 @@ It's a great way to learn.
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
+* [**Python**: _MiniTorch: A from-scratch autodifferentiation library_](https://minitorch.github.io/)
 
 #### Build your own `Operating System`
 
