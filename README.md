@@ -252,6 +252,7 @@ It's a great way to learn.
 * [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
 * [**C / Python**: _Build your own VPN/Virtual Switch_](https://github.com/peiyuanix/build-your-own-zerotier)
 * [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
+* [**Python**: _Ethernet Frame Analyzer (raw sockets, Data Link Layer)_](https://github.com/evan-mcelroy/ethernet-frame-analyzer)
 
 #### Build your own `Neural Network`
 
