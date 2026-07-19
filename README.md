@@ -280,7 +280,7 @@ It's a great way to learn.
 * [**C**: _Building a software and hardware stack for a simple computer from scratch_](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
 * [**C**: _Operating Systems: From 0 to 1_](https://tuhdo.github.io/os01/)
 * [**C**: _The little book about OS development_](https://littleosbook.github.io/)
-* [**C**: _Roll your own toy UNIX-clone OS_](http://jamesmolloy.co.uk/tutorial_html/)
+* [**C**: _Roll your own toy UNIX-clone OS_](https://web.archive.org/web/2020/https://jamesmolloy.co.uk/tutorial_html/)
 * [**C**: _Kernel 101 – Let’s write a Kernel_](https://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel)
 * [**C**: _Kernel 201 – Let’s write a Kernel with keyboard and screen support_](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
 * [**C**: _Build a minimal multi-tasking kernel for ARM from scratch_](https://github.com/jserv/mini-arm-os)
@@ -327,7 +327,7 @@ It's a great way to learn.
 * [**Go**: _The Super Tiny Compiler_](https://github.com/hazbo/the-super-tiny-compiler)
 * [**Go**: _Lexical Scanning in Go_](https://www.youtube.com/watch?v=HxaD_trXwRE) [video]
 * [**Haskell**: _Let's Build a Compiler_](https://g-ford.github.io/cradle/)
-* [**Haskell**: _Write You a Haskell_](http://dev.stephendiehl.com/fun/)
+* [**Haskell**: _Write You a Haskell_](https://web.archive.org/web/2020/https://dev.stephendiehl.com/fun/)
 * [**Haskell**: _Write Yourself a Scheme in 48 Hours_](https://en.wikibooks.org/wiki/Write_Yourself_a_Scheme_in_48_Hours)
 * [**Haskell**: _Write You A Scheme_](https://www.wespiser.com/writings/wyas/home.html)
 * [**Java**: _Crafting interpreters: A handbook for making programming languages_](http://www.craftinginterpreters.com/)
