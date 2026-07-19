@@ -383,6 +383,8 @@ It's a great way to learn.
 * [**C**: Write a shell in C](https://danishpraka.sh/posts/write-a-shell/)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+* [**C**: _How to write a (very basic) UNIX shell_](https://github.com/spencertipping/shell-tutorial)
+
 
 #### Build your own `Template Engine`
 
