@@ -304,6 +304,7 @@ It's a great way to learn.
 * [**JavaScript**: _How Physics Engines Work_](http://buildnewgames.com/gamephysics/)
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic)
+* [**JavaScript**: _Making a Verlet Physics Engine in JavaScript_](https://anuraghazra.github.io/blog/making-a-verlet-physics-engine-in-javascript)
 
 #### Build your own `Processor`
 
