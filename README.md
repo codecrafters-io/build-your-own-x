@@ -151,6 +151,8 @@ It's a great way to learn.
 * [**Python**: _Write your own miniature Redis with Python_](http://charlesleifer.com/blog/building-a-simple-redis-server-with-python/)
 * [**Ruby**: _Build your own fast, persistent KV store in Ruby_](https://dineshgowda.com/posts/build-your-own-persistent-kv-store/)
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
+* [**JavaScript**: _SQLToy – Learn SQL by creating a SQL database in JavaScript_](https://github.com/weinberg/SQLToy/wiki)
+
 
 #### Build your own `Docker`
 
