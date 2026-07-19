@@ -272,6 +272,9 @@ It's a great way to learn.
 * [**Python**: _An Introduction to Convolutional Neural Networks_](https://victorzhou.com/blog/intro-to-cnns-part-1/)
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
+* [**C++**: _Neural Network from scratch in C++_](https://github.com/SorawitChok/Neural-Network-from-scratch-in-Cpp)
+* [**Various**: _Neural Networks and Deep Learning_](http://neuralnetworksanddeeplearning.com/)
+* [**Haskell**: _Practical Dependent Types in Haskell: Type-Safe Neural Networks (Part 1)_](https://blog.jle.im/entry/practical-dependent-types-in-haskell-1.html)
 
 #### Build your own `Operating System`
 
