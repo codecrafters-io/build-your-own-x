@@ -62,6 +62,7 @@ It's a great way to learn.
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
+* [**Python**: _Build your own AI Agent from Scratch_](https://github.com/pandora-web/deepseek-ai-agent-build)
 
 #### Build your own `Augmented Reality`
 
@@ -244,7 +245,7 @@ It's a great way to learn.
 
 #### Build your own `Memory Allocator`
 
-* [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://medium.com/p/e0354e914402)
+* [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://levelup.gitconnected.com/malloc-is-not-magic-implementing-my-own-memory-allocator-e0354e914402)
 
 #### Build your own `Network Stack`
 
