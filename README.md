@@ -245,7 +245,7 @@ It's a great way to learn.
 
 #### Build your own `Memory Allocator`
 
-* [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://medium.com/p/e0354e914402)
+* [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://levelup.gitconnected.com/malloc-is-not-magic-implementing-my-own-memory-allocator-e0354e914402)
 
 #### Build your own `Network Stack`
 
