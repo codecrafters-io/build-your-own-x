@@ -305,6 +305,7 @@ It's a great way to learn.
 * [**JavaScript**: _Broad Phase Collision Detection Using Spatial Partitioning_](http://buildnewgames.com/broad-phase-collision-detection/)
 * [**JavaScript**: _Build a simple 2D physics engine for JavaScript games_](https://developer.ibm.com/tutorials/wa-build2dphysicsengine/?mhsrc=ibmsearch_a&mhq=2dphysic)
 
+* [**Python**: _Build Your Own Physics — learn physics by building every simulation from scratch; 12 hands-on challenges from projectile motion to the solar system, zero-prerequisite, AI-assisted, bilingual_](https://github.com/Zensoro/build-your-own-physics)
 #### Build your own `Processor`
 
 * [**Verilog**: _From Blinker to RISC-V_](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV)
