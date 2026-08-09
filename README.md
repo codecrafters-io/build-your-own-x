@@ -9,6 +9,7 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 It's a great way to learn.
 
 * [3D Renderer](#build-your-own-3d-renderer)
+* [AI Agent](#build-your-own-ai-agent)
 * [AI Model](#build-your-own-ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
 * [BitTorrent Client](#build-your-own-bittorrent-client)
@@ -57,6 +58,13 @@ It's a great way to learn.
 * [**Java**: _How to create your own simple 3D render engine in pure Java_](http://blog.rogach.org/2015/08/how-to-create-your-own-simple-3d-render.html)
 * [**JavaScript / Pseudocode**: _Computer Graphics from scratch_](http://www.gabrielgambetta.com/computer-graphics-from-scratch/introduction.html)
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
+
+#### Build your own `AI Agent`
+* [**Go**: _How to Build an Agent_](https://ampcode.com/notes/how-to-build-an-agent)
+* [**JavaScript**: _How to Build an Agent in JavaScript_](https://kevinyank.com/posts/how-to-build-an-agent-in-javascript/)
+* [**Node.js**: _Build a coding agent: the loop, tools, workspace sandboxing, and a raw-HTTP model adapter_](https://github.com/TheSeydiCharyyev/build-your-own-agent/blob/main/reference/06-coding-agent/TUTORIAL.md)
+* [**Node.js**: _Build an MCP server and client: JSON-RPC over stdio, no SDK_](https://github.com/TheSeydiCharyyev/build-your-own-agent/blob/main/reference/05-mcp-server-client/TUTORIAL.md)
+* [**Node.js**: _Build token accounting for an agent: cost math, prompt-cache economics, streaming metrics_](https://github.com/TheSeydiCharyyev/build-your-own-agent/blob/main/reference/07-token-accounting/TUTORIAL.md)
 
 #### Build your own `AI Model`
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
