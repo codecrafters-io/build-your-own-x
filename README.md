@@ -283,9 +283,13 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Memory Allocator`
 
+> **Suggested difficulty:** Advanced
+
 * [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://medium.com/p/e0354e914402)
 
 #### Build your own `Network Stack`
+
+> **Suggested difficulty:** Advanced
 
 * [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/)
 * [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
