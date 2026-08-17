@@ -231,6 +231,8 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Game`
 
+> **Suggested difficulty:** Intermediate
+
 * [**C**: _Handmade Hero_](https://handmadehero.org/)
 * [**C**: _How to Program an NES game in C_](https://nesdoug.com/)
 * [**C**: _Chess Engine In C_](https://www.youtube.com/playlist?list=PLZ1QII7yudbc-Ky058TEaOstZHVbT-2hg) [video]
@@ -268,6 +270,8 @@ These labels describe the category as a whole; individual tutorials can still be
 * [**Rust**: _Roguelike Tutorial in Rust + tcod_](https://tomassedovic.github.io/roguelike-tutorial/)
 
 #### Build your own `Git`
+
+> **Suggested difficulty:** Advanced
 
 * [**Haskell**: _Reimplementing “git clone” in Haskell from the bottom up_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [**JavaScript**: _Gitlet_](http://gitlet.maryrosecook.com/docs/gitlet.html)
