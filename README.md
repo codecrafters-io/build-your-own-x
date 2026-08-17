@@ -479,10 +479,14 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Web Browser`
 
+> **Suggested difficulty:** Advanced
+
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Python**: _Browser Engineering_](https://browser.engineering)
 
 #### Build your own `Web Server`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C#**: _Writing a Web Server from Scratch_](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
 * [**Node.js**: _Build Your Own Web Server From Scratch In JavaScript_](https://build-your-own.org/webserver/)
