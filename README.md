@@ -8,6 +8,17 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
+### Difficulty guide
+
+Difficulty labels provide an approximate starting point for each tutorial category:
+
+* **Beginner** - approachable with basic programming knowledge.
+* **Intermediate** - benefits from prior experience with the language or core concepts.
+* **Advanced** - expects stronger systems, mathematics, graphics, networking, or architecture knowledge.
+* **Varies** - contains tutorials with substantially different prerequisites.
+
+These labels describe the category as a whole; individual tutorials can still be easier or harder.
+
 * [3D Renderer](#build-your-own-3d-renderer)
 * [AI Model](#build-your-own-ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
@@ -42,9 +53,13 @@ It's a great way to learn.
 ## Tutorials
 
 #### Build your own `Distributed Systems`
+
+> **Suggested difficulty:** Advanced
 * [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
 
 #### Build your own `3D Renderer`
+
+> **Suggested difficulty:** Advanced
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
@@ -59,11 +74,15 @@ It's a great way to learn.
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
 
 #### Build your own `AI Model`
+
+> **Suggested difficulty:** Advanced
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
 
 #### Build your own `Augmented Reality`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C#**: _How To: Augmented Reality App Tutorial for Beginners with Vuforia and Unity 3D_](https://www.youtube.com/watch?v=uXNjNcqW4kY) [video]
 * [**C#**: _How To Unity ARCore_](https://www.youtube.com/playlist?list=PLKIKuXdn4ZMjuUAtdQfK1vwTZPQn_rgSv) [video]
@@ -74,6 +93,8 @@ It's a great way to learn.
 
 #### Build your own `BitTorrent Client`
 
+> **Suggested difficulty:** Intermediate
+
 * [**C#**: _Building a BitTorrent client from scratch in C#_](https://www.seanjoflynn.com/research/bittorrent.html)
 * [**Go**: _Building a BitTorrent client from the ground up in Go_](https://blog.jse.li/posts/torrent/)
 * [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day02_bencode.html)
@@ -81,6 +102,8 @@ It's a great way to learn.
 * [**Python**: _A BitTorrent client in Python 3.5_](http://markuseliasson.se/article/bittorrent-in-python/)
 
 #### Build your own `Blockchain / Cryptocurrency`
+
+> **Suggested difficulty:** Advanced
 
 * [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**Crystal**: _Write your own blockchain and PoW algorithm using Crystal_](https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52)
@@ -107,6 +130,8 @@ It's a great way to learn.
 
 #### Build your own `Bot`
 
+> **Suggested difficulty:** Beginner
+
 * [**Haskell**: _Roll your own IRC bot_](https://wiki.haskell.org/Roll_your_own_IRC_bot)
 * [**Node.js**: _Creating a Simple Facebook Messenger AI Bot with API.ai in Node.js_](https://tutorials.botsfloor.com/creating-a-simple-facebook-messenger-ai-bot-with-api-ai-in-node-js-50ae2fa5c80d)
 * [**Node.js**: _How to make a responsive telegram bot_](https://www.sohamkamani.com/blog/2016/09/21/making-a-telegram-bot/)
@@ -125,6 +150,8 @@ It's a great way to learn.
 
 #### Build your own `Command-Line Tool`
 
+> **Suggested difficulty:** Beginner
+
 * [**Go**: _Visualize your local git contributions with Go_](https://flaviocopes.com/go-git-contributions/)
 * [**Go**: _Build a command line app with Go: lolcat_](https://flaviocopes.com/go-tutorial-lolcat/)
 * [**Go**: _Building a cli command with Go: cowsay_](https://flaviocopes.com/go-tutorial-cowsay/)
@@ -137,6 +164,8 @@ It's a great way to learn.
 
 
 #### Build your own `Database`
+
+> **Suggested difficulty:** Advanced
 
 * [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
 * [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
@@ -154,6 +183,8 @@ It's a great way to learn.
 
 #### Build your own `Docker`
 
+> **Suggested difficulty:** Advanced
+
 * [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [**Go**: _Build Your Own Container Using Less than 100 Lines of Go_](https://www.infoq.com/articles/build-a-container-golang)
 * [**Go**: _Building a container from scratch in Go_](https://www.youtube.com/watch?v=8fi7uSYlOdc) [video]
@@ -162,6 +193,8 @@ It's a great way to learn.
 * [**Shell**: _Docker implemented in around 100 lines of bash_](https://github.com/p8952/bocker)
 
 #### Build your own `Emulator / Virtual Machine`
+
+> **Suggested difficulty:** Advanced
 
 * [**C**: _Home-grown bytecode interpreters_](https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c)
 * [**C**: _Virtual machine in C_](http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
@@ -179,6 +212,8 @@ It's a great way to learn.
 
 #### Build your own `Front-end Framework / Library`
 
+> **Suggested difficulty:** Intermediate
+
 * [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
 * [**JavaScript**: _A DIY guide to build your own React_](https://github.com/hexacta/didact)
 * [**JavaScript**: _Building React From Scratch_](https://www.youtube.com/watch?v=_MAD4Oly9yg) [video]
@@ -195,6 +230,8 @@ It's a great way to learn.
 * [**JavaScript**: _Building a Custom React Renderer_](https://youtu.be/CGpMlWVcHok) [video]
 
 #### Build your own `Game`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C**: _Handmade Hero_](https://handmadehero.org/)
 * [**C**: _How to Program an NES game in C_](https://nesdoug.com/)
@@ -234,6 +271,8 @@ It's a great way to learn.
 
 #### Build your own `Git`
 
+> **Suggested difficulty:** Advanced
+
 * [**Haskell**: _Reimplementing “git clone” in Haskell from the bottom up_](http://stefan.saasen.me/articles/git-clone-in-haskell-from-the-bottom-up/)
 * [**JavaScript**: _Gitlet_](http://gitlet.maryrosecook.com/docs/gitlet.html)
 * [**JavaScript**: _Build GIT - Learn GIT_](https://kushagra.dev/blog/build-git-learn-git/)
@@ -244,9 +283,13 @@ It's a great way to learn.
 
 #### Build your own `Memory Allocator`
 
+> **Suggested difficulty:** Advanced
+
 * [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://medium.com/p/e0354e914402)
 
 #### Build your own `Network Stack`
+
+> **Suggested difficulty:** Advanced
 
 * [**C**: _Beej's Guide to Network Programming_](http://beej.us/guide/bgnet/)
 * [**C**: _Let's code a TCP/IP stack_](http://www.saminiir.com/lets-code-tcp-ip-stack-1-ethernet-arp/)
@@ -254,6 +297,8 @@ It's a great way to learn.
 * [**Ruby**: _How to build a network stack in Ruby_](https://medium.com/geckoboard-under-the-hood/how-to-build-a-network-stack-in-ruby-f73aeb1b661b)
 
 #### Build your own `Neural Network`
+
+> **Suggested difficulty:** Advanced
 
 * [**C#**: _Neural Network OCR_](https://www.codeproject.com/Articles/11285/Neural-Network-OCR)
 * [**F#**: _Building Neural Networks in F#: Part 1_](https://medium.com/data-science/building-neural-networks-in-f-part-1-a2832ae972e6)
@@ -274,6 +319,8 @@ It's a great way to learn.
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
 
 #### Build your own `Operating System`
+
+> **Suggested difficulty:** Advanced
 
 * [**Assembly**: _Writing a Tiny x86 Bootloader_](http://joebergeron.io/posts/post_two.html)
 * [**Assembly**: _Baking Pi – Operating Systems Development_](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
@@ -297,6 +344,8 @@ It's a great way to learn.
 
 #### Build your own `Physics Engine`
 
+> **Suggested difficulty:** Advanced
+
 * [**C**: _Video Game Physics Tutorial_](https://www.toptal.com/game/video-game-physics-part-i-an-introduction-to-rigid-body-dynamics)
 * [**C++**: _Game physics series by Allen Chou_](http://allenchou.net/game-physics-series/)
 * [**C++**: _How to Create a Custom Physics Engine_](https://gamedevelopment.tutsplus.com/series/how-to-create-a-custom-physics-engine--gamedev-12715)
@@ -307,9 +356,13 @@ It's a great way to learn.
 
 #### Build your own `Processor`
 
+> **Suggested difficulty:** Advanced
+
 * [**Verilog**: _From Blinker to RISC-V_](https://github.com/BrunoLevy/learn-fpga/tree/master/FemtoRV/TUTORIALS/FROM_BLINKER_TO_RISCV)
 
 #### Build your own `Programming Language`
+
+> **Suggested difficulty:** Advanced
 
 * [**(any)**: _mal - Make a Lisp_](https://github.com/kanaka/mal#mal---make-a-lisp)
 * [**Assembly**: _Jonesforth_](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
@@ -355,6 +408,8 @@ It's a great way to learn.
 
 #### Build your own `Regex Engine`
 
+> **Suggested difficulty:** Intermediate
+
 * [**C**: _A Regular Expression Matcher_](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [**C**: _Regular Expression Matching Can Be Simple And Fast_](https://swtch.com/~rsc/regexp/regexp1.html)
 * [**Go**: _How to build a regex engine from scratch_](https://rhaeguard.github.io/posts/regex)
@@ -367,6 +422,8 @@ It's a great way to learn.
 
 #### Build your own `Search Engine`
 
+> **Suggested difficulty:** Advanced
+
 * [**CSS**: _A search engine in CSS_](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
 * [**Python**: _Building a search engine using Redis and redis-py_](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
 * [**Python**: _Building a Vector Space Indexing Engine in Python_](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
@@ -375,6 +432,8 @@ It's a great way to learn.
 * [**Python**: _Finding Important Words in Text Using TF-IDF_](https://stevenloria.com/tf-idf/)
 
 #### Build your own `Shell`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C**: _Tutorial - Write a Shell in C_](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
@@ -386,6 +445,8 @@ It's a great way to learn.
 
 #### Build your own `Template Engine`
 
+> **Suggested difficulty:** Beginner
+
 * [**JavaScript**: _JavaScript template engine in just 20 lines_](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
 * [**JavaScript**: _Understanding JavaScript Micro-Templating_](https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e)
 * [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
@@ -393,6 +454,8 @@ It's a great way to learn.
 * [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
 
 #### Build your own `Text Editor`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C**: _Build Your Own Text Editor_](https://viewsourcecode.org/snaptoken/kilo/)
 * [**C++**: _Designing a Simple Text Editor_](http://www.fltk.org/doc-1.1/editor.html)
@@ -403,19 +466,27 @@ It's a great way to learn.
 
 #### Build your own `Visual Recognition System`
 
+> **Suggested difficulty:** Advanced
+
 * [**Python**: _Developing a License Plate Recognition System with Machine Learning in Python_](https://medium.com/devcenter/developing-a-license-plate-recognition-system-with-machine-learning-in-python-787833569ccd)
 * [**Python**: _Building a Facial Recognition Pipeline with Deep Learning in Tensorflow_](https://hackernoon.com/building-a-facial-recognition-pipeline-with-deep-learning-in-tensorflow-66e7645015b8)
 
 #### Build your own `Voxel Engine`
 
+> **Suggested difficulty:** Advanced
+
 * [**C++**: _Let's Make a Voxel Engine_](https://sites.google.com/site/letsmakeavoxelengine/home)
 
 #### Build your own `Web Browser`
+
+> **Suggested difficulty:** Advanced
 
 * [**Rust**: _Let's build a browser engine_](https://limpet.net/mbrubeck/2014/08/08/toy-layout-engine-1.html)
 * [**Python**: _Browser Engineering_](https://browser.engineering)
 
 #### Build your own `Web Server`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C#**: _Writing a Web Server from Scratch_](https://www.codeproject.com/Articles/859108/Writing-a-Web-Server-from-Scratch)
 * [**Node.js**: _Build Your Own Web Server From Scratch In JavaScript_](https://build-your-own.org/webserver/)
@@ -430,6 +501,8 @@ It's a great way to learn.
 * [**Ruby**: _Building a simple websockets server from scratch in Ruby_](http://blog.honeybadger.io/building-a-simple-websockets-server-from-scratch-in-ruby/)
 
 #### Uncategorized
+
+> **Suggested difficulty:** Varies
 
 * [**(any)**: _From NAND to Tetris: Building a Modern Computer From First Principles_](http://nand2tetris.org/)
 * [**(any)**:  build-your-own-x-vibe-coding: BYOX-style tutorials adapted for vibe coding](https://github.com/inFaaa/build-your-own-x-vibe-coding)
