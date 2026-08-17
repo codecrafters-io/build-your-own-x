@@ -422,6 +422,8 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Search Engine`
 
+> **Suggested difficulty:** Advanced
+
 * [**CSS**: _A search engine in CSS_](https://stories.algolia.com/a-search-engine-in-css-b5ec4e902e97)
 * [**Python**: _Building a search engine using Redis and redis-py_](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
 * [**Python**: _Building a Vector Space Indexing Engine in Python_](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
@@ -430,6 +432,8 @@ These labels describe the category as a whole; individual tutorials can still be
 * [**Python**: _Finding Important Words in Text Using TF-IDF_](https://stevenloria.com/tf-idf/)
 
 #### Build your own `Shell`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C**: _Tutorial - Write a Shell in C_](https://brennan.io/2015/01/16/write-a-shell-in-c/)
 * [**C**: _Let's build a shell!_](https://github.com/kamalmarhubi/shell-workshop)
