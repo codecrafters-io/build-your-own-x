@@ -8,6 +8,17 @@ This repository is a compilation of well-written, step-by-step guides for re-cre
 
 It's a great way to learn.
 
+### Difficulty guide
+
+Difficulty labels provide an approximate starting point for each tutorial category:
+
+* **Beginner** - approachable with basic programming knowledge.
+* **Intermediate** - benefits from prior experience with the language or core concepts.
+* **Advanced** - expects stronger systems, mathematics, graphics, networking, or architecture knowledge.
+* **Varies** - contains tutorials with substantially different prerequisites.
+
+These labels describe the category as a whole; individual tutorials can still be easier or harder.
+
 * [3D Renderer](#build-your-own-3d-renderer)
 * [AI Model](#build-your-own-ai-model)
 * [Augmented Reality](#build-your-own-augmented-reality)
