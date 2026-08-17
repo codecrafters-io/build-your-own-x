@@ -53,9 +53,13 @@ These labels describe the category as a whole; individual tutorials can still be
 ## Tutorials
 
 #### Build your own `Distributed Systems`
+
+> **Suggested difficulty:** Advanced
 * [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
 
 #### Build your own `3D Renderer`
+
+> **Suggested difficulty:** Advanced
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
