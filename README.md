@@ -93,6 +93,8 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `BitTorrent Client`
 
+> **Suggested difficulty:** Intermediate
+
 * [**C#**: _Building a BitTorrent client from scratch in C#_](https://www.seanjoflynn.com/research/bittorrent.html)
 * [**Go**: _Building a BitTorrent client from the ground up in Go_](https://blog.jse.li/posts/torrent/)
 * [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day02_bencode.html)
@@ -100,6 +102,8 @@ These labels describe the category as a whole; individual tutorials can still be
 * [**Python**: _A BitTorrent client in Python 3.5_](http://markuseliasson.se/article/bittorrent-in-python/)
 
 #### Build your own `Blockchain / Cryptocurrency`
+
+> **Suggested difficulty:** Advanced
 
 * [**ATS**: _Functional Blockchain_](https://beta.observablehq.com/@galletti94/functional-blockchain)
 * [**Crystal**: _Write your own blockchain and PoW algorithm using Crystal_](https://medium.com/@bradford_hamilton/write-your-own-blockchain-and-pow-algorithm-using-crystal-d53d5d9d0c52)
