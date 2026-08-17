@@ -165,6 +165,8 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Database`
 
+> **Suggested difficulty:** Advanced
+
 * [**C**: _Let's Build a Simple Database_](https://cstack.github.io/db_tutorial/)
 * [**C++**: _Build Your Own Redis from Scratch_](https://build-your-own.org/redis)
 * [**C#**: _Build Your Own Database_](https://www.codeproject.com/Articles/1029838/Build-Your-Own-Database)
@@ -180,6 +182,8 @@ These labels describe the category as a whole; individual tutorials can still be
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
 
 #### Build your own `Docker`
+
+> **Suggested difficulty:** Advanced
 
 * [**C**: _Linux containers in 500 lines of code_](https://blog.lizzie.io/linux-containers-in-500-loc.html)
 * [**Go**: _Build Your Own Container Using Less than 100 Lines of Go_](https://www.infoq.com/articles/build-a-container-golang)
