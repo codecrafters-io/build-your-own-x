@@ -445,6 +445,8 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Template Engine`
 
+> **Suggested difficulty:** Beginner
+
 * [**JavaScript**: _JavaScript template engine in just 20 lines_](http://krasimirtsonev.com/blog/article/Javascript-template-engine-in-just-20-line)
 * [**JavaScript**: _Understanding JavaScript Micro-Templating_](https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e)
 * [**Python**: _Approach: Building a toy template engine in Python_](http://alexmic.net/building-a-template-engine/)
@@ -452,6 +454,8 @@ These labels describe the category as a whole; individual tutorials can still be
 * [**Ruby**: _How to write a template engine in less than 30 lines of code_](http://bits.citrusbyte.com/how-to-write-a-template-library/)
 
 #### Build your own `Text Editor`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C**: _Build Your Own Text Editor_](https://viewsourcecode.org/snaptoken/kilo/)
 * [**C++**: _Designing a Simple Text Editor_](http://www.fltk.org/doc-1.1/editor.html)
