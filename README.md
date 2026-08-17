@@ -362,6 +362,8 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Programming Language`
 
+> **Suggested difficulty:** Advanced
+
 * [**(any)**: _mal - Make a Lisp_](https://github.com/kanaka/mal#mal---make-a-lisp)
 * [**Assembly**: _Jonesforth_](https://github.com/nornagon/jonesforth/blob/master/jonesforth.S)
 * [**C**: _Baby's First Garbage Collector_](http://journal.stuffwithstuff.com/2013/12/08/babys-first-garbage-collector/)
@@ -405,6 +407,8 @@ These labels describe the category as a whole; individual tutorials can still be
 * [**TypeScript**: _Build your own WebAssembly Compiler_](https://blog.scottlogic.com/2019/05/17/webassembly-compiler.html)
 
 #### Build your own `Regex Engine`
+
+> **Suggested difficulty:** Intermediate
 
 * [**C**: _A Regular Expression Matcher_](https://www.cs.princeton.edu/courses/archive/spr09/cos333/beautiful.html)
 * [**C**: _Regular Expression Matching Can Be Simple And Fast_](https://swtch.com/~rsc/regexp/regexp1.html)
