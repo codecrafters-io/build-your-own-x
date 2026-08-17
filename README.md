@@ -194,6 +194,8 @@ These labels describe the category as a whole; individual tutorials can still be
 
 #### Build your own `Emulator / Virtual Machine`
 
+> **Suggested difficulty:** Advanced
+
 * [**C**: _Home-grown bytecode interpreters_](https://medium.com/bumble-tech/home-grown-bytecode-interpreters-51e12d59b25c)
 * [**C**: _Virtual machine in C_](http://web.archive.org/web/20200121100942/https://blog.felixangell.com/virtual-machine-in-c/)
 * [**C**: _Write your Own Virtual Machine_](https://justinmeiners.github.io/lc3-vm/)
@@ -209,6 +211,8 @@ These labels describe the category as a whole; individual tutorials can still be
 * [**Rust**: _0dmg: Learning Rust by building a partial Game Boy emulator_](https://jeremybanks.github.io/0dmg/)
 
 #### Build your own `Front-end Framework / Library`
+
+> **Suggested difficulty:** Intermediate
 
 * [**JavaScript**: _WTF is JSX (Let's Build a JSX Renderer)_](https://jasonformat.com/wtf-is-jsx/)
 * [**JavaScript**: _A DIY guide to build your own React_](https://github.com/hexacta/didact)
