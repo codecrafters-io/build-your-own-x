@@ -19,6 +19,7 @@ It's a great way to learn.
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
+* [Filesystem](#build-your-own-filesystem)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
 * [Memory Allocator](#build-your-own-memory-allocator)
@@ -193,6 +194,10 @@ It's a great way to learn.
 * [**JavaScript**: _Building a frontend framework, from scratch, with components (templating, state, VDOM)_](https://mfrachet.github.io/create-frontend-framework/)
 * [**JavaScript**: _Build your own React_](https://pomb.us/build-your-own-react/)
 * [**JavaScript**: _Building a Custom React Renderer_](https://youtu.be/CGpMlWVcHok) [video]
+
+#### Build your own `Filesystem`
+
+* [**Go**: _Building a Mini Filesystem: Custom FS with FUSE + Go_](https://uzqw.github.io/posts/210810-fuse-filesystem/)
 
 #### Build your own `Game`
 
