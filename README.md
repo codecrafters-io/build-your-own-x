@@ -62,6 +62,8 @@ It's a great way to learn.
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
+* [**Python**: _Train Your Own LLM and the Tokenizer, Export It to a Custom C Engine_](https://github.com/Agarwalrishu13/nanobrain)
+* [**C**: _A Complete LLM Inference Engine in ~1,400 Lines of Dependency-Free C_](https://github.com/Agarwalrishu13/nanollama.c)
 
 #### Build your own `Augmented Reality`
 
