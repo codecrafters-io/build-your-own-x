@@ -293,6 +293,7 @@ It's a great way to learn.
 * [**C++**: _Writing a Bootloader_](http://3zanders.co.uk/2017/10/13/writing-a-bootloader/)
 * [**Rust**: _Writing an OS in Rust_](https://os.phil-opp.com/)
 * [**Rust**: _Add RISC-V Rust Operating System Tutorial_](https://osblog.stephenmarz.com/)
+* [**Rust**: _rCore-Tutorial-Book 第三版_](https://rcore-os.cn/rCore-Tutorial-Book-v3/) [Chinese]
 * [**(any)**: _Linux from scratch_](https://linuxfromscratch.org/lfs)
 
 #### Build your own `Physics Engine`
