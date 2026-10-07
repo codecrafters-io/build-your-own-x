@@ -245,6 +245,7 @@ It's a great way to learn.
 #### Build your own `Memory Allocator`
 
 * [**C**: _Malloc is not magic -- Implementing your own memory allocator_](https://medium.com/p/e0354e914402)
+* [**C**: _Malloc tutorial_](https://danluu.com/malloc-tutorial/)
 
 #### Build your own `Network Stack`
 
@@ -285,7 +286,6 @@ It's a great way to learn.
 * [**C**: _Kernel 201 – Let’s write a Kernel with keyboard and screen support_](https://arjunsreedharan.org/post/99370248137/kernel-201-lets-write-a-kernel-with-keyboard)
 * [**C**: _Build a minimal multi-tasking kernel for ARM from scratch_](https://github.com/jserv/mini-arm-os)
 * [**C**: _How to create an OS from scratch_](https://github.com/cfenollosa/os-tutorial)
-* [**C**: _Malloc tutorial_](https://danluu.com/malloc-tutorial/)
 * [**C**: _Hack the virtual memory_](https://blog.holbertonschool.com/hack-the-virtual-memory-c-strings-proc/)
 * [**C**: _Learning operating system development using Linux kernel and Raspberry Pi_](https://github.com/s-matyukevich/raspberry-pi-os)
 * [**C**: _Operating systems development for Dummies_](https://medium.com/@lduck11007/operating-systems-development-for-dummies-3d4d786e8ac)
