@@ -21,6 +21,7 @@ It's a great way to learn.
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
+* [IDE](#build-your-own-ide)
 * [Memory Allocator](#build-your-own-memory-allocator)
 * [Network Stack](#build-your-own-network-stack)
 * [Neural Network](#build-your-own-neural-network)
@@ -241,6 +242,10 @@ It's a great way to learn.
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+
+#### Build your own `IDE`
+
+* [**Rust**: _Build Your Own IDE: From Bits to Transformers_](https://github.com/devkancheti4-design/build-your-own-ide)
 
 #### Build your own `Memory Allocator`
 
