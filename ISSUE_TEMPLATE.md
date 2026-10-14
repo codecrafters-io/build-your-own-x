@@ -12,6 +12,7 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 
 ### Category
 * [ ] 3D Renderer
+* [ ] AI Model
 * [ ] Augmented Reality
 * [ ] BitTorrent Client
 * [ ] Blockchain / Cryptocurrency
@@ -19,21 +20,25 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Command-Line Tool
 * [ ] Database
 * [ ] Docker
+* [ ] Distributed Systems
 * [ ] Emulator / Virtual Machine
 * [ ] Front-end Framework / Library
 * [ ] Game
 * [ ] Git
+* [ ] Memory Allocator
 * [ ] Network Stack
 * [ ] Neural Network
 * [ ] Operating System
 * [ ] Physics Engine
+* [ ] Processor
 * [ ] Programming Language
 * [ ] Regex Engine
 * [ ] Search Engine
 * [ ] Shell
 * [ ] Template Engine
+* [ ] Text Editor
 * [ ] Visual Recognition System
 * [ ] Voxel Engine
-* [ ] Web Search Engine
+* [ ] Web Browser
 * [ ] Web Server
 * [ ] Uncategorized
