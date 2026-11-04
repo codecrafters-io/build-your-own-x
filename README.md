@@ -59,6 +59,7 @@ It's a great way to learn.
 * [**Python**: _A 3D Modeller_](http://aosabook.org/en/500L/a-3d-modeller.html)
 
 #### Build your own `AI Model`
+* [**Python**: _A language model and an attention block, with no dependencies_](https://github.com/Amey-Thakur/AI-ENGINEERING)
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
