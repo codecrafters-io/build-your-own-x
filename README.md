@@ -62,6 +62,8 @@ It's a great way to learn.
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
+* [**(any)**: _How to build a generative AI solution: A step-by-step guide_](https://www.leewayhertz.com/how-to-build-a-generative-ai-solution/)
+* [**Python**: _Build a GenAI Chatbot in less than an hour_](https://medium.com/@gbouslov/from-zero-to-genai-chatbot-hero-29b1f45f6542)
 
 #### Build your own `Augmented Reality`
 
@@ -224,6 +226,7 @@ It's a great way to learn.
 * [**JavaScript**: _Build your own 8-Ball Pool game from scratch_](https://www.youtube.com/watch?v=aXwCrtAo4Wc) [video]
 * [**JavaScript**: _How to Make Your First Roguelike_](https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677)
 * [**JavaScript**: _Think like a programmer: How to build Snake using only JavaScript, HTML & CSS_](https://medium.freecodecamp.org/think-like-a-programmer-how-to-build-snake-using-only-javascript-html-and-css-7b1479c3339e)
+* [**JavaScript**: _Build your own GameBoy/GameBoy Color game with GB Studio_](https://www.gbstudio.dev/docs/)
 * [**Lua**: _BYTEPATH_](https://github.com/SSYGEN/blog/issues/30)
 * [**Python**: _Developing Games With PyGame_](https://pythonprogramming.net/pygame-python-3-part-1-intro/)
 * [**Python**: _Making Games with Python & Pygame_](https://inventwithpython.com/makinggames.pdf) [pdf]
@@ -488,6 +491,7 @@ It's a great way to learn.
 * [**Python**: _Learn ML Algorithms by coding: Decision Trees_](https://lethalbrains.com/learn-ml-algorithms-by-coding-decision-trees-439ac503c9a4)
 * [**Python**: _JSON Decoding Algorithm_](https://github.com/cheery/json-algorithm)
 * [**Python**: _Build your own Git plugin with python_](https://joshburns-xyz.vercel.app/posts/build-your-own-git-plugin)
+* [**Python**: _Build your own Web Vulnerability Scanner_](https://www.freecodecamp.org/news/build-a-web-application-security-scanner-with-python)
 * [**Ruby**: _A Pedometer in the Real World_](http://aosabook.org/en/500L/a-pedometer-in-the-real-world.html)
 * [**Ruby**: _Creating a Linux Desktop application with Ruby_](https://iridakos.com/tutorials/2018/01/25/creating-a-gtk-todo-application-with-ruby)
 * [**Rust**: _Building a DNS server in Rust_](https://github.com/EmilHernvall/dnsguide/blob/master/README.md)
