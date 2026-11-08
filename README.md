@@ -43,6 +43,7 @@ It's a great way to learn.
 
 #### Build your own `Distributed Systems`
 * [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
+* [**Java**: _Build your own Raft: leader election, log replication, and the §5.4 safety rules_](https://github.com/naman1gupta/raft-from-scratch)
 
 #### Build your own `3D Renderer`
 
