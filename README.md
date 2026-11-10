@@ -74,6 +74,7 @@ It's a great way to learn.
 
 #### Build your own `BitTorrent Client`
 
+* [**C**: _tnerroT - Build a BitTorrent client from scratch in C_](https://github.com/Achintya47/tnerroT)
 * [**C#**: _Building a BitTorrent client from scratch in C#_](https://www.seanjoflynn.com/research/bittorrent.html)
 * [**Go**: _Building a BitTorrent client from the ground up in Go_](https://blog.jse.li/posts/torrent/)
 * [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day02_bencode.html)
