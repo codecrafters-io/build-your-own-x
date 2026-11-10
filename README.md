@@ -16,6 +16,7 @@ It's a great way to learn.
 * [Bot](#build-your-own-bot)
 * [Command-Line Tool](#build-your-own-command-line-tool)
 * [Database](#build-your-own-database)
+* [Distributed Systems](#build-your-own-distributed-systems)
 * [Docker](#build-your-own-docker)
 * [Emulator / Virtual Machine](#build-your-own-emulator--virtual-machine)
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
