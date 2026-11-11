@@ -43,6 +43,7 @@ It's a great way to learn.
 
 #### Build your own `Distributed Systems`
 * [**Java**: _Building Your Own Kafka-like System From Scratch: A Step-by-Step Guide_](https://github.com/buildthingsuseful/build-your-own-kafka)
+* [**TypeScript**: _An Interactive Intro to CRDTs_](https://jakelazaroff.com/words/an-interactive-intro-to-crdts/)
 
 #### Build your own `3D Renderer`
 
