@@ -79,6 +79,7 @@ It's a great way to learn.
 * [**Nim**: _Writing a Bencode Parser_](https://xmonader.github.io/nimdays/day02_bencode.html)
 * [**Node.js**: _Write your own bittorrent client_](https://allenkim67.github.io/programming/2016/05/04/how-to-make-your-own-bittorrent-client.html)
 * [**Python**: _A BitTorrent client in Python 3.5_](http://markuseliasson.se/article/bittorrent-in-python/)
+* [**Node.js**: _BitTorrent Protocol from scratch_](https://www.tzionis.com/bittorrent-protocol-in-25-minutes)
 
 #### Build your own `Blockchain / Cryptocurrency`
 
