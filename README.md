@@ -2,7 +2,7 @@
 
 ## Build your own &lt;insert-technology-here&gt;
 
-This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch. 
+This repository is a compilation of well-written, step-by-step guides for re-creating our favorite technologies from scratch.
 
 > *What I cannot create, I do not understand — Richard Feynman.*
 
@@ -277,6 +277,7 @@ It's a great way to learn.
 #### Build your own `Operating System`
 
 * [**Assembly**: _Writing a Tiny x86 Bootloader_](http://joebergeron.io/posts/post_two.html)
+* [**Assembly**: _Writing a Simple Linux Bootloader (x86-64)_](https://medium.com/@7amza.dridi/part-1-simple-bootloader-for-linux-6fec2ba20346)
 * [**Assembly**: _Baking Pi – Operating Systems Development_](http://www.cl.cam.ac.uk/projects/raspberrypi/tutorials/os/index.html)
 * [**C**: _Building a software and hardware stack for a simple computer from scratch_](https://www.youtube.com/watch?v=ZjwvMcP3Nf0&list=PLU94OURih-CiP4WxKSMt3UcwMSDM3aTtX) [video]
 * [**C**: _Operating Systems: From 0 to 1_](https://tuhdo.github.io/os01/)
@@ -361,7 +362,7 @@ It's a great way to learn.
 * [**Go**: _How to build a regex engine from scratch_](https://rhaeguard.github.io/posts/regex)
 * [**JavaScript**: _Build a Regex Engine in Less than 40 Lines of Code_](https://nickdrane.com/build-your-own-regex/)
 * [**JavaScript**: _How to implement regular expressions in functional javascript using derivatives_](http://dpk.io/dregs/toydregs)
-* [**JavaScript**: _Implementing a Regular Expression Engine_](https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/) 
+* [**JavaScript**: _Implementing a Regular Expression Engine_](https://deniskyashif.com/2019/02/17/implementing-a-regular-expression-engine/)
 * [**Perl**: _How Regexes Work_](https://perl.plover.com/Regex/article.html)
 * [**Python**: _Build Your Own Regular Expression Engines: Backtracking, NFA, DFA_](https://build-your-own.org/b2a/r0_intro)
 * [**Scala**: _No Magic: Regular Expressions_](https://rcoh.svbtle.com/no-magic-regular-expressions)
@@ -495,7 +496,7 @@ It's a great way to learn.
 * [**Rust**: _WebGL + Rust: Basic Water Tutorial_](https://www.chinedufn.com/3d-webgl-basic-water-tutorial/)
 * [**TypeScript**: _Tiny Package Manager: Learns how npm or Yarn works_](https://github.com/g-plane/tiny-package-manager)
 
-## Contribute 
+## Contribute
 * Submissions welcome, just send a PR, or [create an issue](https://github.com/codecrafters-io/build-your-own-x/issues/new)
 * Help us review [pending submissions](https://github.com/codecrafters-io/build-your-own-x/issues) by leaving comments and "reactions"
 
