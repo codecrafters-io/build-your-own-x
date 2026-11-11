@@ -48,6 +48,7 @@ It's a great way to learn.
 
 * [**C++**: _Introduction to Ray Tracing: a Simple Method for Creating 3D Images_](https://www.scratchapixel.com/lessons/3d-basic-rendering/introduction-to-ray-tracing/how-does-it-work)
 * [**C++**: _How OpenGL works: software rendering in 500 lines of code_](https://github.com/ssloy/tinyrenderer/wiki)
+* [**C++**: _Understandable RayTracing in 256 lines of bare C++_](https://github.com/ssloy/tinyraytracer/wiki/Part-1:-understandable-raytracing)
 * [**C++**: _Raycasting engine of Wolfenstein 3D_](http://lodev.org/cgtutor/raycasting.html)
 * [**C++**: _Physically Based Rendering:From Theory To Implementation_](http://www.pbr-book.org/)
 * [**C++**: _Ray Tracing in One Weekend_](https://raytracing.github.io/books/RayTracingInOneWeekend.html)
