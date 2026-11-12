@@ -62,6 +62,7 @@ It's a great way to learn.
 * [**Python**: _A Large Language Model (LLM)_](https://github.com/rasbt/LLMs-from-scratch)
 * [**Python**: _Diffusion Models for Image Generation_](https://huggingface.co/learn/diffusion-course/en/unit1/3)
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
+* [**Python**: _Sparse Autoencoders (toy models of superposition, then train your own SAE)_](https://learn.arena.education/chapter1_transformer_interp/34_superposition/)
 
 #### Build your own `Augmented Reality`
 
