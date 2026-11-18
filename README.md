@@ -386,6 +386,7 @@ It's a great way to learn.
 #### Build your own `Search Engine`
 
 * [**CSS**: _How we built the real demo for our fake CSS API client_](https://www.algolia.com/blog/engineering/real-demo-fake-css-api-client)
+* [**Java**: _Build your own Search Engine from Scratch in Java_](https://www.0xkishan.com/blogs/build-your-own-search-engine-from-scratch-in-java/)
 * [**Python**: _Building a search engine using Redis and redis-py_](http://www.dr-josiah.com/2010/07/building-search-engine-using-redis-and.html)
 * [**Python**: _Building a Vector Space Indexing Engine in Python_](https://boyter.org/2010/08/build-vector-space-search-engine-python/)
 * [**Python**: _Building A Python-Based Search Engine_](https://www.youtube.com/watch?v=cY7pE7vX6MU) [video]
