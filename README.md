@@ -284,6 +284,8 @@ It's a great way to learn.
 * [**Python**: _Neural Networks: Zero to Hero_](https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ)
 * [**Python**: _Neural Networks and Deep Learning_](http://neuralnetworksanddeeplearning.com/)
 * [**Python**: _SlowTorch: Implementation of PyTorch from the ground up in 100% pure Python_](https://github.com/xames3/slowtorch)
+* [**Python**: _Build your own deep learning library (EaZyGrad)_](https://github.com/sabeaussan/EaZyGrad)
+
 
 #### Build your own `Operating System`
 
