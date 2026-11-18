@@ -153,6 +153,7 @@ It's a great way to learn.
 * [**Rust**: _Mini-LSM: Build a Database Storage Engine in Rust_](https://skyzh.github.io/mini-lsm/)
 * [**Rust**: _Build your own Redis client and server_](https://tokio.rs/tokio/tutorial/setup)
 * [**Rust**: _Vector Database from Scratch_](https://skyzh.github.io/vector-db-from-scratch/)
+* [**Scala**: _A Practical Guide to Building a Cost-Based Query Planner_](https://github.com/tuannh982/query-planner-guide)
 
 #### Build your own `Distributed Systems`
 
