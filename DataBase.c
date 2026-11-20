@@ -24,8 +24,8 @@ typedef enum
 typedef struct
 {
   uint32_t id;
-  char username[coloumn_username_size];
-  char email[column_email_size];
+  char username[coloumn_username_size+1];
+  char email[column_email_size+1];
 } Row;
 // stuctute of enum type to represent "." cmds success and failure
 typedef enum
@@ -38,7 +38,10 @@ typedef enum
 {
   PREPARE_SUCCESS,
   PREPARE_UNRECOGNIZED_STATEMENT,
-  PREPARE_SYNTAX_ERROR
+  PREPARE_SYNTAX_ERROR,
+  PREPARE_STRING_TOO_LONG,
+  PREPARE_NEGATIVE_ID
+
 } PreparedResult;
 // structure of enum type to represent the query types
 typedef enum
@@ -127,18 +130,34 @@ void print_row(Row *row)
 {
   printf("(%d, %s, %s)\n", row->id, row->username, row->email);
 }
+
+PreparedResult prepare_insert(Statement* statement,InputBuffer* input){
+  statement->type = STATEMENT_INSERT;
+  char* keyword = strtok(input->buffer," ");
+    char* String_id = strtok(NULL," ");
+    char* user_name = strtok(NULL," ");
+    char* email = strtok(NULL," ");
+     if(keyword==NULL||String_id==NULL||user_name==NULL||email==NULL){
+      return PREPARE_SYNTAX_ERROR;
+     }
+     int id = atoi(String_id);
+     if(id<0){
+      return PREPARE_NEGATIVE_ID;
+     }
+     if(strlen(user_name)>coloumn_username_size||strlen(email)>column_email_size){
+      return PREPARE_STRING_TOO_LONG;
+     }
+     statement->row_to_insert.id = id;
+     strcpy(statement->row_to_insert.username,user_name);
+     strcpy(statement->row_to_insert.email,email);
+     return PREPARE_SUCCESS;
+}
 // function to set statement type and return success or unknoum cmd
 PreparedResult prepare_Statement(Statement *statement, InputBuffer *input)
 {
   if (strncmp("insert", input->buffer, 6) == 0)
-  {
-    statement->type = STATEMENT_INSERT;
-    int args = sscanf(input->buffer, "insert %d %s %s", &(statement->row_to_insert.id), &(statement->row_to_insert.username), &(statement->row_to_insert.email));
-    if (args < 3)
-    {
-      return PREPARE_SYNTAX_ERROR;
-    }
-    return PREPARE_SUCCESS;
+  { 
+    prepare_insert(statement,input);
   }
   else if (strncmp("select", input->buffer, 6) == 0)
   {
@@ -260,8 +279,14 @@ int main(int argc, char *argv[])
     case PREPARE_SYNTAX_ERROR:
       printf("Syntax error. Could not parse statement.\n");
       continue;
+    case PREPARE_STRING_TOO_LONG:
+       printf("String is too long.\n");
+       continue;
     case PREPARE_UNRECOGNIZED_STATEMENT:
       printf("Unrecognized command.. %s\n", input_buffer->buffer);
+      continue;
+    case PREPARE_NEGATIVE_ID:
+      printf("ID must be positive.\n");
       continue;
     }
     switch (execute_statement(&statement, table))
