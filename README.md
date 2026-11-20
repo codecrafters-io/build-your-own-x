@@ -407,6 +407,7 @@ It's a great way to learn.
 * [**C++**: _Building a Cross-Platform Shell in C++: What fork() Does That \_spawnvp() Can’t_](https://medium.com/@wasif.bscs24seecs/building-a-cross-platform-shell-in-c-what-fork-does-that-spawnvp-cant-02913b59d9c7)
 * [**Go**: _Writing a simple shell in Go_](https://sj14.gitlab.io/post/2018-07-01-go-unix-shell/)
 * [**Rust**: _Build Your Own Shell using Rust_](https://www.joshmcguigan.com/blog/build-your-own-shell-rust/)
+* [**Python**: _cmd | Python Standard Library_](https://realpython.com/ref/stdlib/cmd/#examples)
 
 #### Build your own `Template Engine`
 
