@@ -124,6 +124,7 @@ It's a great way to learn.
 * [**Python**: _Create a Twitter Bot in Python Using Tweepy_](https://medium.freecodecamp.org/creating-a-twitter-bot-in-python-with-tweepy-ac524157a607)
 * [**R**: _Build A Cryptocurrency Trading Bot with R_](https://towardsdatascience.com/build-a-cryptocurrency-trading-bot-with-r-1445c429e1b1)
 * [**Rust**: _A bot for Starcraft in Rust, C or any other language_](https://habr.com/en/post/436254/)
+* [**Python**: Build your Facebook bot Messenger faster ](https://ampalibe.readthedocs.io/en/latest/)
 
 #### Build your own `Command-Line Tool`
 
