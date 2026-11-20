@@ -1,0 +1,5 @@
+insert 1 cstack foo@bar.com
+insert 2 bob bob@example.com
+select 
+insert foo bar 1
+.exit
