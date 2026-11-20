@@ -424,6 +424,7 @@ It's a great way to learn.
 * [**Python**: _Create a Simple Python Text Editor!_](http://www.instructables.com/id/Create-a-Simple-Python-Text-Editor/)
 * [**Ruby**: _Build a Collaborative Text Editor Using Rails_](https://blog.aha.io/text-editor/)
 * [**Rust**: _Hecto: Build your own text editor in Rust_ ](https://philippflenker.com/hecto/)
+* [**TypeScript**: _Text CRDTs from scratch, in code!_](https://www.youtube.com/watch?v=_lQ2Q4Kzi1I) [video]
 
 #### Build your own `Visual Recognition System`
 
