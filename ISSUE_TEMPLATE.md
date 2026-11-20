@@ -42,3 +42,4 @@ Thanks for your contribution! If you're submitting a tutorial, please ensure it 
 * [ ] Web Browser
 * [ ] Web Server
 * [ ] Uncategorized
+* [ ] Fitness App
