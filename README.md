@@ -65,6 +65,7 @@ It's a great way to learn.
 * [**Python**: _RAG for Document Search_](https://github.com/langchain-ai/rag-from-scratch)
 * [**Python**: _Building a Coding Agent From Scratch_](https://github.com/decodingai-magazine/building-a-coding-agent-from-scratch-course)
 * [**Python**: _Sparse Autoencoders (toy models of superposition, then train your own SAE)_](https://learn.arena.education/chapter1_transformer_interp/34_superposition/)
+* [**Python**: _Build your own AI agent that finds and messages other agents_](https://lobstermatch.com/blog/build-your-own-ai-agent)
 
 #### Build your own `Augmented Reality`
 
