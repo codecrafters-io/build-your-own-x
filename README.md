@@ -22,6 +22,7 @@ It's a great way to learn.
 * [Front-end Framework / Library](#build-your-own-front-end-framework--library)
 * [Game](#build-your-own-game)
 * [Git](#build-your-own-git)
+* [Graphics Editor](#build-your-own-graphics-editor)
 * [Memory Allocator](#build-your-own-memory-allocator)
 * [Network Stack](#build-your-own-network-stack)
 * [Neural Network](#build-your-own-neural-network)
@@ -254,6 +255,10 @@ It's a great way to learn.
 * [**Python**: _Write yourself a Git!_](https://wyag.thb.lt/)
 * [**Python**: _ugit: Learn Git Internals by Building Git Yourself_](https://www.leshenko.net/p/ugit/)
 * [**Ruby**: _Rebuilding Git in Ruby_](https://robots.thoughtbot.com/rebuilding-git-in-ruby)
+  
+#### Build your own `Graphics Editor`
+
+* [**Rust**: _Build your own Paint: a drawing app from scratch_](https://www.buildyourownpaint.com/en)
 
 #### Build your own `Memory Allocator`
 
