@@ -230,7 +230,7 @@ It's a great way to learn.
 * [**Java**: _Code a 2D Game Engine using Java - Full Course for Beginners_](https://www.youtube.com/watch?v=025QFeZfeyM) [video]
 * [**Java**: _3D Game Development with LWJGL 3_](https://ahbejarano.gitbook.io/lwjglgamedev/)
 * [**JavaScript**: _2D breakout game using Phaser_](https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_breakout_game_Phaser)
-* [**JavaScript**: _How to Make Flappy Bird in HTML5 With Phaser_](http://www.lessmilk.com/tutorial/flappy-bird-phaser-1)
+* [**JavaScript**: _How to Make Flappy Bird in HTML5 With Phaser_](https://medium.com/@thomaspalef/how-to-make-flappy-bird-in-javascript-with-phaser-857fc3ae443c)
 * [**JavaScript**: _Developing Games with React, Redux, and SVG_](https://auth0.com/blog/developing-games-with-react-redux-and-svg-part-1/)
 * [**JavaScript**: _Build your own 8-Ball Pool game from scratch_](https://www.youtube.com/watch?v=aXwCrtAo4Wc) [video]
 * [**JavaScript**: _How to Make Your First Roguelike_](https://gamedevelopment.tutsplus.com/tutorials/how-to-make-your-first-roguelike--gamedev-13677)
